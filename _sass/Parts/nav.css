@@ -1,1 +1,1 @@
-nav li{background-color:green;display:block;float:right}
+#logo img{max-width:200px;max-height:100px}nav{padding-left:100%;float:right;display:block;background-color:green}nav ul{list-style:none}nav ul li{border-right:10px;margin:20px}nav ul li a{padding:20px;text-decoration:none;color:#000}nav ul li a :visited{color:#000}
