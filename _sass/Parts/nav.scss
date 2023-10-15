@@ -41,7 +41,7 @@ nav{
         float: right;
     }
         li{
-            float: right;
+            float: left;
             margin: 20px;
             border-right: #005eff thin solid;
             a{
@@ -50,10 +50,6 @@ nav{
                 text-decoration: none;
                 color: wheat;
                 text-transform: uppercase;
-
-                :visited{
-                    color: black;
-                }
-            }
+           }
         }
 }
