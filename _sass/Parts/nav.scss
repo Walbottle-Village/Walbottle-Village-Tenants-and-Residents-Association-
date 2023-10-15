@@ -6,6 +6,29 @@
     }   
 }
 
+#socials{
+    width: 20%;
+    display: block;
+    margin-left: 70%;
+    a{
+        color: black;
+    }
+    #facebook{
+        display: inline-block;
+        .fa-brands{
+            color: #005eff;
+            }
+    }
+    #email{
+        display: inline-block;
+    }
+}
+
+#site-name{
+    p{
+        font-size: xx-large;
+    }
+}
 
 nav{
     padding-left: 100%;
@@ -20,6 +43,7 @@ nav{
             border-right: 10px;
             margin: 20px;
             a{
+                display: block;
                 padding: 20px;
                 text-decoration: none;
                 color: black;

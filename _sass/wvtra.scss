@@ -8,6 +8,9 @@ html{
 body{
     
 }
+.right{
+       float: right;
+}
 @import "base/colors";
 @import "Parts/nav";
 @import "Parts/pages";
