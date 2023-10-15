@@ -1,24 +1,10 @@
 main{
-    
-    margin: 0 auto;
+    display: block;
+    float: none;
    
 
     p{
         width: 80%;
         margin: 0 auto;
-    }
-}
-
-div{
-    #news{
-        background-color: $pink;
-        min-height: 200px;
-
-        #post{
-            background-color: white;
-            h2{
-                color: $pink;
-            }
-        }
     }
 }

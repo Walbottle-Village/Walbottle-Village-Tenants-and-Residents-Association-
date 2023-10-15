@@ -31,27 +31,29 @@
 }
 
 nav{
-    padding-left: 100%;
-    float: right;
-    display: block;
+    
+    width: 100%;
+    display: inline-block;
     background-color: $green;
 
     ul{
         list-style: none;
-
+        float: right;
+    }
         li{
-            border-right: 10px;
+            float: right;
             margin: 20px;
+            border-right: #005eff thin solid;
             a{
                 display: block;
                 padding: 20px;
                 text-decoration: none;
-                color: black;
+                color: wheat;
+                text-transform: uppercase;
 
                 :visited{
                     color: black;
                 }
             }
         }
-    }
 }
