@@ -18,9 +18,6 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
-  gem 'algolia', '~> 2.3', '>= 2.3.2'
-  gem "jekyll-minifier"
   gem 'jekyll-default-layout'
   gem 'jekyll-webp'
-  gem 'jekyll-optional-front-matter'
 end
