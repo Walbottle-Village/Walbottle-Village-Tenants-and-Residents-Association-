@@ -1,17 +1,24 @@
 <!DOCTYPE html>
+<html lang="en">
+
 <head>
-    <link rel="preconnect" href="https://kit.fontawesome.com/"> 
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-<script src="https://kit.fontawesome.com/779ad359ab.js" crossorigin="anonymous"></script>
-<title>{{page.title}} | {{site.title}}</title>
-{% seo %}
+    <link rel="preconnect" href="https://kit.fontawesome.com/">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <script src="https://kit.fontawesome.com/779ad359ab.js" crossorigin="anonymous"></script>
+    <title>{{page.title}} | {{site.title}}</title>
+    {% seo %}
 </head>
-{% include social.html %}
-{% include nav.html %}
+    {% include social.html %}
+    {% include nav.html %}
 
-<main>
-    {{content}}
-</main>
-<footer>
+<body>
 
-</footer>
+    <main>
+        {{content}}
+    </main>
+    <footer>
+
+    </footer>
+</body>
+
+</html>
