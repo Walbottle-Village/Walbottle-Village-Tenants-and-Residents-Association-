@@ -10,7 +10,9 @@
 </head>
     {% include social.html %}
     {% include nav.html %}
-
+    {% if  page.header.overlay_image or page.header.image %}
+      {% include page__hero.html %}
+    {% endif %}
 <body>
 
     <main>

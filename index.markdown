@@ -4,6 +4,8 @@
 
 layout: default
 title: Home
+header:
+  image: /assets/images/home.PNG
 ---
 
 
