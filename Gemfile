@@ -19,5 +19,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem 'jekyll-default-layout'
   gem 'jekyll-webp'
-  gem 'sassc'
+
 end
