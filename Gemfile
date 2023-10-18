@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-
+gem 'faraday_middleware-request-retry', '~> 0.2.0'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-sitemap"
