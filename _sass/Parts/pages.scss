@@ -2,11 +2,6 @@ main{
     display: block;
     float: none;
    
-
-    p{
-        width: 80%;
-        margin: 0 auto;
-    }
 }
 
 div{
@@ -16,6 +11,12 @@ div{
         background-size: contain;
         height: 200px;
         background-repeat: no-repeat;
+        }
+
+        #welcome{
+            border: black thick solid;
+            width: 70%;
+            margin: 0 auto;
         }
 
 }
