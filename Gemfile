@@ -8,7 +8,6 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-sitemap"
@@ -20,4 +19,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem 'jekyll-default-layout'
   gem 'jekyll-webp'
+  gem 'sassc'
 end
