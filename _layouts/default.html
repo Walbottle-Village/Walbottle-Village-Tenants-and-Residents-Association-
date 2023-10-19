@@ -6,17 +6,14 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
 	<title>Welcome to Walbottle Village Tenants &amp; Residents Association Website</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
-	<meta name="keywords" content="">
 	     <!-- Favicon -->  
-         {{'/' | }}
-	<link rel="apple-touch-icon" sizes="180x180" href="{{assets/images/fav/apple-touch-icon.png | relative_url}}">
-	<link rel="icon" type="image/png" sizes="32x32" href="{{assets/images/fav/favicon-32x32.png | relative_url}}">
-	<link rel="icon" type="image/png" sizes="16x16" href="{{assets//images/fav/favicon-16x16.png | relative_url}}">
-	<link rel="manifest" href="{{assets/images/fav/site.webmanifest | relative_url}}">
-	<link rel="mask-icon" href="{{assets/images/fav/safari-pinned-tab.svg | relative_url}}" color="#5bbad5">
-	<link rel="shortcut icon" href="{{assets/images/fav/favicon.ico | relative_url}}">
+         
+	<link rel="apple-touch-icon" sizes="180x180" href="{{'assets/images/fav/apple-touch-icon.png' | relative_url}}">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{'assets/images/fav/favicon-32x32.png' | relative_url}}">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{'assets//images/fav/favicon-16x16.png' | relative_url}}">
+	<link rel="manifest" href="{{'assets/images/fav/site.webmanifest' | relative_url}}">
+	<link rel="mask-icon" href="{{'assets/images/fav/safari-pinned-tab.svg' | relative_url}}" color="#5bbad5">
+	<link rel="shortcut icon" href="{{'assets/images/fav/favicon.ico' | relative_url}}">
 	<meta name="msapplication-TileColor" content="#b91d47">
 	<meta name="msapplication-config" content="/img/fav/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
@@ -42,67 +39,12 @@
 <body id="{{page.name}}">
 	
     <div class="container-fluid masthead">
-        <div class="row">
-                    <div class="col-md-2 col-sm-3 col-xs-5 logo">
-                        <a href="{{'/' | relative_url}}" title="home page" target="_self"><img src="{{'assets/images/WalbottleVillageLogo.svg' | relative_url}}" alt="Walbottle Village Tenants & Residents Association logo" onerror="this.onerror=null; this.src="{{'assests/images/WalbottleVillageLogo.svg' | relative_url}}" class="img-responsive"/></a>
-                    </div>
-                    <div class="col-md-10 col-sm-9 col-xs-7 pull-right info hidden-xs">
-                        <div class="detail col-lg-12 col-md-12">
-                      <ul class="social pull-right">
-                        <li><a href="#" title="visit our Facebook group in a new window" target="_blank"><img src="{{'assets/images/facebook.png' | relative_url}}" width="auto" height="30px" alt="facebook logo"> Our Facebook Group</a></li>
-                        <li><a href="mailto:" title="email Walbottle Village News" target="_blank"><img src="{{'assets/images/email.png' | relative_url}}" width="auto" height="30px" alt="email icon"> Email Walbottle Village News</a></li>
-                      </ul>
-                        </div>
-                        <div class="col-lg-12">
-                        <h1 class="hidden-sm hidden-xs">Walbottle Village News</h1>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 hidden-lg hidden-md"><h1>Walbottle Village News</h1></div>
-        </div>
+      {% include social.html %}    
     </div> <!-- /container-fluid -->
     <div class="container-fluid navigation">
         <div class="row">
             <nav class="navbar navbar-default">
-                  <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                          <span class="icon-bar"></span>
-                          <span class="icon-bar"></span>
-                          <span class="icon-bar"></span>
-                        </button>
-                  </div>
-                  <div id="navbar" class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
-                        <li><a href="index.html" title="home page" target="_self" class="home" accessKey="h">Home</a></li>
-                        <li class="dropdown"><a href="#" title="activity groups" target="_self" class="dropdown-toggle activity" data-toggle="dropdown" accessKey="g">Activity Groups</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#" title="access Group" target="_self" class="ag-access" accessKey="">Access Group</a></li>
-                                <li><a href="#" title="gardening group" target="_self" class="ag-garden" accessKey="">Gardening Group</a></li>
-                                <li><a href="#" title="kids corner" target="_self" class="ag-kids" accessKey="">Kids Corner</a></li>
-                                <li><a href="#" title="neighbourhood watch" target="_self" class="activity" accessKey="">Neighbourhood Watch</a></li>
-                                <li><a href="#" title="photography group" target="_self" class="ag-photo" accessKey="">Photography Group</a></li>
-                                <li><a href="#" title="Walbottle choristers group" target="_self" class="ag-choir" accessKey="">Walbottle Choristers</a></li>
-                                <li><a href="#" title="Walbottle walks group" target="_self" class="ag-walks" accessKey="">Walbottle Walks</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown"><a href="#" title="History of Walbottle" target="_self" class="dropdown-toggle history" data-toggle="dropdown" accesskey="w">Walbottle History</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#" title="Walbottle Festival 2022" target="_self" class="h-festival" accessKey="">Walbottle Festival 2022</a></li>
-                                <li><a href="#" title="Walbottle Voices" target="_self" class="h-voices" accessKey="">Walbottle Voices</a></li>
-                                <li><a href="#" title="maps of Walbottle village" target="_self" class="h-maps" accessKey="">Maps</a></li>
-                                <li><a href="#" title="old photos of Walbottle village" target="_self" class="h-photos" accessKey="">Photos</a></li>
-                                <li><a href="#" title="about Walbottle primary school" target="_self" class="h-primary" accessKey="">Walbottle Primary School</a></li>
-                                <li><a href="#" title="about Walbottle campus" target="_self" class="h-campus" accessKey="">Walbottle Campus</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#" title="latest news and photo gallery" target="_self" class="news" accesskey="n">News &amp; Gallery</a></li>
-                        <li><a href="#" title="online shop" target="_self" class="shop" accesskey="s">Shop</a></li>
-                        <li><a href="#" title="about WVT&R Association" target="_self" class="about" accesskey="a">About Us</a></li>
-                        <li><a href="#" title="contact WVT&R Association" target="_self" class="contact" accesskey="c">Contact</a></li>
-                        
-                        <li class="visible-xs"><a href="#" title="contact WVT&R Association" target="_self" class="contact" accesskey="c">Our Facebook Group</a></li>
-                        <li class="visible-xs"><a href="#" title="contact WVT&R Association" target="_self" class="contact" accesskey="c">Email Walbottle Village News</a></li>
-                    </ul>
-                  </div><!--/.nav-collapse -->
+              {% include nav.html %}
             </nav>
         </div>
     </div> <!-- /container -->
@@ -120,5 +62,5 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-  <script src="{{assets/js/ie10-viewport-bug-workaround.js | relative_url}} "></script>
+  <script src="{{'assets/js/ie10-viewport-bug-workaround.js' | relative_url}} "></script>
 </html>
