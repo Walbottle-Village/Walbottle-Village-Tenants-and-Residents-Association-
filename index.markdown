@@ -23,7 +23,7 @@ title: Home
 			  <h5>Creating a more neighbourly village and a safe, beautiful place to live</h5>
 			</div>
 			<div class="col-lg-5 col-md-5 hidden-sm hidden-xs">
-		    <img src="assets/images/wviBuilding.jpg" class="img-responsive" alt="Walbottle Village Institute"/>
+		    <img src="assets/images/Wallbottle-May-23-10.jpg" class="img-responsive" alt="Walbottle Village Institute"/>
 			</div>
 		</div>
 		<div class="col-lg-1 col-md-1"></div>

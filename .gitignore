@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 vendor
 .css
+assets/js/.DS_Store
