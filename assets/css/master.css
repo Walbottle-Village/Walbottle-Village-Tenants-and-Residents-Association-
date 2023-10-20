@@ -93,8 +93,8 @@ body#home .navbar-nav li a.home, body#activity .navbar-nav li a.activity, body#h
 .featurePane .more {background:#941d4c;color:#fff;font-size:90%;font-weight:600;width:100%;text-decoration:none;text-transform:uppercase;border:none;text-align:right;padding:10px 12px 8px;letter-spacing:0.05em;position:absolute;bottom:0;}
 button.more span {font-size:80%;}
 
-.slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-5%;background:url('../img/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
-.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-5%;background:url('../img/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
+.slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-5%;background:url('../../assets/images/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
+.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-5%;background:url('../../assets/images/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
 .slideLeft:hover, .slideRight:hover {opacity:1;}
 .slideLeft:focus, .slideRight:focus {outline:none;}
 
@@ -109,7 +109,7 @@ button.more span {font-size:80%;}
 .activity ul li a:hover {color:#088137;}
 
 
-.photoPanel {background:#088137 url('../img/white-90x90.jpg') repeat-x top left;padding-bottom:60px;}
+.photoPanel {background:#088137 url('assets/image/white-90x90.jpg') repeat-x top left;padding-bottom:60px;}
 .basePhoto01 {margin-right:40px;}
 .basePhoto03 {margin-left:40px;}
 
