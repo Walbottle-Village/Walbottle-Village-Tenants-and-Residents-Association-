@@ -42,7 +42,7 @@ title: Home
 
 			{% for event in site.data.events %}
 				<li class="featurePane col-xs-4">
-					<a href="about-choristers.html" title="visit the Walbottle Choisters group page">
+					<a href="{{event.link}}" title="visit the Walbottle Choisters group page">
 					<img src="{{event.image}}" class="img-responsive" alt="walbottle choristers"/>
 					<h3>{{event.name}}</h3>
 					<p>{{event.about}}</p>
