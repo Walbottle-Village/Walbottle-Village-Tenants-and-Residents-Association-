@@ -25,8 +25,8 @@
 </div>
 <div id="navbar" class="navbar-collapse collapse">
 <ul class="nav navbar-nav">
-    <li><a href="index.html" title="home page" target="_self" class="home" accessKey="h">Home</a></li>
-    <li class="dropdown"><a href="#" title="activity groups" target="_self" class="dropdown-toggle activity" data-toggle="dropdown" accessKey="g">Activity Groups</a>
+    <li><a href="{{ '/' | relative_url}}" title="home page" target="_self" class="home" accessKey="h">Home</a></li>
+    <li class="dropdown"><a href="{{ '/actity_groups/' | relative_url}}" title="activity groups" target="_self" class="dropdown-toggle activity" data-toggle="dropdown" accessKey="g">Activity Groups</a>
         <ul class="dropdown-menu">
             <li><a href="#" title="access Group" target="_self" class="ag-access" accessKey="">Access Group</a></li>
             <li><a href="#" title="gardening group" target="_self" class="ag-garden" accessKey="">Gardening Group</a></li>
@@ -47,10 +47,10 @@
             <li><a href="#" title="about Walbottle campus" target="_self" class="h-campus" accessKey="">Walbottle Campus</a></li>
         </ul>
     </li>
-    <li><a href="#" title="latest news and photo gallery" target="_self" class="news" accesskey="n">News &amp; Gallery</a></li>
-    <li><a href="#" title="online shop" target="_self" class="shop" accesskey="s">Shop</a></li>
-    <li><a href="#" title="about WVT&R Association" target="_self" class="about" accesskey="a">About Us</a></li>
-    <li><a href="#" title="contact WVT&R Association" target="_self" class="contact" accesskey="c">Contact</a></li>
+    <li><a href="{{'/blog/' | relative_url}}" title="latest news and photo gallery" target="_self" class="news" accesskey="n">News &amp; Gallery</a></li>
+    <li><a href="{{'/shop/' | relative_url}}" title="online shop" target="_self" class="shop" accesskey="s">Shop</a></li>
+    <li><a href="{{'/about_us/' | relative_url}}" title="about WVT&R Association" target="_self" class="about" accesskey="a">About Us</a></li>
+    <li><a href="{{/contact/ | relative_url}}" title="contact WVT&R Association" target="_self" class="contact" accesskey="c">Contact</a></li>
     
     <li class="visible-xs"><a href="#" title="contact WVT&R Association" target="_self" class="contact" accesskey="c">Our Facebook Group</a></li>
     <li class="visible-xs"><a href="#" title="contact WVT&R Association" target="_self" class="contact" accesskey="c">Email Walbottle Village News</a></li>
