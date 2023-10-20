@@ -23,7 +23,7 @@ title: Home
 			  <h5>Creating a more neighbourly village and a safe, beautiful place to live</h5>
 			</div>
 			<div class="col-lg-5 col-md-5 hidden-sm hidden-xs">
-		    <<img src="assets/images/Wallbottle-May-23-10.jpg" class="img-responsive" alt="Walbottle Village Institute"/>
+		    <<img src="assets/images/wviBuilding.jpg" class="img-responsive" alt="Walbottle Village Institute"/>
 			</div>
 		</div>
 		<div class="col-lg-1 col-md-1"></div>
@@ -90,15 +90,15 @@ title: Home
 	<div class="row">
 		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"></div>
 		<div class="basePhoto01 col-xs-3">
-	    <img src="img/basePic01.jpg" class="img-responsive" alt="Walbottle Dene"/>
+	    <img src="assets/images/basePic01.jpg" class="img-responsive" alt="Walbottle Dene"/>
 		</div>
 		
 		<div class="basePhoto02 col-xs-3">
-	    <img src="img/basePic02.jpg" class="img-responsive" alt="A brick from Walbottle brickworks"/>
+	    <img src="assets/images/basePic02.jpg" class="img-responsive" alt="A brick from Walbottle brickworks"/>
 		</div>
 		
 		<div class="basePhoto03 col-xs-3">
-	    <img src="img/basePic03.jpg" class="img-responsive" alt="Walbottle Village Institute"/>
+	    <img src="assets/images/basePic03.jpg" class="img-responsive" alt="Walbottle Village Institute"/>
 		</div>
 		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"></div>
 	</div>
