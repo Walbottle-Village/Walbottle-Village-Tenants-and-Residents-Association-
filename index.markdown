@@ -19,7 +19,7 @@ title: Home
 			<div class="col-lg-7 col-md-7">
 			  <h2>Welcome</h2>
 			  <p><strong>The Walbottle Village Tenants and Residents Association was founded in 2020 during Covid lockdown to bring relief to residents of Walbottle Village by encouraging a community spirit and assisting the most vulnerable members of the community.</strong></p>
-			  <p>The remit is expanding post lockdown to include a gardening club, a history group a food bank collection and organising social events which are open to all. We pride ourselves in being fully inclusive, having minority groups on the committee.</p>
+			  <p>The remit is expanding post lockdown to include a gardening club, a history group, a food bank collection and organising social events which are open to all. We pride ourselves in being fully inclusive, having minority groups on the committee.</p>
 			  <h5>Creating a more neighbourly village and a safe, beautiful place to live</h5>
 			</div>
 			<div class="col-lg-5 col-md-5 hidden-sm hidden-xs">
