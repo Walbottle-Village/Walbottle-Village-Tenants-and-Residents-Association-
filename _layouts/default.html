@@ -39,7 +39,7 @@
     <![endif]-->
     {% seo title=false %}
 </head>
-<body id="{{page.name}}">
+<body id="{{page.title}}">
 	
     <div class="container-fluid masthead">
       {% include social.html %}    
@@ -66,78 +66,78 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
   <script src="{{'assets/js/ie10-viewport-bug-workaround.js' | relative_url}} "></script>
-
-  		<!-- Initiate light slider -->
-	
-      <script src="{{'assets/js/lightslider.js' | relative_url}} "></script>
-      <script type="text/javascript">
-        $(document).ready(function() {
+  {% if page.title == "Home"%}
+		<!-- Initiate light slider -->
+    <script src="assets/js/lightslider.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
         var slider2 = $("#lightSlider2").lightSlider({
-            item: 3,
+        item: 3,
         slideMove: 1,
         slideMargin: 2,
         speed: 2500,
-          pause: 5500,
-          auto:false,
-          mode:'slide',
-          controls:true,
-          loop:true,
-          pager:false,
-          keyPress:true
-          }); 
+            pause: 5500,
+            auto:false,
+            mode:'slide',
+            controls:true,
+            loop:true,
+            pager:false,
+            keyPress:true
+            }); 
           $('#goToPrevSlideOne').on('click', function () {
-              slider2.goToPrevSlide();
-          });
-          $('#goToNextSlideOne').on('click', function () {
-            slider2.goToNextSlide();
-          });
-        });
-      </script>
-      
-      <script type="text/javascript">
-        $(document).ready(function() {
+                slider2.goToPrevSlide();
+            });
+            $('#goToNextSlideOne').on('click', function () {
+                slider2.goToNextSlide();
+            });
+      });
+    </script>
+    
+    <script type="text/javascript">
+      $(document).ready(function() {
           var slider = $('#lightSlider').lightSlider({
-            item: 3,
+              item: 3,
         slideMove: 1, // slidemove will be 1 if loop is true
-            slideMargin: 30,
+        slideMargin: 30,
         speed: 2000,
         pager:false,
         keyPress:false,
         controls:false,
         responsive: [
-          {
-            breakpoint:1200,
-            settings: {
-              item:3,
-              slideMove:3,
-              slideMargin:50,
-              speed: 1000,
+            {
+                breakpoint:1200,
+                settings: {
+                    item:3,
+                    slideMove:3,
+                    slideMargin:50,
+                    speed: 1000,
+                }
+            },{
+                breakpoint:992,
+                settings: {
+                    item:2,
+                    slideMove:2,
+                    slideMargin:50,
+                    speed: 1000,
+                }
+            },{
+                breakpoint:768,
+                settings: {
+                    item:1,
+                    slideMove:1,
+                    speed: 500,
+                }
             }
-          },{
-            breakpoint:992,
-            settings: {
-              item:2,
-              slideMove:2,
-              slideMargin:50,
-              speed: 1000,
-            }
-          },{
-            breakpoint:768,
-            settings: {
-              item:1,
-              slideMove:1,
-              speed: 500,
-            }
-          }
         ],
-        controls: false
-    });
-    $('#goToPrevSlide').on('click', function () {
-        slider.goToPrevSlide();
-    });
-    $('#goToNextSlide').on('click', function () {
-        slider.goToNextSlide();
-    });
-        });
-      </script>
+    controls: false
+});
+$('#goToPrevSlide').on('click', function () {
+    slider.goToPrevSlide();
+});
+$('#goToNextSlide').on('click', function () {
+    slider.goToNextSlide();
+});
+      });
+    </script>
+    {% endif %}
 </html>
