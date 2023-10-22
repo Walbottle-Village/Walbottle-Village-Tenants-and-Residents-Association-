@@ -21,7 +21,7 @@
 title: WVTRA
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-Creating a more neighbourly village and a safe, beautiful place to live.
+  Creating a more neighbourly village and a safe, beautiful place to live.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
