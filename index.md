@@ -60,7 +60,6 @@ alt="aerial view of Walbottle Village"/>
 	<!-- end art gallery light Slider -->
 		</div>
 	</div>
-	</div>
 </div>
 </div>
 </div>

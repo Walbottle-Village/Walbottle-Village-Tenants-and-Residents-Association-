@@ -57,8 +57,7 @@
     <footer class="container-fluid footer">
         {% include footer.html %}
     </footer>
-</body>
- 
+
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -67,6 +66,8 @@
   <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
   <script src="{{'assets/js/ie10-viewport-bug-workaround.js' | relative_url}} "></script>
   {% if page.title == "Home"%}
+
+  <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
 		<!-- Initiate light slider -->
     <script src="assets/js/lightslider.js"></script>
     <script type="text/javascript">
@@ -140,4 +141,6 @@ $('#goToNextSlide').on('click', function () {
       });
     </script>
     {% endif %}
+</body>
+ 
 </html>
