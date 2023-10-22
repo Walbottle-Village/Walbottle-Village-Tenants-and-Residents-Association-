@@ -9,7 +9,9 @@ title: Home
 <div class="container-fluid">
 	<div class="row">
 <div class="mastImg">
-<img src="assets/images/mastheadImg-home.jpg" class="img-responsive" alt="aerial view of Walbottle Village"/>
+<img src="assets/images/mastheadImg-home.jpg" class="img-responsive" 
+alt="aerial view of Walbottle Village"/>
+
 		</div>
 
 <div class="container-fluid welcome">

@@ -34,10 +34,8 @@ permalink: /:categories/:title/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
- 
-sass:
-  sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  - jekyll-redirect-from
+
 
 include:
   - _pages
