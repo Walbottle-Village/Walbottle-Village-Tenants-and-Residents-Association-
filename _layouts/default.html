@@ -42,12 +42,12 @@
 <body id="{{page.title}}">
 	
     <div class="container-fluid masthead">
-      {% include social.html %}    
+      {% include_cached social.html %}    
     </div> <!-- /container-fluid -->
     <div class="container-fluid navigation">
         <div class="row">
             <nav class="navbar navbar-default">
-              {% include nav.html %}
+              {% include_cached nav.html %}
             </nav>
         </div>
     </div> <!-- /container -->
@@ -55,7 +55,7 @@
         {{content}}
     </main>
     <footer class="container-fluid footer">
-        {% include footer.html %}
+        {% include_cached footer.html %}
     </footer>
 
     <!-- Bootstrap core JavaScript
