@@ -67,7 +67,7 @@ a[href^="tel"]{
 .navbar-nav li {margin:6px 0px 0px;border-right:solid #fff 2px;}
 .navbar-nav li.open a {background:transparent;}
 .navbar-nav li a {color:#fff !important;font-size:100%;font-weight:400;letter-spacing:0.05em;text-transform:uppercase;padding:0px 15px 0px;}
-.navbar-nav li:last-child {border-right:none;}
+.navbar-nav li:last-child {border-right:none !important;}
 .navbar-nav li a.contact {padding-right:0;}
 .navbar-nav li a:visited {color:rgba(255,255,255,100);}
 .navbar-nav > li > a:hover  {color:#f6e04f !important;}
