@@ -9,36 +9,11 @@
 
 	<title>Welcome to Walbottle Village Tenants &amp; Residents Association Website</title>
 	     <!-- Favicon -->  
-         
-	<link rel="apple-touch-icon" sizes="180x180" href="{{'assets/images/fav/apple-touch-icon.png' | relative_url}}">
-	<link rel="icon" type="image/png" sizes="32x32" href="{{'assets/images/fav/favicon-32x32.png' | relative_url}}">
-	<link rel="icon" type="image/png" sizes="16x16" href="{{'assets//images/fav/favicon-16x16.png' | relative_url}}">
-	<link rel="manifest" href="{{'assets/images/fav/site.webmanifest' | relative_url}}">
-	<link rel="mask-icon" href="{{'assets/images/fav/safari-pinned-tab.svg' | relative_url}}" color="#5bbad5">
-	<link rel="shortcut icon" href="{{'assets/images/fav/favicon.ico' | relative_url}}">
-	<meta name="msapplication-TileColor" content="#b91d47">
-	<meta name="msapplication-config" content="{{'assests/images/fav/browserconfig.xml' | relative_url}}">
-	<meta name="theme-color" content="#ffffff">
+         {% include_cached icons.html %}
 
     <!-- Bootstrap core CSS -->
-  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ '/assets/css/master.css' | relative_url }}">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Tiro+Telugu&display=swap">
-    <!-- light Slider CSS file -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/css/lightslider.css">
-
-    <!--cookie bot-->
-    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="12a2999f-ede7-46d0-af24-d3e3427291e9" type="text/javascript" async></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link rel="stylesheet" href="{{ '/assets/css/ie10-viewport-bug-workaround.css' | relative_url }}">
-
+        {% include_cached styles.html %}
    
-   
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
     {% seo title=false %}
 </head>
 <body id="{{page.title}}">
