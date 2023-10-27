@@ -1,0 +1,52 @@
+
+<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+<!-- Initiate light slider -->
+<!-- <script src="assets/js/lightslider.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+      var slider = $('#lightSlider').lightSlider({
+          item: 3,
+    slideMove: 1, // slidemove will be 1 if loop is true
+    slideMargin: 30,
+    speed: 2000,
+    pager:false,
+    keyPress:false,
+    controls:false,
+    responsive: [
+        {
+            breakpoint:1200,
+            settings: {
+                item:3,
+                slideMove:3,
+                slideMargin:50,
+                speed: 1000,
+            }
+        },{
+            breakpoint:992,
+            settings: {
+                item:2,
+                slideMove:2,
+                slideMargin:50,
+                speed: 1000,
+            }
+        },{
+            breakpoint:768,
+            settings: {
+                item:1,
+                slideMove:1,
+                speed: 500,
+            }
+        }
+    ],
+controls: false
+});
+$('#goToPrevSlide').on('click', function () {
+slider.goToPrevSlide();
+});
+$('#goToNextSlide').on('click', function () {
+slider.goToNextSlide();
+});
+  });
+</script>
