@@ -34,69 +34,9 @@
     <footer class="container-fluid footer">
         {% include_cached footer.html %}
     </footer>
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/js/bootstrap.min.js"></script>
-    <!--Cookie banner-->
-    <script id="CookieDeclaration" src="https://consent.cookiebot.com/12a2999f-ede7-46d0-af24-d3e3427291e9/cd.js" type="text/javascript" async></script>
-  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-  <script src="{{'assets/js/ie10-viewport-bug-workaround.js' | relative_url}} "></script>
+    {% include_cached loadjs.html %}
   {% if page.title == "Home"%}
-
-  <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
-	<!-- Initiate light slider -->
-   <!-- <script src="assets/js/lightslider.js"></script> -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js"></script>
-	
-    <script type="text/javascript">
-      $(document).ready(function() {
-          var slider = $('#lightSlider').lightSlider({
-              item: 3,
-        slideMove: 1, // slidemove will be 1 if loop is true
-        slideMargin: 30,
-        speed: 2000,
-        pager:false,
-        keyPress:false,
-        controls:false,
-        responsive: [
-            {
-                breakpoint:1200,
-                settings: {
-                    item:3,
-                    slideMove:3,
-                    slideMargin:50,
-                    speed: 1000,
-                }
-            },{
-                breakpoint:992,
-                settings: {
-                    item:2,
-                    slideMove:2,
-                    slideMargin:50,
-                    speed: 1000,
-                }
-            },{
-                breakpoint:768,
-                settings: {
-                    item:1,
-                    slideMove:1,
-                    speed: 500,
-                }
-            }
-        ],
-    controls: false
-});
-$('#goToPrevSlide').on('click', function () {
-    slider.goToPrevSlide();
-});
-$('#goToNextSlide').on('click', function () {
-    slider.goToNextSlide();
-});
-      });
-    </script>
+    {% include_cached lightslider.html %}
     {% endif %}
 </body>
  
