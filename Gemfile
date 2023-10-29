@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'faraday_middleware-request-retry', '~> 0.2.0'
-
 # If you have any plugins, put them here!
+
 group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
@@ -13,4 +13,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem 'jekyll-include-cache'
   gem 'jekyll-webp'
+  gem 'jekyll-minifier'
 end
