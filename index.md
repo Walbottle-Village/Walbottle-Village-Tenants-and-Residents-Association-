@@ -87,7 +87,7 @@ alt="aerial view of Walbottle Village"/>
 			<p>We would love to hear from our residents. Whether you would like to volunteer, suggest a Group, help create a neighbourly village or would like more information about anything you have read in our newsletter or website please contact us using the form below.</p>
 			<p class="required"><span class="req">*</span> donates required form fields.</p>
 			
-			<form class="form-horizontal" action="https://clockwork-design.co.uk/clients/wvtra/formmail.php" method="post" name="Enquiry" data-toggle="validator" role="form">
+			<form class="form-horizontal" id="form" action="https://clockwork-design.co.uk/clients/wvtra/formmail.php" method="post" name="Enquiry" data-toggle="validator" role="form">
 				<input type="hidden" name="recipients" value="mailto:walbottlera@gmail.com,chris@clockwork-design.co.uk,peter@petersweb.me.uk" />
 				<!-- this derives (creates) "email" and "realname" special fields from the input fields -->
 				<input type="hidden" name="derive_fields" value="email=Email_Address,realname=Full_Name" />
@@ -129,7 +129,7 @@ alt="aerial view of Walbottle Village"/>
 
 				<div class="form-group">
 					<div class="col-sm-12">
-						<button type="submit" class="btn button block pull-right">Send message</button>
+						<button type="submit" class="btn button block pull-right h-captcha"  data-sitekey="90b64996-eadc-483c-8104-b8ca5c8f538" data-callback="onSubmit">Send message</button>
 					</div>
 				</div>
 			</form>
@@ -154,3 +154,8 @@ alt="aerial view of Walbottle Village"/>
 		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"></div>
 	</div>
 	</div>
+	<script type="text/javascript">
+  function onSubmit(token) {
+    document.getElementById('form').submit();
+  }
+</script>
