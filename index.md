@@ -126,7 +126,7 @@ alt="aerial view of Walbottle Village"/>
 						<textarea class="form-control" id="message" name="Message" rows="4" placeholder="Your message" data-error="Please enter your message" required></textarea>
 					</div>
 				</div>
-<div class="h-captcha" data-sitekey="90b64996-eadc-483c-8104-b8ca5c8f538a" data-size="compact"></div>
+<div class="h-captcha" data-sitekey="f570f516-ee74-42ce-bce0-8232780da259" data-size="compact"></div>
 				<div class="form-group">
 					<div class="col-sm-12">
 						<button type="submit" class="btn button block pull-right h-captcha">Send message</button>
