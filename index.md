@@ -126,10 +126,10 @@ alt="aerial view of Walbottle Village"/>
 						<textarea class="form-control" id="message" name="Message" rows="4" placeholder="Your message" data-error="Please enter your message" required></textarea>
 					</div>
 				</div>
-
+<div class="h-captcha" data-sitekey="90b64996-eadc-483c-8104-b8ca5c8f538a" data-size="compact"></div>
 				<div class="form-group">
 					<div class="col-sm-12">
-						<button type="submit" class="btn button block pull-right h-captcha"  data-sitekey="90b64996-eadc-483c-8104-b8ca5c8f538" data-callback="onSubmit">Send message</button>
+						<button type="submit" class="btn button block pull-right h-captcha">Send message</button>
 					</div>
 				</div>
 			</form>
@@ -154,8 +154,3 @@ alt="aerial view of Walbottle Village"/>
 		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"></div>
 	</div>
 	</div>
-	<script type="text/javascript">
-  function onSubmit(token) {
-    document.getElementById('form').submit();
-  }
-</script>
