@@ -104,7 +104,6 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    jekyll-webp (1.0.0)
     jemoji (0.13.0)
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
@@ -170,7 +169,6 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-webp
   jemoji
   liquid-c
   wdm (>= 0.1.0)
