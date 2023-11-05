@@ -113,7 +113,7 @@ body#home .navbar-nav li a.home, body#voices .navbar-nav li a.history, body#maps
 button.more span {font-size:80%;}
 
 .slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-5%;background:url('../images/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
-.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-5%;background:url('../images/cntrols-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
+.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-5%;background:url('../images/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
 .slideLeft:hover, .slideRight:hover {opacity:1;}
 .slideLeft:focus, .slideRight:focus {outline:none;}
 
