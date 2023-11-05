@@ -62,14 +62,16 @@ a[href^="tel"]{
 .navbar-default {background-color:#088137;border-color:transparent;}
 .navbar .container-fluid {padding-left:0;}
 .navbar-collapse {padding-left:0;}
-ul.navbar-nav li {margin:6px 0px 0px;border-right:solid #fff 2px;}
+.navbar-nav li {margin:6px 0px 0px;border-right:solid #fff 2px;}
 .navbar-nav li.open a {background:transparent;}
 .navbar-nav li a {color:#fff !important;font-size:100%;font-weight:400;letter-spacing:0.05em;text-transform:uppercase;padding:0px 15px 0px;}
-ul.navbar-nav li:last-child {border-right:none !important;}
+.navbar-nav li:last-child {border-right:none !important;}
 .navbar-nav li a.contact {padding-right:0;}
 .navbar-nav li a:visited {color:rgba(255,255,255,100);}
 .navbar-nav > li > a:hover  {color:#f6e04f !important;}
-body#home .navbar-nav li a.home, body#activity .navbar-nav li a.activity, body#history .navbar-nav li a.history, body#news .navbar-nav li a.news, body#shop .navbar-nav li a.shop, body#about .navbar-nav li a.about, body#contact .navbar-nav li a.contact {color:#f6e04f !important;}
+
+body#home .navbar-nav li a.home, body#voices .navbar-nav li a.history, body#maps .navbar-nav li a.histry, body#photos .navbar-nav li a.history, body#primary .navbar-nav li a.history, body#campus .navbar-nav li a.history, body#photography .navbar-nav li a.activity, body#walks .navbar-nav li a.activity, body#choir .navbar-nav li a.activity, body#gardening .navbar-nav li a.activity, body#kids .navbar-nav li a.activity, body#access .navbar-nav li a.activity, body#festival .navbar-nav li a.history, body#news .navbar-nav li a.news, body#shop .navbar-nav li a.shop, body#about .navbar-nav li a.about, body#contact .navbar-nav li a.contact, body#gardening ul.dropdown-menu li a.ag-garden, body#access ul.dropdown-menu li a.ag-access, body#kids ul.dropdown-menu li a.ag-kids, body#photography ul.dropdown-menu li a.ag-photo, body#choir ul.dropdown-menu li a.ag-choir, body#walks ul.dropdown-menu li a.ag-walks, body#festival ul.dropdown-menu li a.h-festival, body#voices ul.dropdown-menu li a.h-voices, body#maps ul.dropdown-menu li a.h-maps, body#maps ul.dropdown-menu li a.h-maps, body#photos ul.dropdown-menu li a.h-photos, body#primary ul.dropdown-menu li a.h-primary, body#campus ul.dropdown-menu li a.h-campus {color:#f6e04f !important;}
+
 .dropdown-menu {position: absolute;top: 100%;left: 0;z-index: 1000;display: none;float: left;min-width: 160px;padding: 5px 0;margin: 10px 0 0;font-size: 14px;text-align: left;list-style: none;background-color: rgba(8,129,55,.7);background-clip: padding-box;border: none;border-radius: 4px;-webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);box-shadow: 0 6px 12px rgba(0,0,0,.175);}
 .navbar-nav>li>.dropdown-menu {margin-top: 5px;border-top-left-radius: 0;border-top-right-radius: 0;}
 .dropdown-menu li {border-right:none;margin-top:10px;}
@@ -82,8 +84,24 @@ body#home .navbar-nav li a.home, body#activity .navbar-nav li a.activity, body#h
 .welcomePanel h5 {line-height:140%;}
 .welcomePanel div {position:relative;}
 .welcomePanel div img {position:absolute;bottom:0;left:0px;margin-bottom:10px;}
+.welcomePanel h3 {font-size:130%;color:#088137;text-transform:uppercase;font-weight:600;margin:10px 0;}
+.welcomePanel h4 {background:#088137;color:#fff;text-align:center; text-transform:uppercase;font-weight:600;padding:4px 0;}
 
+.groups {background:#f9b22e url('../imgages/gardeningBG.jpg') repeat-x top left;}
+.mainPanel {background:#fff;padding:20px 50px 50px;margin-top:-90px;margin-bottom:100px;box-shadow: 0px 6px 6px 2px rgba(0,0,0,.3);position:relative;}
+.mainPanel h2 {color:#088137;padding-top:20px;}
+.mainPanel p {padding:0 0 6px 0;}
+.mainPanel h5 {line-height:140%;}
+.mainPanel h3 {font-size:130%;color:#088137;text-transform:uppercase;font-weight:600;margin:10px 0;}
+.mainPanel h4 {background:#088137;color:#fff;text-align:center; text-transform:uppercase;font-weight:600;padding:4px 0;font-size:130%;}
+.mainPanel img {padding:0 0 10px 0;}
+.mainPanel a {color:#484848;font-weight:600; text-decoration:none;}
+.mainPanel a:hover {font-weight:600; text-decoration:underline;color:#088137;}
+.mainPanel button {background:#088137;width:100%;color:#fff;text-align:right; text-transform:uppercase;font-weight:600;padding:8px 12px;border:none;font-size:120%;line-height:100%;}
+.mainPanel button span{font-size:80%;color:#fff;}
 
+.quote {background:none;padding-bottom:60px;}
+.quote h5 {text-align:right;font-size:170%;padding-right:120px;color:#fff;padding-bottom:40px;}
 
 .redPanel {background:#e84d5f;}
 .gallerySlider {background:#e84d5f;padding:20px 50px;margin-top:30px;margin-bottom:30px;position:relative;}
@@ -95,7 +113,7 @@ body#home .navbar-nav li a.home, body#activity .navbar-nav li a.activity, body#h
 button.more span {font-size:80%;}
 
 .slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-5%;background:url('../images/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
-.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-5%;background:url('../images/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
+.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-5%;background:url('../images/cntrols-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
 .slideLeft:hover, .slideRight:hover {opacity:1;}
 .slideLeft:focus, .slideRight:focus {outline:none;}
 
@@ -112,8 +130,18 @@ button.more span {font-size:80%;}
 .form p.required {font-size:100%;font-weight:600;}
 span.req {color:#e84d5f;}
 .form form {margin-top:20px;margin-bottom:40px;}
-.button {color:rgba(255,255,255,0.5);background:#088137;text-transform:uppercase;padding-left:30px;padding-right:30px;border-radius:0;}
-form .button:hover, form .button:active {color:rgba(255,255,255,1);}
+.form form .button {color:rgba(255,255,255,0.5);background:#088137;text-transform:uppercase;padding-left:30px;padding-right:30px;border-radius:0;width:auto;}
+.form form .button:hover, form .button:active {color:rgba(255,255,255,1);}
+
+ul.impact, ul.goals {margin-left:20px;padding-left:0;}
+ul.impact li {list-style-type:none;}
+
+.row.equal {
+  display: flex;
+  flex-wrap: wrap;}
+a.route {border:2px solid #088137;display:block;margin-bottom:30px;background:#088137;}
+a.route h3 {text-align:center;padding-left:6px;margin-right:6px;color:#fff;font-size:110%;}
+
 
 .photoPanel {background:#088137;padding-bottom:60px;}
 .photoPanel .row {}
@@ -139,6 +167,7 @@ body#home .footer ul li a.home, body#activity .footer ul li a.activity, body#his
 /* .col-md */
 @media (min-width:992px) and (max-width:1199px){ 
 	.masthead {background: #fff;padding-right:30px;padding-left:30px;}
+	.navbar {margin-bottom:0;border-radius:0;border:none;min-height:40px;padding:5px 15px 0 15px;}
 	.navbar-nav li a {color:#fff;font-size:100%;font-weight:400;letter-spacing:0em;text-transform:uppercase;padding:0px 15px 0px;}
 	.photoPanel {background:#088137;padding-bottom:60px;}
 .photoPanel .row {}
@@ -159,11 +188,14 @@ body#home .footer ul li a.home, body#activity .footer ul li a.activity, body#his
 /* .col-sm */
 @media (min-width:768px) and (max-width:991px){
 	.masthead {background: #fff;padding-right:15px;padding-left:15px;}
+	.navbar {margin-bottom:0;border-radius:0;border:none;min-height:40px;padding:5px 0px 0 15px;}
 	.row-eq-height {display:-webkit-box;display:-webkit-block;display:-ms-flexbox;display:block;}
 	ul.social li a {padding-bottom:15px;}
 	.masthead h1 {font-size:360%;padding-top:7px;}
 	.navbar-nav li a {color:#fff;font-size:90%;font-weight:400;letter-spacing:0em;text-transform:uppercase;padding:0px 10px 0px;}
 	.welcomePanel div img {position:relative;bottom:0;left:0px;margin-bottom:10px;}
+	
+	
 	.activity ul {padding:15px 0 20px 0;}
 	.photoPanel .row {}
 .basePhoto01 img {padding-right:30px;padding-left:60px;margin-top:-40px;}
@@ -222,10 +254,15 @@ body#home .footer ul li a.home, body#activity .footer ul li a.activity, body#his
 	
 	.mastImg img {display:none;}
 	.welcome {background: #f9b22e url('../images/mastheadImg-home.jpg');background-repeat: no-repeat; background-size: 200%;}
+	.groups {background: #f9b22e url('../images/mastheadImg-gardening.jpg');background-repeat: no-repeat; background-size: 200%;}
 	
 	.welcomePanel {background:#fff;padding:40px 10px;margin-top:200px;margin-bottom:60px;box-shadow: 0px 6px 6px 2px rgba(0,0,0,.3);position:relative;}
 	.welcomePanel div img {position:relative;bottom:0;left:0px;margin-bottom:10px;}
-	.welcome .row {margin-left:15px;margin-right:15px;}
+	.welcome .row, .groups .row {margin-left:15px;margin-right:15px;}
+	
+	.mainPanel {background:#fff;padding:0px 10px 40px;margin-top:200px;margin-bottom:60px;box-shadow: 0px 6px 6px 2px rgba(0,0,0,.3);position:relative;}
+	
+	.mainPanel button {padding:8px 12px;}
 	
 	.lSSlideOuter {}
 	.slideLeft {left:-10%;background-size:180%;}

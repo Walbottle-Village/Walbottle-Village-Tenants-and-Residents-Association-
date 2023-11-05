@@ -137,20 +137,3 @@ alt="aerial view of Walbottle Village"/>
 	</div>
 </div>
 </div>
-<div class="container-fluid photoPanel">
-	<div class="row">
-		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"></div>
-		<div class="basePhoto01 col-xs-3">
-		<img src="assets/images/basePic01.jpg" class="img-responsive" alt="Walbottle Dene"/>
-		</div>
-		
-		<div class="basePhoto02 col-xs-3">
-		<img src="assets/images/basePic02.jpg" class="img-responsive" alt="A brick from Walbottle brickworks"/>
-		</div>
-		
-		<div class="basePhoto03 col-xs-3">
-		<img src="assets/images/basePic03.jpg" class="img-responsive" alt="Walbottle Village Institute"/>
-		</div>
-		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"></div>
-	</div>
-	</div>
