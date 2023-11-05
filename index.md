@@ -72,13 +72,13 @@ alt="aerial view of Walbottle Village"/>
 				<h2>Activity Groups</h2>
 				<p>We have a wide variety of local groups in Walbottle, for more information please select a link below. If you would like more information or would like to start a group please contact us using one of the Get In Touch forms on the website.</p>
 				<ul>
-					<li><a href="access_group.html" title="access Group" target="_self" class="ag-access" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Access Group</a></li>
-					<li><a href="gardening_group.html" title="gardening group" target="_self" class="ag-garden" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Gardening Group</a></li>
-					<li><a href="kids_corner.html" title="kids corner" target="_self" class="ag-kids" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Kids Corner</a></li>
+					<li><a href="/about_us/access/" title="access Group" target="_self" class="ag-access" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Access Group</a></li>
+					<li><a href="/about_us/gardening/" title="gardening group" target="_self" class="ag-garden" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Gardening Group</a></li>
+					<li><a href="/about_us/kids-corner/" title="kids corner" target="_self" class="ag-kids" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Kids Corner</a></li>
 					<li><a href="neighbourhood_watch.html" title="neighbourhood watch" target="_self" class="activity" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Neighbourhood Watch</a></li>
 					<li><a href="photography_group" title="photography group" target="_self" class="ag-photo" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Photography Group</a></li>
 					<li><a href="walbottle_choristers.html" title="Walbottle choristers group" target="_self" class="ag-choir" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Choristers</a></li>
-					<li><a href="walbottle_walks.html" title="Walbottle walks group" target="_self" class="ag-walks" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Walks</a></li>
+					<li><a href="/about_us/walbottle_walks/" title="Walbottle walks group" target="_self" class="ag-walks" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Walks</a></li>
 				</ul>
 		</div>
 		<div class="col-xs-1"></div>

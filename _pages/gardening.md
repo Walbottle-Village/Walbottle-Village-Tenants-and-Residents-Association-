@@ -2,7 +2,7 @@
 layout: default
 title: Gardening
 bodytag: gardening
-permalink: /about_us/gardening
+permalink: /about_us/gardening/
 ---
 <div class="container-fluid">
 	<div class="row">
