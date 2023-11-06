@@ -132,6 +132,7 @@ span.req {color:#e84d5f;}
 .form form {margin-top:20px;margin-bottom:40px;}
 .form form .button {color:rgba(255,255,255,0.5);background:#088137;text-transform:uppercase;padding-left:30px;padding-right:30px;border-radius:0;width:auto;}
 .form form .button:hover, form .button:active {color:rgba(255,255,255,1);}
+.form form .h-captcha{float: right;}
 
 ul.impact, ul.goals {margin-left:20px;padding-left:0;}
 ul.impact li {list-style-type:none;}
