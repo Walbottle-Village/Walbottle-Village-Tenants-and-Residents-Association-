@@ -50,7 +50,7 @@ permalink: /about_us/kids-corner/
 			  <a href="http://www.primaryhomeworkhelp.co.uk/Romans.html" target="_blank"><img src="/assets/images/Roman-soldier-on-wall1.jpg" class="img-responsive" alt="Roman soldier standing on Hadrian's wall"></a>
 			</div>
 		  <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-			  <a href="http://www.primaryhomeworkhelp.co.uk/Romans.html" target="_blank"><img src="/assests/images/Roman-lady.jpg" class="img-responsive" alt="A Roman Lady"></a>
+			  <a href="http://www.primaryhomeworkhelp.co.uk/Romans.html" target="_blank"><img src="/assets/images/Roman-lady.jpg" class="img-responsive" alt="A Roman Lady"></a>
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 			  <h2>King Charles III</h2>
@@ -68,17 +68,17 @@ permalink: /about_us/kids-corner/
 			  <h2>Activity Ideas</h2>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-		    <a href="https://www.edenprojectcommunities.com/stuff-you-can-do" target="_blank" title="visit Eden Project Communities in a new tab"><img src="img/kids-eden.jpg" class="img-responsive" alt="Eden Project Communities"/></a></div>
+		    <a href="https://www.edenprojectcommunities.com/stuff-you-can-do" target="_blank" title="visit Eden Project Communities in a new tab"><img src="/assets/images/kids-eden.jpg" class="img-responsive" alt="Eden Project Communities"/></a></div>
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-		    <a href="https://www.tate.org.uk/kids" target="_blank" title="visit Tate Kids in a new tab"><img src="img/kids-tate-kids.jpg" class="img-responsive" alt="Tate Kids"/></a></div>
+		    <a href="https://www.tate.org.uk/kids" target="_blank" title="visit Tate Kids in a new tab"><img src="/assets/images/kids-tate-kids.jpg" class="img-responsive" alt="Tate Kids"/></a></div>
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-		    <a href="https://www.natgeokids.com/uk/" target="_blank" title="visit National Geographic Kids in a new tab"><img src="img/kids-national-geographic.jpg" class="img-responsive" alt="National Geographic"/></a></div>
+		    <a href="https://www.natgeokids.com/uk/" target="_blank" title="visit National Geographic Kids in a new tab"><img src="/assets/images/kids-national-geographic.jpg" class="img-responsive" alt="National Geographic"/></a></div>
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-		     <a href="https://www.bbc.co.uk/cbeebies/games" target="_blank" title="visit CBBC in a new tab"><img src="img/kids-cbbc.jpg" class="img-responsive" alt="BBC-CBBC"/></a></div>
+		     <a href="https://www.bbc.co.uk/cbeebies/games" target="_blank" title="visit CBBC in a new tab"><img src="/assets/images/kids-cbbc.jpg" class="img-responsive" alt="BBC-CBBC"/></a></div>
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-		    <a href="http://www.supercoloring.com/sections/coloring-pages" target="_blank" title="visit Paint The Worls - Super Colouring in a new tab"><img src="img/kids-paint.jpg" class="img-responsive" alt="Paint The World - Super Colouring"/></a></div>
+		    <a href="http://www.supercoloring.com/sections/coloring-pages" target="_blank" title="visit Paint The Worls - Super Colouring in a new tab"><img src="/assets/images/kids-paint.jpg" class="img-responsive" alt="Paint The World - Super Colouring"/></a></div>
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-		    <a href="https://happylearning.tv/en/games/" target="_blank" title="visit Happy Learning in a new tab"><img src="img/kids-happy-learning.jpg" class="img-responsive" alt="Happy Learning"/></a></div>
+		    <a href="https://happylearning.tv/en/games/" target="_blank" title="visit Happy Learning in a new tab"><img src="/assets/images/kids-happy-learning.jpg" class="img-responsive" alt="Happy Learning"/></a></div>
 	  </div>
 		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-0"></div>
 		</div>
