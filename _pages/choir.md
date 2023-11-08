@@ -21,7 +21,7 @@ permalink: /about_us/choir/
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 			  <p><strong>The Walbottle Village choir formed in March 2022 is made up of a collection of local residents that simply like to sing.</strong></p>
-				<p>It’s a great opportunity to let your hair down for an hour every 2 weeks.  If you would like to join contact Kelly at Kelly.stevensbell@gmail.com</p>
+				<p>It’s a great opportunity to let your hair down for an hour every week.  If you would like to join contact Kelly at Kelly.stevensbell@gmail.com</p>
 
 <p><strong>Dates:</strong> Meeting every 2 weeks from January 9th 2023.</p>
 <p><strong>Time:</strong> 7:30pm</p>
