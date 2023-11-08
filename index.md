@@ -44,11 +44,11 @@ alt="aerial view of Walbottle Village"/>
 
 			{% for event in site.data.events %}
 				<li class="featurePane col-xs-4">
-					<a href="{{event.link}}" title="visit the Walbottle Choisters group page"></a>
-					<img src="{{event.image}}" class="img-responsive" alt="walbottle choristers"/>
+					<a href="{{event.link}}" title="visit the {{event.title}} page">
+					<img src="{{event.image}}" class="img-responsive" alt="walbottle choristers"/></a>
 					<h3>{{event.name}}</h3>
 					<p>{{event.about}}</p>
-					<button class="more">Find out more <span class="glyphicon glyphicon-triangle-right"></span></button>
+					<button class="more">Find out more href="{{event.link}}" <span class="glyphicon glyphicon-triangle-right"></span></button>
 					
 				</li>
 				{% endfor %}
