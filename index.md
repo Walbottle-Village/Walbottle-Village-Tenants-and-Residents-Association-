@@ -48,7 +48,7 @@ alt="aerial view of Walbottle Village"/>
 					<img src="{{event.image}}" class="img-responsive" alt="walbottle choristers"/></a>
 					<h3>{{event.name}}</h3>
 					<p>{{event.about}}</p>
-					<button class="more">Find out more href="{{event.link}}" <span class="glyphicon glyphicon-triangle-right"></span></button>
+					<button class="more" href="{{event.link}}" >Find out more <span class="glyphicon glyphicon-triangle-right"></span></button>
 					
 				</li>
 				{% endfor %}
