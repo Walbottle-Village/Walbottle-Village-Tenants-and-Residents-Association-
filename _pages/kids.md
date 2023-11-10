@@ -4,7 +4,13 @@ title: Kids cornner
 bodytag: Kids
 permalink: /about_us/kids-corner/
 ---
-
+<div class="container-fluid">
+	<div class="row">
+		<div class="mastImg">
+			<img src="/assets/images/kidsConer-img.jpg" class="img-responsive" alt="Walbottle Village Access group"/>
+		</div>
+	</div>
+</div>
 <div class="container-fluid groups">
 	<div class="row">
 		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-0"></div>
