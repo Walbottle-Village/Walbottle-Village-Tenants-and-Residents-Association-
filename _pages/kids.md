@@ -18,7 +18,7 @@ permalink: /about_us/kids-corner/
 				<p><strong>But why did Emperor Hadrian visit Newcastle?</strong></p>
 				<p>It is a very long way from Rome, especially on horse back.  Well the Roman Empire was having a lot of problems with the tribes in the North and Hadrian decided to build a big wall from Wallsend in the East right across the country to Bowness on Solway in the West.</p>
 				<p>It would be 80 miles long and take 6 years and about 15,000 men to build.  The Wall was defended by Roman soldiers who stopped the Northern tribes (which the Romans called Barbarians) from attacking the civilised South. The Barbarians use to paint themselves with a blue paint called Wode before a battle to make themselves look more fierce.</p>
-			  <p>So this year is the 1900th anniversary of the wall being built and to celebrate there are lots of activities across the country.   If you want to join in why not make or paint a picture of a Roman Shield.  If you take a picture and send it to us we will put the first 10 received on this website. Send your pictures to treasurer@walbottlevillagetra.co.uk  Here is a picture of a Roman shield to copy. </p>
+			  <p>So 2022 was the 1900th anniversary of the wall being built and to celebrate there were lots of activities across the country.   If you want to join in why not make or paint a picture of a Roman Shield.  If you take a picture and send it to us we will put the first 10 received on this website. Send your pictures to treasurer@walbottlevillagetra.co.uk  Here is a picture of a Roman shield to copy. </p>
 		    <img src="/assets/images/roman-shield.jpg" class="img-responsive" alt=""/>
 			<p>A Roman soldier's shield</p>
 			</div>
@@ -59,7 +59,7 @@ permalink: /about_us/kids-corner/
 		    <img src="/assets/images/king-charles.jpg" class="img-responsive" alt="King Charles III"/> </div>
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 		    <h3>Did you know we have a new Monarch?</h3>
-				<p>Following the death of Her Majesty Queen Elizabeth II Prince Charles was proclaimed King Charles III on the 8th of September. On the left we see King Charles with the Queen consort Camilla, and the Prince and Princess of Wales, William and Catherine.Click on the photograph to find out some more facts about King Charles.</p>
+				<p>Following the death of Her Majesty Queen Elizabeth II Prince Charles was proclaimed King Charles III on the 8th of September 2022. On the left we see King Charles with the Queen consort Camilla, and the Prince and Princess of Wales, William and Catherine.Click on the photograph to find out some more facts about King Charles.</p>
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 		    <img src="/assets/images/buckinghamPalace.jpg" class="img-responsive" alt="Buckingham Palace"/>
