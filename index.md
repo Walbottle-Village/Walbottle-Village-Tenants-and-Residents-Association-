@@ -82,7 +82,7 @@ alt="aerial view of Walbottle Village"/>
 		<div class="col-xs-1"></div>
 		<div class="col-md-7 col-xs-12 form">
 			<h2>Get in Touch</h2>
-			<p>We would love to hear from our residents. Whether you would like to volunteer, suggest a Group, help create a neighbourly village or would like more information about anything you have read in our newsletter or website please contact us using the form below.</p>
+			<p>We would love to hear from our residents. Whether you would like to volunteer, suggest a group, help create a neighbourly village or would like more information about anything you have read in our newsletter or website please contact us using the form below.</p>
 			<p class="required"><span class="req">*</span> donates required form fields.</p>
 			
 			<form class="form-horizontal" id="form" action="https://clockwork-design.co.uk/clients/wvtra/formmail.php" method="post" name="Enquiry" data-toggle="validator" role="form">
