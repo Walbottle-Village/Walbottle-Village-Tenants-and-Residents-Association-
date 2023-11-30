@@ -2,7 +2,7 @@
 layout: default
 title: Walbottle Walks
 bodytag: walks
-permalink: /about_us/walbottle_walks/
+permalink: /actity_groups/walbottle_walks/
 ---
 	
 <div class="container-fluid">
