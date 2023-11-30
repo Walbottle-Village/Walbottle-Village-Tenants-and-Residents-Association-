@@ -2,7 +2,7 @@
 layout: default
 title: Access
 bodytag: access
-permalink: /about_us/access/
+permalink: /actity_groups/access/
 ---
 <div class="container-fluid">
 	<div class="row">
