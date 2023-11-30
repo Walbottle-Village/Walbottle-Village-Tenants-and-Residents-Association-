@@ -2,7 +2,7 @@
 layout: default
 title: Choir
 bodytag: choir
-permalink: /about_us/choir/
+permalink: /actity_groups/choir/
 ---
 <div class="container-fluid">
 	<div class="row">
