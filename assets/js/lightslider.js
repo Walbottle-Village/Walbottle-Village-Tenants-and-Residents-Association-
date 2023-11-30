@@ -192,6 +192,7 @@
                         }
                     } else {
                         if (refresh.calWidth(false) < elSize) {
+                            // file deepcode ignore ArrayMethodOnNonArray: < >
                             $slide.find('.lSAction').hide();
                         }
                     }
