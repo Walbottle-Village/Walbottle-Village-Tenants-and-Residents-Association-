@@ -2,6 +2,7 @@
 bodytag: home
 layout: default
 title: Home
+gallery: true
 ---
 	
 <div class="container-fluid">

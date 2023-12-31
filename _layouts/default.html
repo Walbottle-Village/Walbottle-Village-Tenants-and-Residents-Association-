@@ -18,7 +18,9 @@
 </script>
     <!-- Bootstrap core CSS -->
         {% include_cached styles.html %}
-   
+        <style type="text/css">
+          #imageGallery img {margin:0 auto !important;}
+        </style>   
     {% seo title=false %}
 </head>
 <body id="{{page.bodytag}}">
@@ -35,7 +37,7 @@
         {% include_cached footer.html %}
     </footer>
     {% include_cached loadjs.html %}
-  {% if page.title == "Home"%}
+  {% if page.gallery == true%}
     {% include_cached lightslider.html %}
     {% endif %}
 </body>
