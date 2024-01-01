@@ -326,16 +326,3 @@ gallery: true
 	</div> <!-- /row -->
 </div> <!-- /container-fluid -->
 	
-<div class="container-fluid photoPanel">
-	<div class="row"> <!-- row -->
-		<div class="basePhoto01 col-sm-4 col-xs-6">
-	    	<img src="/assets/images/basePic01.jpg" class="img-responsive" alt="Walbottle Dene"/>
-		</div>
-		<div class="basePhoto02 col-sm-4 col-xs-6">
-	    	<img src="/assets/images/basePic02.jpg" class="img-responsive" alt="A brick from Walbottle brickworks"/>
-		</div>
-		<div class="basePhoto03 col-sm-4 col-xs-0 hidden-xs">
-	    	<img src="/assets/images/basePic03.jpg" class="img-responsive" alt="Walbottle Village Institute"/>
-		</div>
-	</div> <!-- /row -->
-</div> <!-- /container-fluid -->
