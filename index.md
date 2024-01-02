@@ -56,44 +56,44 @@ gallery: true
 				<div class="col-xs-12 col-sm-12"><button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
 						<li class="featurePane col-xs-4">
-							<a href="news.html#choir" title="visit the Walbottle Choisters group page">
+							<a href="news/#choir" title="visit the Walbottle Choisters group page">
 								<img src="/assets/images/choir.jpg" class="img-responsive" alt="walbottle Choir"/></a>
 							<h3>Walbottle Choir</h3>
 							<p>Meeting every two weeks in the Village Institute at 7:30pm for an hour. £2 per session.</p>
-							<a class="more" href="news.html#choir" title="visit the Walbottle Choisters group page">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a class="more" href="news/#choir" title="visit the Walbottle Choisters group page">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
-							<a href="news.html#foodbank" title="about the Food Bank">
+							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Food Bank Collection</h3>
 							<p>Sunday, 15 October, 10:30 to 11:30 in the Village Institute.</p>
-							<a class="more" href="news.html#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
-							<a href="news.html#halloween" title="about the Halloween Trail" target="_self"><img src="/assets/images/halloween.jpg" class="img-responsive" alt="halloween 2023"/></a>
+							<a href="news/#halloween" title="about the Halloween Trail" target="_self"><img src="/assets/images/halloween.jpg" class="img-responsive" alt="halloween 2023"/></a>
 							<h3>Halloween Trail</h3>
 							<p>Our popular Halloween trail will take place on 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm.</p>
-							<a class="more" href="news.html#halloween" title="about the Halloween Trail" target="_self">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a class="more" href="news/#halloween" title="about the Halloween Trail" target="_self">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
-							<a href="news.html#choir" title="visit the Walbottle Choisters group page">
+							<a href="news/#choir" title="visit the Walbottle Choisters group page">
 								<img src="/assets/images/choir.jpg" class="img-responsive" alt="walbottle Choir"/></a>
 							<h3>Walbottle Choir</h3>
 							<p>Meeting every two weeks in the Village Institute at 7:30pm for an hour. £2 per session.</p>
-							<a class="more" href="news.html#choir" title="visit the Walbottle Choisters group page">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a class="more" href="news/l#choir" title="visit the Walbottle Choisters group page">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
-							<a href="news.html#foodbank" title="about the Food Bank">
+							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Food Bank Collection</h3>
 							<p>Sunday, 15 October, 10:30 to 11:30 in the Village Institute.</p>
-							<a class="more" href="news.html#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
-							<a href="news.html#halloween" title="about the Halloween Trail" target="_self"><img src="/assets/images/halloween.jpg" class="img-responsive" alt="halloween 2023"/></a>
+							<a href="news/#halloween" title="about the Halloween Trail" target="_self"><img src="/assets/images/halloween.jpg" class="img-responsive" alt="halloween 2023"/></a>
 							<h3>Halloween Trail</h3>
 							<p>Our popular Halloween trail will take place on 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm.</p>
-							<a class="more" href="news.html#halloween" title="about the Halloween Trail" target="_self">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a class="more" href="news/#halloween" title="about the Halloween Trail" target="_self">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 					</ul>
 					<button type="button" class="slideRight" id="goToNextSlide"></button>
@@ -113,13 +113,13 @@ gallery: true
 				<h2>Activity Groups</h2>
 				<p>We have a wide variety of local groups in Walbottle, for more information please select a link below. If you would like more information or would like to start a group please contact us using the <a href="contact.html" title="visit the contact page" target="_self">enquiry form on the contact page</a>.</p>
 				<ul>
-					<li><a href="access_group.html" title="access Group" target="_self" class="ag-access" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Access Group</a></li>
-					<li><a href="gardening_group.html" title="gardening group" target="_self" class="ag-garden" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Gardening Group</a></li>
-					<li><a href="kids-corner.html" title="kids corner" target="_self" class="ag-kids" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Kids Corner</a></li>
+					<li><a href="actity_groups/access/" title="access Group" target="_self" class="ag-access" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Access Group</a></li>
+					<li><a href="actity_groups/gardening/" title="gardening group" target="_self" class="ag-garden" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Gardening Group</a></li>
+					<li><a href="actity_groups/kids-corner/" title="kids corner" target="_self" class="ag-kids" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Kids Corner</a></li>
 					<!-- <li><a href="neighbourhood_watch.html" title="neighbourhood watch" target="_self" class="activity" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Neighbourhood Watch</a></li> -->
-					<li><a href="photography_group.html" title="photography group" target="_self" class="ag-photo" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Photography Group</a></li>
-					<li><a href="walbottle_choir.html" title="Walbottle choir group" target="_self" class="ag-choir" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Choir</a></li>
-					<li><a href="walbottle_walks.html" title="Walbottle walks group" target="_self" class="ag-walks" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Walks</a></li>
+					<li><a href="actity_groups/photography_group/" title="photography group" target="_self" class="ag-photo" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Photography Group</a></li>
+					<li><a href="actity_groups/choir/" title="Walbottle choir group" target="_self" class="ag-choir" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Choir</a></li>
+					<li><a href="actity_groups/walbottle_walks/" title="Walbottle walks group" target="_self" class="ag-walks" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Walks</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-1"></div>
