@@ -12,26 +12,25 @@ permalink: /actity_groups/choir/
 	</div>
 </div>
 
-<div class="container-fluid groups">
-	<div class="row">
-		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-0"></div>
-		<div class="mainPanel col-lg-10 col-md-10 col-sm-10 col-xs-12">
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-			  <h2>Walbottle Choristers</h2>
-			</div>
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-			  <p><strong>The Walbottle Village choir formed in March 2022 is made up of a collection of local residents that simply like to sing.</strong></p>
-				<p>It’s a great opportunity to let your hair down for an hour every week.  If you would like to join contact Kelly at Kelly.stevensbell@gmail.com</p>
+<div class="container-fluid groups"> <!-- container-fluid -->
+	<div class="row"> <!-- row -->
+		<div class="col-sm-1 col-xs-0"></div>
+		<div class="col-sm-10 col-xs-12 mainPanel">
+			<div class="row"> <!-- row -->
+				<div class="col-xs-12">
+			 		 <h2>Walbottle Choir</h2>
+				</div>
+				<div class="col-md-12 col-xs-12">
+					<p><strong>The Walbottle Village choir formed in March 2022 is made up of a collection of local residents that simply like to sing.</strong></p>
+					<p>Less of a choir and more a posh karaoke that sings their hearts out with like minded, friendly people. We meet every Monday from 7:30pm excluding bank hoidays. It's a great way to start your week and no singing talent required. Just turn up, we'd love to make you welcome and feel part of the group.</p>
+					<p>It’s &pound;2 per week and the first session is free. All proceeds go to charities decided by the group. Over &pound;1000 will have been donated by the end of 2023.</p>
 
-<p><strong>Dates:</strong> Meeting every 2 weeks from January 9th 2023.</p>
-<p><strong>Time:</strong> 7:30pm</p>
-<p><strong>Venue:</strong> Walbottle Village Institute</p>
-
-<p><strong>Open to:</strong> Anyone who likes to sing.  It’s just £2 per session and after hall expenses all remaining money goes to charity.</p>
-			</div>
-			
-	  </div>
-		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-0"></div>
+					<p><strong>Dates:</strong> Meeting every Monday excluding bank holidays <br><strong>Time:</strong> 7:30pm <br><strong>Venue:</strong> Walbottle Village Institute</p>
+				
+					<p>If you would like to join, just turn up on Monday or contact one of the group at <a href="mailto:enquiries@walbottletra.gmail.com" title="email Walbottle Village Tenants and Residents Association">enquiries@walbottletra.gmail.com</a></p>
+				</div>
+	  		</div><!-- /row -->
 		</div>
-	
-	</div>
+		<div class="col-sm-1 col-xs-0"></div>
+	</div><!-- /row -->
+</div><!-- /container-fluid -->
