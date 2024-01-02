@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Us
-permalink: /history/festival/
+permalink: /history/festivals/
 bodytag: festival
 gallery: true
 ---
