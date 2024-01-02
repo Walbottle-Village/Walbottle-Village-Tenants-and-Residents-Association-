@@ -8,7 +8,7 @@ permalink: /shop/
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
-			<img src="img/masthead-shop.jpg" class="img-responsive" alt="image of woollen hats, headbands, ear warmers and koozies sold by Shirley's Knitting Shop"/>
+			<img src="/assets/images/masthead-shop.jpg" class="img-responsive" alt="image of woollen hats, headbands, ear warmers and koozies sold by Shirley's Knitting Shop"/>
 		</div>
 	</div>
 </div>
