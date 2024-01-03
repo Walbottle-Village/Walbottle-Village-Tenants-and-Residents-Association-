@@ -161,8 +161,7 @@ title: Home
 						</div>
 					</div>
 					<div class="form-group">
-						<div class="col-sm-12">
-							
+						<div class="col-sm-12">	
 							<button type="submit" class="btn button block pull-right">Send message</button>
 						</div>
 					</div>

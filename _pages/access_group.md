@@ -7,7 +7,7 @@ permalink: /actity_groups/access/
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
-			<img src="/assets/images/access-img.jpg" class="img-responsive" alt="Walbottle Village gardening group"/>
+			<img src="/assets/images/mastheadImg-access.jpg" class="img-responsive" alt="Walbottle Village gardening group"/>
 		</div>
 	</div>
 </div>
