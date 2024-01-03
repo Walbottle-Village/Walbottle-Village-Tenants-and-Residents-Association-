@@ -3,6 +3,7 @@ layout: default
 title: Gardening
 bodytag: gardening
 permalink: /actity_groups/gardening/
+gallery: true
 ---	
 <div class="container-fluid">
 	<div class="row">
