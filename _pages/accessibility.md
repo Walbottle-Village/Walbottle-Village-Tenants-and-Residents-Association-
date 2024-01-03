@@ -6,6 +6,14 @@ permalink: /accessibility/
 gallery: false
 ---
 
+	
+<div class="container-fluid">
+	<div class="row">
+		<div class="mastImg">
+			<img src="img/mastheadImg-access.jpg" class="img-responsive" alt="image showing a wheelchair user on an accessible ramp"/>
+		</div>
+	</div> <!--/row -->
+</div> <!-- /container-fluid -->
 <div class="container-fluid groups"> <!-- container-fluid -->
 	<div class="row"> <!-- row -->
 		<div class="col-sm-1 col-xs-0"></div>

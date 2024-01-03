@@ -147,7 +147,6 @@ title: Home
 							<input type="text" class="form-control" id="location" name="Location" placeholder="Your town or village (optional)" data-validate="false" >
 						</div>
 					</div>
-
 					<div class="form-group">
 						<label for="email" class="col-sm-2 control-label">Your email<span class="req">*</span></label>
 						<div class="col-sm-10">
@@ -155,17 +154,15 @@ title: Home
 							<div class="help-block with-errors"></div>
 						</div>
 					</div>
-
 					<div class="form-group">
 						<label for="message" class="col-sm-2 control-label">Message<span class="req">*</span></label>
 						<div class="col-sm-10">
 							<textarea class="form-control" id="message" name="Message" rows="6" placeholder="Your message" data-error="Please enter your message" required></textarea>
 						</div>
 					</div>
-
 					<div class="form-group">
 						<div class="col-sm-12">
-						<div class="h-captcha" data-sitekey="f570f516-ee74-42ce-bce0-8232780da259" data-size="compact"></div>	
+							
 							<button type="submit" class="btn button block pull-right">Send message</button>
 						</div>
 					</div>
