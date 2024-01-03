@@ -37,8 +37,11 @@
         {% include_cached footer.html %}
     </footer>
     {% include_cached loadjs.html %}
+    {% if page.title == "Home"%}
+      {% include_cached lightSlider.html %}
+    {% endif %}
   {% if page.gallery == true%}
-    {% include_cached lightslider.html %}
+    {% include_cached gallery.html %}
     {% endif %}
 </body>
  

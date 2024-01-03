@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Us
+title: Walbottle festivals
 permalink: /history/festivals/
 bodytag: festival
 gallery: true
@@ -23,7 +23,6 @@ gallery: true
 					<h2 class="sub">King Charles III Coronation</h2>
 					<h3>Saturday, 6 May 2023: Coronation Celebration Day</h3>
 					<p>Another great Royal celebration full of fancy dress, colours and fun. A wonderful collection of cupcakes presented, Dads in the stocks and family picnics on the green lead up to the Commemorative plaque reveal to mark the event. Click on an image to enlarge.</p>
-					
 					<!-- feature slider -->				
 					<div class="demo hasActive">
                     	<ul id="imageGallery3" class="gallery list-unstyled">
@@ -120,7 +119,6 @@ gallery: true
 							<li data-thumb="/assets/images/KingCharles/Wallbottle-May-23-74.jpg" data-src="/assets/images/KingCharles/Wallbottle-May-23-74.jpg"><img src="/assets/images/KingCharles/Wallbottle-May-23-74.jpg"  alt="King Charles III Coronation celebrations image" /></li>
 						</ul>
 					</div>
-							
 					<h2 class="sub">Jubilee Festival 2022</h2>
 					<h3>Thursday, 2 June: Beacon Lighting Ceremony</h3>
 					<p>Although the weather was a little damp a wonderful community day was had by all celebrating the Platinum Jubilee ceremony. The busy event included our Town Crier, the bagpipes, plenty of stalls selling home produce and culminated in the beacon lighting ceremony. Click on an image to enlarge.</p>
@@ -157,7 +155,6 @@ gallery: true
 							<li data-thumb="/assets/images/Beacon/Wallbottle-Jubilee-051s.jpg" data-src="/assets/images/Beacon/Wallbottle-Jubilee-051s.jpg"><img src="/assets/images/Beacon/Wallbottle-Jubilee-051s.jpg" alt="Walbottle Jubilee 2022 Beacon Lighting Ceremony" /></li>
 						</ul>
     				</div>
-					
 					<h3>Saturday, 4 June: Street Party &amp; Fete</h3>
 					<p>With the beacon lit, local residents and their familes arrived at Walbottle village green to celebrate the Platinum Jubilee. There was dancing demonstrations, stalls, raffles, and an amazing cake competition. A special thank-you for all who attened and helped to make the event a huge success. Click on an image to enlarge.</p>
 					<!-- feature slider -->	
@@ -238,16 +235,14 @@ gallery: true
 							<li data-thumb="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday029s.jpg" data-src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday029s.jpg"><img src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday029s.jpg" alt="Walbottle Jubilee Celebrations 2022" /></li>
 							<li data-thumb="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday025-scaled.jpg" data-src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday025-scaled.jpg"><img src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday025-scaled.jpg" alt="Walbottle Jubilee Celebrations 2022" /></li>
 							<li data-thumb="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday023s.jpg" data-src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday023s.jpg"><img src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday023s.jpg" alt="Walbottle Jubilee Celebrations 2022" /></li>
-							<li data-thumb="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday017-scaled.jpg" data-src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday017-scaled.jpg"><img src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday017-scaled.jpg" alt="Walbottle Jubilee Celebrations 2022" /></li>
+							<li data-thumb="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday017-scaled.jpg" data-src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday017-scaled.jpg"><img loading="lazy" src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday017-scaled.jpg" alt="Walbottle Jubilee Celebrations 2022" /></li>
 						</ul>
 					</div>
-				</div>
-			
+				</div>		
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 			  		<h2>Special Thanks</h2>
 					<p>the Committee, Volunteers, Businesses and Organisations Involved in Staging the Event</p>
 				</div>
-			
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 					<p><strong>The Committee</strong></p>
 					<ul>

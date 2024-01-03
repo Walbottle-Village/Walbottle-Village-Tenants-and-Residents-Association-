@@ -2,9 +2,16 @@
 layout: default
 title: Walbottle Maps
 bodytag: campus
-permalink: /hisory/schools/walbottle-campus/
+permalink: /history/schools/walbottle-campus/
 gallery: true
 ---
+<div class="container-fluid">
+	<div class="row">
+		<div class="mastImg">
+			<img src="/assets/images/masthead-historyCampus.jpg" class="img-responsive" alt="image of Walbottle Campus"/>
+		</div>
+	</div>
+</div>
 <div class="container-fluid historyBG"> <!-- container-fluid -->
 	<div class="row"> <!-- row -->
 		<div class="col-sm-1 col-xs-0"></div>

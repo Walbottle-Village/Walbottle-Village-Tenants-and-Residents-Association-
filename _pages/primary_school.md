@@ -2,9 +2,17 @@
 layout: default
 title: Walbottle Maps
 bodytag: primary
-permalink: /hisory/schools/primary/
+permalink: /history/schools/primary/
 gallery: false
 ---
+<div class="container-fluid">
+	<div class="row">
+		<div class="mastImg">
+			<img src="/assets/images/masthead-historyPrimary.jpg" class="img-responsive" alt="image looking up The Green road towards Walbottle Primary School"/>
+		</div>
+	</div>
+</div>
+
 <div class="container-fluid historyBG"> <!-- container-fluid -->
 	<div class="row"> <!-- row -->
 		<div class="col-sm-1 col-xs-0"></div>
