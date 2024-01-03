@@ -2,7 +2,6 @@
 bodytag: home
 layout: default
 title: Home
-
 ---
 <div class="container-fluid hidden-xs">
 	<div class="row">

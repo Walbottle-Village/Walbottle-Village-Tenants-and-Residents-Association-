@@ -5,7 +5,13 @@ bodytag: voices
 permalink: /hisory/voices/
 gallery: false
 ---
-	
+<div class="container-fluid">
+	<div class="row">
+		<div class="mastImg">
+			<img src="/assets/images/masthead-voices.jpg" class="img-responsive" alt="image of the Co-Op building on Hawthorn Terrace, Walbottle"/>
+		</div>
+	</div>
+</div>
 <div class="container-fluid historyBG"> <!-- container-fluid -->
 	<div class="row"> <!-- row -->
 		<div class="col-sm-1 col-xs-0"></div>
