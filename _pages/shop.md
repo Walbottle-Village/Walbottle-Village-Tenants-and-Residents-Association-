@@ -42,15 +42,15 @@ permalink: /shop/
 			<div class="row"> <!-- row -->
 				<div class="col-xs-12">
 					<p>To place an order, please complete the form below and Shirley will contact you to confirm your order. &nbsp;&nbsp; <span class="req">*</span><span class="required">denotes required form fields.</span><br><br></p>
-					<form class="form-horizontal" action="https://clockwork-design.co.uk/clients/wvtra/formmail.php" method="post" name="Enquiry" data-toggle="validator" role="form">
-						<input type="hidden" name="recipients" value="mailto:chris@clockwork-design.co.uk" />
-						<!-- this derives (creates) "email" and "realname" special fields from the input fields -->
-						<input type="hidden" name="derive_fields" value="email=Email_Address,realname=Full_Name" />
-						<!-- this excludes the "email" and "realname" special fields from the body of the email you receive -->
-						<input type="hidden" name="mail_options" value="Exclude=email;realname" />
-						<input type="hidden" name="subject" value="WVT&RA Winter Warmers Shop Order" />
-						<input type="hidden" name="good_url" value="https://clockwork-design.co.uk/clients/wvtra/shop_thanks.html" />
-						<div class="form-group has-feedback">
+				<form class="form-horizontal" action="https://email.walbottlevillagetra.co.uk/formmail.php" method="post" name="Enquiry" data-toggle="validator" role="form">
+					<input type="hidden" name="recipients" value="peter@petersweb.me.uk" />
+					<!-- this derives (creates) "email" and "realname" special fields from the input fields -->
+				    <input type="hidden" name="derive_fields" value="email=Email_Address,realname=Full_Name" />
+					<!-- this excludes the "email" and "realname" special fields from the body of the email you receive -->
+					<input type="hidden" name="mail_options" value="Exclude=email;realname" />
+					<input type="hidden" name="subject" value="WVT&RA Website Enquiry" />
+					<input type="hidden" name="good_url" value="https://www.walbottlevillagetra.co.uk/shop/thanks/" />
+					<div class="form-group has-feedback">
 							<label for="name" class="col-sm-2 control-label">Your name<span class="req">*</span></label>
 							<div class="col-sm-10">
 								<input type="text" class="form-control" id="realname" name="Full_Name" placeholder="Your full name" data-error="Please enter your full name" required>
