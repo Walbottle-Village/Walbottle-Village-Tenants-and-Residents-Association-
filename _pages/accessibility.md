@@ -10,7 +10,7 @@ gallery: false
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
-			<img src="img/mastheadImg-access.jpg" class="img-responsive" alt="image showing a wheelchair user on an accessible ramp"/>
+			<img src="/assets/images/mastheadImg-access.jpg" class="img-responsive" alt="image showing a wheelchair user on an accessible ramp"/>
 		</div>
 	</div> <!--/row -->
 </div> <!-- /container-fluid -->
@@ -34,9 +34,9 @@ gallery: false
 						<li><span>[alt] and/or [ctrl] + h</span><a href="{{ '/' | relative_url}}" title="home page" target="_self" accessKey="h">Home</a></li>
 						<li><span>[alt] and/or [ctrl] + 1</span><a href="{{'/actity_groups/access/' | relative_url}}" title="access Group" target="_self" accessKey="1">Activity Groups &raquo; Access Group</a></li>
 						<li><span>[alt] and/or [ctrl] + 2</span><a href="{{'/actity_groups/gardening/' | relative_url}}" title="gardening group" target="_self" accessKey="2">Activity Groups &raquo; Gardening Group</a></li>
-						<li><span>[alt] and/or [ctrl] + 3</span><a href="{{'#' | relative_url}}" " title="history group" target="_self" class="ag-history" accessKey="3">History Group</a></li>
+						<li><span>[alt] and/or [ctrl] + 3</span><a href="{{'/history/' | relative_url}}" title="history group" target="_self" class="ag-history" accessKey="3">History Group</a></li>
 						<li><span>[alt] and/or [ctrl] + 4</span><a href="{{'/actity_groups/kids-corner/' | relative_url}}" title="kids corner" target="_self" accessKey="4">Activity Groups &raquo; Kids Corner</a></li>
-						<li><span>[alt] and/or [ctrl] + 5</span><a href="{{'/actity_groups/photography_group/' | relative_url}}" " title="photography group" target="_self" accessKey="5">Activity Groups &raquo; Photography Group</a></li>
+						<li><span>[alt] and/or [ctrl] + 5</span><a href="{{'/actity_groups/photography_group/' | relative_url}} " title="photography group" target="_self" accessKey="5">Activity Groups &raquo; Photography Group</a></li>
 						<li><span>[alt] and/or [ctrl] + 6</span><a href="{{'/actity_groups/choir/' | relative_url}}" title="Walbottle choir group" target="_self" accessKey="6">Activity Groups &raquo; Walbottle Choir</a></li>
 						<li><span>[alt] and/or [ctrl] + 7</span><a href="{{'/actity_groups/walbottle_walks/' | relative_url}}" title="Walbottle walks group" target="_self" accessKey="7">Activity Groups &raquo; Walbottle Walks</a></li>
 						<li><span>[alt] and/or [ctrl] + 8</span><a href="{{'/history/festivals/' | relative_url}}" title="recent festivals and events in Walbottle" target="_self" accessKey="8">Walbottle History &raquo; Recent Festivals &amp; Events</a></li>

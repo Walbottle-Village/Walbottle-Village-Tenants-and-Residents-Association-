@@ -67,10 +67,10 @@ gallery: false
 					<p>And finally a press article PDF promoting a school reunion in 1984 for Walbottle Primary School classes from 1907 to 1947 and a PDF listing the names of the attendees.</p>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-					<a href="pdfs/Walbottle-Primary-school-Reunion.pdf" title="click to view a PDF of the press cutting in a new window/tab" target="_blank"><img src="/assets/images/school-reunion-press.jpg" class="img-responsive" alt="Walbottle Primary School reunion press cutting"/></a><caption>Click the article above to view a PDF of the page.</caption>
+					<a href="/assets/pdf/Walbottle-Primary-school-Reunion.pdf" title="click to view a PDF of the press cutting in a new window/tab" target="_blank"><img src="/assets/images/school-reunion-press.jpg" class="img-responsive" alt="Walbottle Primary School reunion press cutting"/></a><caption>Click the article above to view a PDF of the page.</caption>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-					<a href="pdfs/Walbottle-school-reunion-1907-1947.pdf" title="click to view a PDF of the list of names in a new window/tab" target="_blank"><img src="/assets/images/school-reunion-names.jpg" class="img-responsive" alt="Walbottle Primary School reunion names 1907 - 1947, produced by Laura Walton in 1984"/></a><caption>Click to view the PDF, including signatures of students who attended between 1907 and 1947.</caption>
+					<a href="/assets/pdf/Walbottle-school-reunion-1907-1947.pdf" title="click to view a PDF of the list of names in a new window/tab" target="_blank"><img src="/assets/images/school-reunion-names.jpg" class="img-responsive" alt="Walbottle Primary School reunion names 1907 - 1947, produced by Laura Walton in 1984"/></a><caption>Click to view the PDF, including signatures of students who attended between 1907 and 1947.</caption>
 				</div>
 			</div> <!-- /row -->
 		</div> <!-- /mainPanel -->
