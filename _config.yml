@@ -19,6 +19,9 @@ plugins:
 include:
   - _pages
 
+markdown: kramdown
+
+
 permalink: pretty
 
 exclude: [README.md]

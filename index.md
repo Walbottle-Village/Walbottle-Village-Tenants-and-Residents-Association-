@@ -110,7 +110,7 @@ title: Home
 		<div class="activity-contactPanel col-sm-10 col-xs-12">
 			<div class="col-md-4 col-xs-12 activity">
 				<h2>Activity Groups</h2>
-				<p>We have a wide variety of local groups in Walbottle, for more information please select a link below. If you would like more information or would like to start a group please contact us using the <a href="contact.html" title="visit the contact page" target="_self">enquiry form on the contact page</a>.</p>
+				<p>We have a wide variety of local groups in Walbottle, for more information please select a link below. If you would like more information or would like to start a group please contact us using the <a href="/contact/" title="visit the contact page" target="_self">enquiry form on the contact page</a>.</p>
 				<ul>
 					<li><a href="actity_groups/access/" title="access Group" target="_self" class="ag-access" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Access Group</a></li>
 					<li><a href="actity_groups/gardening/" title="gardening group" target="_self" class="ag-garden" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Gardening Group</a></li>
