@@ -7,7 +7,7 @@ permalink: /actity_groups/kids-corner/
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
-			<img src="/assets/images/kidsConer-img.jpg" class="img-responsive" alt="Walbottle Village Access group"/>
+			<img src="/assets/images/OG-Kids.jpg" class="img-responsive" alt="Walbottle Village Access group"/>
 		</div>
 	</div>
 </div>

@@ -3,6 +3,7 @@ layout: default
 title: Shop
 bodytag: shop
 permalink: /shop/
+description: If you would like a hat, headband, ear warmers or koozies please complete the form below. All proceeds go to the Walbottle Village Tenants & Residents Association to help fund future activities.
 ---
 
 <div class="container-fluid">
@@ -43,7 +44,7 @@ permalink: /shop/
 				<div class="col-xs-12">
 					<p>To place an order, please complete the form below and Shirley will contact you to confirm your order. &nbsp;&nbsp; <span class="req">*</span><span class="required">denotes required form fields.</span><br><br></p>
 				<form class="form-horizontal" action="https://email.walbottlevillagetra.co.uk/formmail.php" method="post" name="Enquiry" data-toggle="validator" role="form">
-					<input type="hidden" name="recipients" value="peter@petersweb.me.uk" />
+					<input type="hidden" name="recipients" value="wvratreasurer@gmail.com" />
 					<!-- this derives (creates) "email" and "realname" special fields from the input fields -->
 				    <input type="hidden" name="derive_fields" value="email=Email_Address,realname=Full_Name" />
 					<!-- this excludes the "email" and "realname" special fields from the body of the email you receive -->

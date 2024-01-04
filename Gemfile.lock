@@ -26,34 +26,11 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     execjs (2.9.1)
-    faraday (1.10.3)
-      faraday-em_http (~> 1.0)
-      faraday-em_synchrony (~> 1.0)
-      faraday-excon (~> 1.1)
-      faraday-httpclient (~> 1.0)
-      faraday-multipart (~> 1.0)
-      faraday-net_http (~> 1.0)
-      faraday-net_http_persistent (~> 1.0)
-      faraday-patron (~> 1.0)
-      faraday-rack (~> 1.0)
-      faraday-retry (~> 1.0)
+    faraday (2.8.1)
+      base64
+      faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
-    faraday-em_http (1.0.0)
-    faraday-em_synchrony (1.0.0)
-    faraday-excon (1.1.0)
-    faraday-httpclient (1.0.1)
-    faraday-multipart (1.0.4)
-      multipart-post (~> 2)
-    faraday-net_http (1.0.1)
-    faraday-net_http_persistent (1.2.0)
-    faraday-patron (1.0.0)
-    faraday-rack (1.0.0)
-    faraday-retry (1.0.3)
-    faraday_middleware (1.2.0)
-      faraday (~> 1.0)
-    faraday_middleware-request-retry (0.2.3)
-      faraday (~> 1.10, >= 1.10.3)
-      faraday_middleware (~> 1.2, >= 1.2.0)
+    faraday-net_http (3.0.2)
     ffi (1.16.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
@@ -116,14 +93,11 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.4)
-    liquid-c (4.0.1)
-      liquid (>= 3.0.0)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     minitest (5.20.0)
-    multipart-post (2.3.0)
     mutex_m (0.2.0)
     nokogiri (1.16.0-x64-mingw-ucrt)
       racc (~> 1.4)
@@ -153,14 +127,12 @@ GEM
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (2.5.0)
-    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  faraday_middleware-request-retry (~> 0.2.0)
   jekyll-feed
   jekyll-gist
   jekyll-include-cache
@@ -170,8 +142,6 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jemoji
-  liquid-c
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.5.3

@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.walbottlevillagetra.co.uk/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-author: Walbottle Village Tenants &amp; Residents Association Websit
+author: Walbottle Village Tenants &amp; Residents Association Website
 
 # Build settings
 permalink: /:categories/:title/
@@ -14,8 +14,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
-  - jekyll-include-cache
-
+  - jekyll-include-cache 
+  - jekyll-minifier
 include:
   - _pages
 
