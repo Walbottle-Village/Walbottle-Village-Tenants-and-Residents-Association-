@@ -23,6 +23,41 @@ permalink: /news/
 				</div>
 			</div>
 				<div class="col-xs-12 eventWrap">
+					<div class="row" id="DDay">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/foodbank.jpg" alt="Halloween Trail 2023" class="img-responsive">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>DDay Open Meeting <span>Posted: 5 January r</span></h3>
+								<p>Wednesday 10 January , 7:00pm  in the Village Institute.</p>
+								<p>D-Day Volunteers
+
+The 6th of June 2024 sees the Commemoration and
+Celebration of the D-Day Landings.
+
+The WVI trustees and WVT&RA are looking for volunteers to help organise events so that we can come together as a community to mark the occasion and to have some fun and to remember the village as it was then and celebrate the
+community that we have here now.
+
+The first meeting to plan events will be on Wednesday, 10 January 2024 at 7pm in the Village Institute. We would love
+to see you at the meeting and welcome your ideas for our D-Day commemoration and celebrations.
+
+We also need volunteers to help with the logistics of the
+events, both in the run up and on the days themselves.</p>
+							</div>	
+						</div>
+					</div>
+					<div class="row" id="foodbank">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/foodbank.jpg" alt="Halloween Trail 2023" class="img-responsive">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Food Bank Collection <span>Posted: 5 January</span></h3>
+								<p>Sunday 7 January, 10:30 to 12:00 in the Village Institute.</p>
+							</div>	
+						</div>
+					</div>
 					<div class="row" id="halloween">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -33,7 +68,7 @@ permalink: /news/
 								<p>Our popular Halloween trail will take place on 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm.</p>
 							</div>
 					</div>
-					<div class="row" id="foodbank">
+					<div class="row" id="foodbank-Oct">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
 								<img src="/assets/images/foodbank.jpg" alt="Halloween Trail 2023" class="img-responsive">
