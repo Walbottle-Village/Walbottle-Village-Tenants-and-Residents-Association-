@@ -67,13 +67,12 @@ title: Home
 							<h3>Food Bank Collection</h3>
 							<p>Sunday, 7 January, 10:30 to 12:00 in the Village Institute.</p>
 							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
-						</li>
-					</ul>
+						</li>				
 					<li class="featurePane col-xs-4">
 						<a href="news/#DDay" title="about the Food Bank">
 							<img src="/assets/images/DDay.jpg" class="img-responsive" alt="walbottle DDay Planning Meeting"/></a>
-							<h3>DDay Ideas Meeting</h3>
-							<p>Sunday, 10 January, 7:00pm in the Village Institute.</p>
+							<h3>D-Day Ideas Meeting</h3>
+							<p>Wednesday, 10 January, 7:00pm in the Village Institute.</p>
 							<a class="more" href="news/#DDay" title="about the DDay Meeting">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 					</ul>
