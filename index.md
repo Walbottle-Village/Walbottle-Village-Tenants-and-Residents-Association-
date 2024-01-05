@@ -65,34 +65,16 @@ title: Home
 							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Food Bank Collection</h3>
-							<p>Sunday, 15 October, 10:30 to 11:30 in the Village Institute.</p>
+							<p>Sunday, 7 January, 10:30 to 12:00 in the Village Institute.</p>
 							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
-						<li class="featurePane col-xs-4">
-							<a href="news/#halloween" title="about the Halloween Trail" target="_self"><img src="/assets/images/halloween.jpg" class="img-responsive" alt="halloween 2023"/></a>
-							<h3>Halloween Trail</h3>
-							<p>Our popular Halloween trail will take place on 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm.</p>
-							<a class="more" href="news/#halloween" title="about the Halloween Trail" target="_self">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
-						</li>
-						<li class="featurePane col-xs-4">
-							<a href="news/#choir" title="visit the Walbottle Choisters group page">
-								<img src="/assets/images/choir.jpg" class="img-responsive" alt="walbottle Choir"/></a>
-							<h3>Walbottle Choir</h3>
-							<p>Meeting every two weeks in the Village Institute at 7:30pm for an hour. £2 per session.</p>
-							<a class="more" href="news/l#choir" title="visit the Walbottle Choisters group page">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
-						</li>
-						<li class="featurePane col-xs-4">
-							<a href="news/#foodbank" title="about the Food Bank">
-								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
-							<h3>Food Bank Collection</h3>
-							<p>Sunday, 15 October, 10:30 to 11:30 in the Village Institute.</p>
-							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
-						</li>
-						<li class="featurePane col-xs-4">
-							<a href="news/#halloween" title="about the Halloween Trail" target="_self"><img src="/assets/images/halloween.jpg" class="img-responsive" alt="halloween 2023"/></a>
-							<h3>Halloween Trail</h3>
-							<p>Our popular Halloween trail will take place on 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm.</p>
-							<a class="more" href="news/#halloween" title="about the Halloween Trail" target="_self">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+					</ul>
+					<li class="featurePane col-xs-4">
+						<a href="news/#DDay" title="about the Food Bank">
+							<img src="/assets/images/DDay.jpg" class="img-responsive" alt="walbottle DDay Planning Meeting"/></a>
+							<h3>DDay Ideas Meeting</h3>
+							<p>Sunday, 10 January, 7:00pm in the Village Institute.</p>
+							<a class="more" href="news/#DDay" title="about the DDay Meeting">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 					</ul>
 					<button type="button" class="slideRight" id="goToNextSlide"></button>
