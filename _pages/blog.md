@@ -26,24 +26,12 @@ permalink: /news/
 					<div class="row" id="DDay">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/foodbank.jpg" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/DDay.jpg" alt="Halloween Trail 2023" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>DDay Open Meeting <span>Posted: 5 January r</span></h3>
+								<h3>D-Day Open Meeting <span>Posted: 5 January r</span></h3>
 								<p>Wednesday 10 January , 7:00pm  in the Village Institute.</p>
-								<p>D-Day Volunteers
-
-The 6th of June 2024 sees the Commemoration and
-Celebration of the D-Day Landings.
-
-The WVI trustees and WVT&RA are looking for volunteers to help organise events so that we can come together as a community to mark the occasion and to have some fun and to remember the village as it was then and celebrate the
-community that we have here now.
-
-The first meeting to plan events will be on Wednesday, 10 January 2024 at 7pm in the Village Institute. We would love
-to see you at the meeting and welcome your ideas for our D-Day commemoration and celebrations.
-
-We also need volunteers to help with the logistics of the
-events, both in the run up and on the days themselves.</p>
+								<p>This meeting will be held at the Village Institute at 7pm on 10 January. All welcome.</p>
 							</div>	
 						</div>
 					</div>
