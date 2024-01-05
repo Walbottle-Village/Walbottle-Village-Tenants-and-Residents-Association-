@@ -8,7 +8,7 @@ permalink: /actity_groups/walbottle_walks/
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
-			<img src="/assets/images/walks-img.jpg" class="img-responsive" alt="Walbottle Walks group"/>
+			<img src="/assets/images/masthead-walks.jpg" class="img-responsive" alt="Walbottle Walks group"/>
 		</div>
 	</div>
 </div>
