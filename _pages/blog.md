@@ -29,7 +29,7 @@ permalink: /news/
 								<img src="/assets/images/DDay.jpg" alt="Halloween Trail 2023" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>D-Day Open Meeting <span>Posted: 5 January r</span></h3>
+								<h3>D-Day Open Meeting <span>Posted: 5 January </span></h3>
 								<p>Wednesday 10 January , 7:00pm  in the Village Institute.</p>
 								<p>This meeting will be held at the Village Institute at 7pm on 10 January. All welcome.</p>
 							</div>	
