@@ -1,6 +1,6 @@
 <span class="req">*</span><span class="required">denotes required form fields.</span><br><br></p>
 				<form class="form-horizontal" action="https://email.walbottlevillagetra.co.uk/formmail.php" method="post" name="Enquiry" data-toggle="validator" role="form">
-					<input type="hidden" name="recipients" value="peter@petersweb.me.uk" />
+					<input type="hidden" name="recipients" value="walbottlera@gmail.com" />
 					<!-- this derives (creates) "email" and "realname" special fields from the input fields -->
 				    <input type="hidden" name="derive_fields" value="email=Email_Address,realname=Full_Name" />
 					<!-- this excludes the "email" and "realname" special fields from the body of the email you receive -->
@@ -33,6 +33,11 @@
 							<textarea class="form-control" id="message" name="Message" rows="6" placeholder="Your message" data-error="Please enter your message" required></textarea>
 						</div>
 					</div>
+					<div class="form-group">
+						<div class="col-sm-12">	
+					<div class="h-captcha pull-right" data-sitekey="f570f516-ee74-42ce-bce0-8232780da259" data-size="compact"></div>
+						</div>
+						</div>
 					<div class="form-group">
 						<div class="col-sm-12">	
 							<button type="submit" class="btn button block pull-right">Send message</button>
