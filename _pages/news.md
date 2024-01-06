@@ -26,7 +26,7 @@ permalink: /news/
 					<div class="row" id="DDay">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/DDay.jpg" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/DDay.jpg" loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>D-Day Open Meeting <span>Posted: 5 January </span></h3>
@@ -38,7 +38,7 @@ permalink: /news/
 					<div class="row" id="foodbank">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/foodbank.jpg" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/foodbank.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Food Bank Collection <span>Posted: 5 January</span></h3>
@@ -49,7 +49,7 @@ permalink: /news/
 					<div class="row" id="halloween">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/halloween.jpg" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/halloween.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Halloween Trail <span>Posted: 15 October</span></h3>
