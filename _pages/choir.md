@@ -3,11 +3,12 @@ layout: default
 title: Choir
 bodytag: choir
 permalink: /actity_groups/choir/
+description: Less of a choir and more a posh karaoke - we enjoy singing with like minded, friendly people. Meeting every Monday at Walbottle Village Institute from 7:30pm (excluding bank holidays).
 ---
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
-			<img src="/assets/images/photography-img.jpg" class="img-responsive" alt="Walbottle Village Photography group"/>
+			<img src="/assets/images/masthead-choir-xmas.jpg" class="img-responsive" alt="Walbottle Village Photography group"/>
 		</div>
 	</div>
 </div>
