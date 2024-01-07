@@ -16,6 +16,8 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache 
   - jekyll-minifier
+  - jekyll-last-modified-at
+
 include:
   - _pages
 

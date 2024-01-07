@@ -13,4 +13,6 @@ group :jekyll_plugins do
   gem 'jekyll-minifier'
   gem "html-proofer"
   gem 'rake'
+  gem "jekyll-last-modified-at"
+  
 end

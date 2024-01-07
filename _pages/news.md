@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Blog
+title: News
+description: Keep up-to-date with news and events in Walbottle Village. Listed below are news articles and events in Walbottle Village and download links for the printed newsletter.
 permalink: /news/
 ---
 <div class="container-fluid">
@@ -38,11 +39,13 @@ permalink: /news/
 					<div class="row" id="foodbank">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/foodbank.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/Foodbank-Jan.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Food Bank Collection <span>Posted: 5 January</span></h3>
 								<p>Sunday 7 January, 10:30 to 12:00 in the Village Institute.</p>
+								<h4>Food donated</h4>
+								<p>30 packs pasta, 12 cooking rice with a further, 4 rice packs, 10 pot noodles, 8 noodle packs, 8 spaghetti, 9 tins of meat, 20 tins of tuna, 27 tins of beans, 29 sauces, pulses/peas, 12 cereals, 19 Tins of soup, spaghetti, veg, 8 coffee and tea packs, 6 breads, 2 fajita kits, 12 milk, 17 tinned fruit/ desserts, and lots lots more. Thank you.</p>
 							</div>	
 						</div>
 					</div>
