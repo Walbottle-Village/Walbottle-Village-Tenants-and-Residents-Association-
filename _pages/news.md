@@ -24,6 +24,16 @@ permalink: /news/
 				</div>
 			</div>
 				<div class="col-xs-12 eventWrap">
+					<div class="row" id="foodbank">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/foodbank.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Food Bank Collection <span>Posted: 7 January</span></h3>
+								<p>Sunday 7 April, 10:30 to 12:00 in the Village Institute.</p>
+								</div>
+								</div>
 					<div class="row" id="DDay">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -36,7 +46,7 @@ permalink: /news/
 							</div>	
 						</div>
 					</div>
-					<div class="row" id="foodbank">
+					<div class="row" id="foodbankJan">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
 								<img src="/assets/images/Foodbank-Jan.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
