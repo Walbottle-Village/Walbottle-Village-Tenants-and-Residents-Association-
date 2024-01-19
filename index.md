@@ -2,6 +2,7 @@
 bodytag: home
 layout: default
 title: Home
+description: Founded in 2020 during Covid lockdown to bring relief to residents, encouraging a community spirit and assisting vulnerable members of the community.
 ---
 <div class="container-fluid hidden-xs">
 	<div class="row">
@@ -61,6 +62,13 @@ title: Home
 							<p>Meeting every two weeks in the Village Institute at 7:30pm for an hour. £2 per session.</p>
 							<a class="more" href="news/#choir" title="visit the Walbottle Choisters group page">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
+						<li class="featurePane col-xs-4">
+							<a href="news/#meeting" title="about the Food Bank">
+								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
+							<h3>Residents meeting</h3>
+							<p>Tuesday 22 Jan, 19:30 in the Village Institute.</p>
+							<a class="more" href="news/#meeting" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+						</li>				
 						<li class="featurePane col-xs-4">
 							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>

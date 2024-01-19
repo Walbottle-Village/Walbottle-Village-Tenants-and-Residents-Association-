@@ -20,11 +20,20 @@ permalink: /news/
 				<div class="col-xs-12">
 					<h2>News &amp; Events</h2>
 					<p><strong>Keep up-to-date with news and events in Walbottle Village.</strong></p>
-					<p>Listed below are news articles and events in Walbottle Village. If you would like to suggest or submit a news article or an upcoming event please <a href="mailto:newsletter@walbottlevillagetra.co.uk?Subject=News%20&amp;%20Events" title="email WVT&amp;RA with your news or event">email us</a> or complete the form on the <a href="contact.html" title="visit the WVT&amp;RA contact page" target="_self">contact page</a>. You look forward to hearing from you.</p>
+					<p>Listed below are news articles and events in Walbottle Village. If you would like to suggest or submit a news article or an upcoming event please <a href="mailto:newsletter@walbottlevillagetra.co.uk?Subject=News%20&amp;%20Events" title="email WVT&amp;RA with your news or event">email us</a> or complete the form on the <a href="/contact/" title="visit the WVT&amp;RA contact page" target="_self">contact page</a>. You look forward to hearing from you.</p>
 				</div>
 			</div>
 				<div class="col-xs-12 eventWrap">
-					<div class="row" id="foodbank">
+					<div class="row" id="meeting">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg"  loading="lazy" alt="Residents meeting" class="img-responsive">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Residents meeting <span>Posted: 19 January</span></h3>
+								<p>Tuesday 22 Jan, 19:30 in the Village Institute.</p>
+								</div>
+								</div><div class="row" id="foodbank">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
 								<img src="/assets/images/foodbank.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
