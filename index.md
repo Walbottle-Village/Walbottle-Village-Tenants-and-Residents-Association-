@@ -66,7 +66,7 @@ description: Founded in 2020 during Covid lockdown to bring relief to residents,
 							<a href="news/#meeting" title="about the Food Bank">
 								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Residents meeting</h3>
-							<p>Tuesday 22 Jan, 19:30 in the Village Institute.</p>
+							<p>Tuesday 23 Jan, 19:30 in the Village Institute.</p>
 							<a class="more" href="news/#meeting" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>				
 						<li class="featurePane col-xs-4">
