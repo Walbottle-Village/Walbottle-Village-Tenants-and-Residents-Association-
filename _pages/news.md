@@ -31,7 +31,7 @@ permalink: /news/
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Residents meeting <span>Posted: 19 January</span></h3>
-								<p>Tuesday 22 Jan, 19:30 in the Village Institute.</p>
+								<p>Tuesday 23 Jan, 19:30 in the Village Institute.</p>
 								</div>
 								</div><div class="row" id="foodbank">
 						<div class="article">
