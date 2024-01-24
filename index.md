@@ -59,29 +59,15 @@ description: Founded in 2020 during Covid lockdown to bring relief to residents,
 							<a href="news/#choir" title="visit the Walbottle Choisters group page">
 								<img src="/assets/images/choir.jpg" class="img-responsive" alt="walbottle Choir"/></a>
 							<h3>Walbottle Choir</h3>
-							<p>Meeting every two weeks in the Village Institute at 7:30pm for an hour. £2 per session.</p>
+							<p>Meeting every week in the Village Institute at 7:30pm for an hour. £2 per session.</p>
 							<a class="more" href="news/#choir" title="visit the Walbottle Choisters group page">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
-						<li class="featurePane col-xs-4">
-							<a href="news/#meeting" title="about the Food Bank">
-								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
-							<h3>Residents meeting</h3>
-							<p>Tuesday 23 Jan, 19:30 in the Village Institute.</p>
-							<a class="more" href="news/#meeting" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
-						</li>				
 						<li class="featurePane col-xs-4">
 							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Food Bank Collection</h3>
 							<p>Sunday, 7 April, 10:30 to 12:00 in the Village Institute.</p>
 							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
-						</li>				
-					<li class="featurePane col-xs-4">
-						<a href="news/#DDay" title="about the Food Bank">
-							<img src="/assets/images/DDay.jpg" class="img-responsive" alt="walbottle DDay Planning Meeting"/></a>
-							<h3>D-Day Ideas Meeting</h3>
-							<p>Wednesday, 10 January, 7:00pm in the Village Institute.</p>
-							<a class="more" href="news/#DDay" title="about the DDay Meeting">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 					</ul>
 					<button type="button" class="slideRight" id="goToNextSlide"></button>
