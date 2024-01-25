@@ -60,7 +60,7 @@ description: Founded in 2020 during Covid lockdown to bring relief to residents,
 							<img src="/assets/images/D-DAY-events-868x414.jpg" class="img-responsive" alt="D-Day Anniversary events"/></a>
 							<h3>D-DAY Anniversary Events 2024</h3>
 							<p>Beacon Lighting &bull; Fish &amp; Chips &bull; Community Singing &bull; Piper &bull; Photo Booth &bull; Displays &bull; Maps &amp; Audio &bull; Face Painting &bull; Food &bull; Kids Activities &bull; Brass Band &bull; <em>and more&hellip;</em></p>
-							<a class="more" href="news/#d-day-events" title=""more about the D-Day events">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a class="more" href="news/#d-day-events" title="more about the D-Day events">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
 							<a href="news/#choir" title="visit the Walbottle Choisters group page">
