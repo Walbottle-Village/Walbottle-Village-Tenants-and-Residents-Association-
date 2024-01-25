@@ -24,7 +24,7 @@ permalink: /news/
 				</div>
 			</div>
 				<div class="col-xs-12 eventWrap">
-					<div class="row" id="meeting">
+<div class="row" id="meeting">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
 								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg"  loading="lazy" alt="Residents meeting" class="img-responsive">
@@ -32,8 +32,11 @@ permalink: /news/
 							<div class="col-sm-9 col-xs-12">
 								<h3>Residents meeting <span>Posted: 19 January</span></h3>
 								<p>Tuesday 23 Jan, 19:30 in the Village Institute. <a href="/assets/pdf/240123 - WVTRA Committee Meeting Agenda.docx.pdf" title="agenda">View the agenda</a> </p>
-								</div>
-								</div><div class="row" id="foodbank">
+							</div>
+						</div>
+					</div>
+						
+					<div class="row" id="foodbank">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
 								<img src="/assets/images/foodbank.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
@@ -41,8 +44,10 @@ permalink: /news/
 							<div class="col-sm-9 col-xs-12">
 								<h3>Food Bank Collection <span>Posted: 7 January</span></h3>
 								<p>Sunday 7 April, 10:30 to 12:00 in the Village Institute.</p>
-								</div>
-								</div>
+							</div>
+						</div>
+					</div>
+						
 					<div class="row" id="DDay">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -55,6 +60,7 @@ permalink: /news/
 							</div>	
 						</div>
 					</div>
+						
 					<div class="row" id="foodbankJan">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -68,6 +74,7 @@ permalink: /news/
 							</div>	
 						</div>
 					</div>
+						
 					<div class="row" id="halloween">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -77,7 +84,9 @@ permalink: /news/
 								<h3>Halloween Trail <span>Posted: 15 October</span></h3>
 								<p>Our popular Halloween trail will take place on 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm.</p>
 							</div>
+						</div>
 					</div>
+						
 					<div class="row" id="foodbank-Oct">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -89,6 +98,7 @@ permalink: /news/
 							</div>	
 						</div>
 					</div>
+						
 					<div class="row" id="choir">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
