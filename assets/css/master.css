@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Tiro+Telugu&display=swap');
+
 html{scroll-behavior: smooth;}
 
 /*BOTTSTRAP MODS */
@@ -122,11 +124,11 @@ body#home .navbar-nav li a.home, body#voices .navbar-nav li a.history, body#maps
 .welcomePanel h3 {font-size:130%;color:#088137;text-transform:uppercase;font-weight:600;margin:10px 0;}
 .welcomePanel h4 {background:#088137;color:#fff;text-align:center; text-transform:uppercase;font-weight:600;padding:4px 0;}
 .intro, .mainPanel .col-md-8 {padding-right:30px;}
-.sideImg {margin-left:20px;background:url('../images/Walbottle-beautiful-.jpg') no-repeat center center ;background-size:cover;border:none;overflow:hidden;}
+.sideImg {margin-left:20px;background:url('../img/Walbottle-beautiful-.jpg') no-repeat center center ;background-size:cover;border:none;overflow:hidden;}
 .welcomeImg {display:none !important;}
 
-.groups {background:#f9b22e url('../images/gardeningBG.jpg') repeat-x top left;}
-.historyBG {background:#f9b22e url('../images/historyBG.jpg') repeat-x top left;}
+.groups {background:#f9b22e url('../img/gardeningBG.jpg') repeat-x top left;}
+.historyBG {background:#f9b22e url('../img/historyBG.jpg') repeat-x top left;}
 .mainPanel {background:#fff;padding:20px 50px 50px;margin-top:-90px;margin-bottom:200px;box-shadow: 0px 6px 6px 2px rgba(0,0,0,.3);position:relative;}
 .mainPanel h2 {color:#088137;padding-top:20px;}
 .mainPanel p {padding:10px 0 6px 0;}
@@ -151,7 +153,7 @@ body#home .navbar-nav li a.home, body#voices .navbar-nav li a.history, body#maps
 .panelGrey .panelWrap img {padding-top:0;padding-bottom:8px;}
 .panelGrey p {padding-right:15px;}
 
-.panelYellow {margin-top:30px;border:2px solid #f8b22e; padding:12px 100px 12px 12px; background:#fffbdc url('../images/pdf-download.svg') no-repeat top right;background-size:contain;}
+.panelYellow {margin-top:30px;border:2px solid #f8b22e; padding:12px 100px 12px 12px; background:#fffbdc url('../img/pdf-download.svg') no-repeat top right;background-size:contain;}
 .panelYellow p a {color:#000;}
 .panelYellow h3 {margin-top:10px;}
 
@@ -174,8 +176,8 @@ section.maps p {text-align:center;padding:0 10px 20px;}
 a.more span {font-size:80%;}
 
 .gallery li caption {display:block;padding-top:10px;}
-.slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-5%;background:url('../images/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
-.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-5%;background:url('../images/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
+.slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-5%;background:url('../img/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
+.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-5%;background:url('../img/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
 
 .whitePanel {background:#fff;}
 .activity-contactPanel {padding-top:40px;padding-bottom:80px;}
@@ -202,7 +204,7 @@ ul.impact li span {padding-right:6px;font-size:110%;color:#168a13;}
 ul.impact li.red span {color:#bb001f;}
 
 .eventWrap {margin-top:30px;}
-.eventWrap .article {float:left;display:block;border-bottom:1px solid #505050;margin-bottom:30px;padding-bottom:30px; width: 100%;}
+.eventWrap .article {float:left;display:block;border-bottom:1px solid #505050;margin-bottom:30px;padding-bottom:30px;}
 .eventWrap .article .col-xs-3 {padding:0;}
 .eventWrap .row img {padding:0;margin:0;}
 .eventWrap .row h3 {margin-top:0;padding-top:0;}
@@ -229,8 +231,8 @@ a.route p {color:#fff;font-size:110%;padding:8px 5px 14px;}
 .historyIntro {padding-right:50px;}
 #history .mainPanel .row, #heros .mainPanel .row {border-top:1px solid #e84d5f;margin-top:30px;padding-top:10px;}
 #history .mainPanel .row:first-child, #heros .mainPanel .row:first-child {border-top:none;margin-top:0px !important;}
-.mainPanel .quoteOpen {background:url('../images/quoteOpen.jpg') no-repeat center left;height:58px;}
-.mainPanel .quoteClose {background:url('../images/quoteClose.jpg') no-repeat center right;height:58px;}
+.mainPanel .quoteOpen {background:url('../img/quoteOpen.jpg') no-repeat center left;height:58px;}
+.mainPanel .quoteClose {background:url('../img/quoteClose.jpg') no-repeat center right;height:58px;}
 #history .mainPanel ul, #heros .mainPanel ul {padding:15px 0 0 0;}
 #history .mainPanel ul li, #heros .mainPanel ul li {list-style-type:none;padding-bottom:4px;}
 #history .mainPanel ul li a span, #heros .mainPanel ul li a span {font-size:80%;color:#e84d5f;}
@@ -313,8 +315,8 @@ body#home .footer ul li a.home, body#access .footer ul li a.activity, body#garde
 	
 	.sideImg {background:none;margin-left:0px;}
 	
-.slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-7%;background:url('../images/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
-.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-7%;background:url('../images/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
+.slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-7%;background:url('../img/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
+.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-7%;background:url('../img/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
 	
 	#about .row-eq-height div:nth-child(even) .panelGrey {border-right:none;}
 	
@@ -374,7 +376,7 @@ body#home .footer ul li a.home, body#access .footer ul li a.activity, body#garde
 	.navbar-header ul.social2 li a {display:inline-block;}
 	.masthead h1 {font-size:6.3vw;}
 	
-	.welcome {background: #f9b22e url('../images/mastheadImg-home.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	.welcome {background: #f9b22e url('../img/mastheadImg-home.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
 	
 	.row-eq-height {display:-webkit-box;display:-webkit-block;display:-ms-flexbox;display:block;margin-left:15px;margin-right:15px;}
 	.mastImg {display:none;}
@@ -382,28 +384,28 @@ body#home .footer ul li a.home, body#access .footer ul li a.activity, body#garde
 	
 	ul#imageGallery li img, ul#imageGallery2 li img, ul#imageGallery3 li img, ul#imageGallery4 li img, ul#imageGallery-photos li img, ul#imageGallery-photos2 li img, ul#imageGallery-photos3 li img, ul#imageGallery-photos4 li img {}
 	
-	#access .groups {background: #f9b22e url('../images/mastheadImg-access.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#gardening .groups {background: #f9b22e url('../images/mastheadImg-gardening.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#kids .groups {background: #f9b22e url('../images/mastheadImg-kids.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#photography .groups {background: #f9b22e url('../images/mastheadImg-photographyGroup.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#choir .groups {background: #f9b22e url('../images/masthead-choir-xmas.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#walks .groups {background: #f9b22e url('../images/masthead-walks.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#news .groups {background: #f9b22e url('../images/masthead-news.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#shop .groups {background: #f9b22e url('../images/masthead-shop.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#about .groups {background: #f9b22e url('../images/masthead-about.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#contact .groups {background: #f9b22e url('../images/masthead-contact.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#history .historyBG {background: #e84d5f url('../images/mastheadImg-history.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#heros .historyBG {background: #e84d5f url('../images/masthead-heros.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#access .groups {background: #f9b22e url('../img/mastheadImg-access.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#gardening .groups {background: #f9b22e url('../img/mastheadImg-gardening.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#kids .groups {background: #f9b22e url('../img/mastheadImg-kids.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#photography .groups {background: #f9b22e url('../img/mastheadImg-photographyGroup.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#choir .groups {background: #f9b22e url('../img/masthead-choir-xmas.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#walks .groups {background: #f9b22e url('../img/masthead-walks.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#news .groups {background: #f9b22e url('../img/masthead-news.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#shop .groups {background: #f9b22e url('../img/masthead-shop.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#about .groups {background: #f9b22e url('../img/masthead-about.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#contact .groups {background: #f9b22e url('../img/masthead-contact.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#history .historyBG {background: #e84d5f url('../img/mastheadImg-history.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#heros .historyBG {background: #e84d5f url('../img/masthead-heros.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
 	
-	#festival .historyBG {background: #e84d5f url('../images/masthead-events.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#voices .historyBG {background: #e84d5f url('../images/masthead-voices.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#maps .historyBG {background: #e84d5f url('../images/mastheadImg-history-maps.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#photos .historyBG {background: #e84d5f url('../images/masthead-historyPhotos.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#primary .historyBG {background: #e84d5f url('../images/masthead-historyPrimary.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#primary .historyBG {background: #e84d5f url('../images/masthead-historyPrimary.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#campus .historyBG {background: #e84d5f url('../images/masthead-historyCampus.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#accessibility .groups {background:#f9b22e url('../images/mastheadImg-home.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
-	#privacy .groups {background:#f9b22e url('../images/mastheadImg-home.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#festival .historyBG {background: #e84d5f url('../img/masthead-events.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#voices .historyBG {background: #e84d5f url('../img/masthead-voices.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#maps .historyBG {background: #e84d5f url('../img/mastheadImg-history-maps.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#photos .historyBG {background: #e84d5f url('../img/masthead-historyPhotos.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#primary .historyBG {background: #e84d5f url('../img/masthead-historyPrimary.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#primary .historyBG {background: #e84d5f url('../img/masthead-historyPrimary.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#campus .historyBG {background: #e84d5f url('../img/masthead-historyCampus.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#accessibility .groups {background:#f9b22e url('../img/mastheadImg-home.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
+	#privacy .groups {background:#f9b22e url('../img/mastheadImg-home.jpg');background-repeat: no-repeat; background-size: 200%;background-position:left top;}
 	
 	.welcomePanel {background:#fff;padding:40px 10px;margin-top:200px;margin-bottom:60px;box-shadow: 0px 6px 6px 2px rgba(0,0,0,.3);position:relative;}
 	.welcomePanel div img {position:relative;bottom:0;left:0px;margin-bottom:10px;}
@@ -420,8 +422,8 @@ body#home .footer ul li a.home, body#access .footer ul li a.activity, body#garde
 	.gallerySlider h2 {padding-left:20px;}
 .featurePane {min-height:450px;}
 
-.slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-12%;background:url('../images/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
-.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-12%;background:url('../images/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
+.slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-12%;background:url('../img/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
+.slideRight {width:52px;height:104px;position:absolute;top:30%;right:-12%;background:url('../img/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
 	
 	.eventWrap .article {float:left;display:block;border-bottom:1px solid #505050;margin-bottom:30px;padding-bottom:10px;}
 	.eventWrap .row p {padding-top:0px;}
@@ -434,7 +436,7 @@ body#home .footer ul li a.home, body#access .footer ul li a.activity, body#garde
 	.activity ul {padding:15px 0 20px 0;}
 	.form {padding-bottom:30px;}
 	
-	.panelYellow {margin-top:30px;border:2px solid #f8b22e; padding:12px 150px 12px 12px; background:#fffbdc url('../images/pdf-download.svg') no-repeat top right;background-size:33%;}
+	.panelYellow {margin-top:30px;border:2px solid #f8b22e; padding:12px 150px 12px 12px; background:#fffbdc url('../img/pdf-download.svg') no-repeat top right;background-size:33%;}
 .panelYellow p a {color:#000;}
 .panelYellow h3 {margin-top:10px;}
 	
@@ -452,3 +454,4 @@ body#home .footer ul li a.home, body#access .footer ul li a.activity, body#garde
 	.footer p {margin-bottom:8px;text-align:left;}
 	.footer .pull-right p {margin-bottom:30px;text-align:left;}
 }
+
