@@ -27,29 +27,32 @@ permalink: /news/
 					<div class="row" id="meeting">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg"  loading="lazy" alt="Residents meeting" class="img-responsive">
+								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg" loading="lazy" alt="Walbottle Residents meeting" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>Residents meeting <span>Posted: 19 January</span></h3>
+								<h3>Residents meeting <span>Posted: 19 January 2024</span></h3>
 								<p>Tuesday 23 Jan, 19:30 in the Village Institute. <a href="/assets/pdf/240123 - WVTRA Committee Meeting Agenda.docx.pdf" title="agenda">View the agenda</a> </p>
-								</div>
-								</div><div class="row" id="foodbank">
+							</div>
+						</div>
+					</div>
+					<div class="row" id="foodbank">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/foodbank.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/foodbank.jpg" loading="lazy" alt="Walbottle Food Bank Collection" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>Food Bank Collection <span>Posted: 7 January</span></h3>
+								<h3>Food Bank Collection <span>Posted: 7 January 2024</span></h3>
 								<p>Sunday 7 April, 10:30 to 12:00 in the Village Institute.</p>
-								</div>
-								</div>
+							</div>
+						</div>
+					</div>
 					<div class="row" id="DDay">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/DDay.jpg" loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/DDay.jpg" loading="lazy" alt="D-Day 2024 Open Meeting" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>D-Day Open Meeting <span>Posted: 5 January </span></h3>
+								<h3>D-Day Open Meeting <span>Posted: 5 January 2024</span></h3>
 								<p>Wednesday 10 January , 7:00pm  in the Village Institute.</p>
 								<p>This meeting will be held at the Village Institute at 7pm on 10 January. All welcome.</p>
 							</div>	
@@ -58,10 +61,10 @@ permalink: /news/
 					<div class="row" id="foodbankJan">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/Foodbank-Jan.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/Foodbank-Jan.jpg" loading="lazy" alt="Walbottle Food Bank Collection" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>Food Bank Collection <span>Posted: 5 January</span></h3>
+								<h3>Food Bank Collection <span>Posted: 5 January 2024</span></h3>
 								<p>Sunday 7 January, 10:30 to 12:00 in the Village Institute.</p>
 								<h4>Food donated</h4>
 								<p>30 packs pasta, 12 cooking rice with a further, 4 rice packs, 10 pot noodles, 8 noodle packs, 8 spaghetti, 9 tins of meat, 20 tins of tuna, 27 tins of beans, 29 sauces, pulses/peas, 12 cereals, 19 Tins of soup, spaghetti, veg, 8 coffee and tea packs, 6 breads, 2 fajita kits, 12 milk, 17 tinned fruit/ desserts, and lots lots more. Thank you.</p>
@@ -71,20 +74,21 @@ permalink: /news/
 					<div class="row" id="halloween">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/halloween.jpg"  loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/halloween.jpg" loading="lazy" alt="Halloween Trail 2023" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>Halloween Trail <span>Posted: 15 October</span></h3>
+								<h3>Halloween Trail <span>Posted: 15 October 2023</span></h3>
 								<p>Our popular Halloween trail will take place on 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm.</p>
 							</div>
+						</div>
 					</div>
 					<div class="row" id="foodbank-Oct">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/foodbank.jpg" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/foodbank.jpg" loading="lazy" alt="Walbottle Food Bank Collection" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>Food Bank Collection <span>Posted: 8 October</span></h3>
+								<h3>Food Bank Collection <span>Posted: 8 October 2023</span></h3>
 								<p>Sunday, 15 October, 10:30 to 11:30 in the Village Institute.</p>
 							</div>	
 						</div>
@@ -92,10 +96,10 @@ permalink: /news/
 					<div class="row" id="choir">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/choir.jpg" alt="Halloween Trail 2023" class="img-responsive">
+								<img src="/assets/images/choir.jpg" loading="lazy" alt="Walbottle Choir" class="img-responsive">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>Walbottle Choir <span>Posted: 6 October</span></h3>
+								<h3>Walbottle Choir <span>Posted: 6 October 2023</span></h3>
 								<p>Meeting every two weeks in the Village Institute at 7:30pm for an hour. £2 per session.</p>
 							</div>
 						</div>
