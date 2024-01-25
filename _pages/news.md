@@ -24,6 +24,25 @@ permalink: /news/
 				</div>
 			</div>
 				<div class="col-xs-12 eventWrap">
+					<div class="row" id="d-day-events">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/D-DAY-events-868x414.jpg" loading="lazy" alt="D-Day 2024 events at Walbottle" class="img-responsive">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>D-DAY Anniversary Events 2024 <span>Posted: 25 January 2024</span></h3>
+								<p>June 6th 2024 marks the 80th anniversary of the D-Day landings in Normandy and will be commemorated and celebrated across the country.</p>
+								<p>We will be holding two events in Walbottle Village at the village institute and on the green, all are welcome. We will be commemorating and celebrating the heroic actions undertaken by British and ally troops in the air, on land and at sea during D-Day.</p>
+<p><strong>COMMEMORATION EVENT • Thursday 6 June, 7:30pm – 10:00pm</strong></p>
+<p>We will be providing a fish and chip supper in the village institute for a small donation of £2. If you would like a fish and chips voucher <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1qQ7BH_qadeOUoZorrwmct0wv-hYV6TAYJaSXptJNKpe7sQ/viewform" target="_blank" title="open the order form in a new window">click here to complete the online order form</a>.</p>
+								<p>Evening events include lighting the beacon and the D-Day proclamation read by our town crier, a piper and community singing led by Walbottle Choir.</p>
+								<p><strong>CELEBRATION EVENT • Sunday 9th June, 12.00pm – 4:30pm</strong></p>
+<p>The Sunday event will include a marquee, photo booth with World War II props, a display of maps and audio recordings, food and drinks, face painting, kids activities, a brass band and more&hellip;</p>
+
+<p><strong>Everyone is welcome to both events and we look forward to seeing you.</strong></p>
+							</div>
+						</div>
+					</div>
 					<div class="row" id="meeting">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
