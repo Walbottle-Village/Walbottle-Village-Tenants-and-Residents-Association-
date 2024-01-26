@@ -12,7 +12,7 @@ permalink: /news/
 	</div>
 </div>
 
-<div class="container-fluid groups"> <!-- container-fluid -->
+<div class="container-fluid groups" id="news"> <!-- container-fluid -->
 	<div class="row"> <!-- row -->
 		<div class="col-sm-1 col-xs-0"></div>
 		<div class="col-sm-10 col-xs-12 mainPanel">
