@@ -29,9 +29,9 @@ permalink: /actity_groups/kids-corner/
 			 	 <p>2022 was the 1900th anniversary of the wall being built and to celebrate there were lots of activities across the country.</p>
 				</div>
 				<div class="col-md-4 col-xs-12">
-					<img src="img/hadrian.jpg" class="img-responsive" alt="a statue of Emperor Hadrian"/>
+					<img src="/assets/images/hadrian.jpg" class="img-responsive" alt="a statue of Emperor Hadrian"/>
 					<caption>A statue of Emperor Hadrian</caption>
-					<img src="img/hadrians-wall.jpg" class="img-responsive" alt="artists impression of a section of the original Hadrian's Wall"/>
+					<img src="/assets/images/hadrians-wall.jpg" class="img-responsive" alt="artists impression of a section of the original Hadrian's Wall"/>
 					<caption>A section of Hadrian's Wall</caption>
 				</div>
 			</div> <!-- /row -->
@@ -40,11 +40,11 @@ permalink: /actity_groups/kids-corner/
 				  <h3>Roman Quiz</h3>
 				</div>
 				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-				  <a href="http://www.primaryhomeworkhelp.co.uk/Romans.html" target="_blank"><img src="img/Roman-soldier-on-wall1.jpg" class="img-responsive" alt="Roman soldier standing on Hadrian's wall"></a>
+				  <a href="http://www.primaryhomeworkhelp.co.uk/Romans.html" target="_blank"><img src="/assets/images/Roman-soldier-on-wall1.jpg" class="img-responsive" alt="Roman soldier standing on Hadrian's wall"></a>
 				  <caption>A Roman soldier on Hadrian's wall</caption>
 				</div>
 				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-				  <a href="http://www.primaryhomeworkhelp.co.uk/Romans.html" target="_blank"><img src="img/Roman-lady.jpg" class="img-responsive" alt="A Roman Lady"></a>
+				  <a href="http://www.primaryhomeworkhelp.co.uk/Romans.html" target="_blank"><img src="/assets/images/Roman-lady.jpg" class="img-responsive" alt="A Roman Lady"></a>
 				   <caption>A Roman Lady</caption>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -68,14 +68,14 @@ permalink: /actity_groups/kids-corner/
 				  <h2>King Charles III</h2>
 				</div>
 				<div class="col-md-6 col-xs-12">
-				<a href="https://www.natgeokids.com/uk/discover/history/monarchy/facts-about-the-king-charles-iii/" title="visit National Geographic Kids website" target="_blank"><img src="img/royal-family.jpg" class="img-responsive" alt="photograph of King Charles III, Queen Camilla, and the Prince and Princess of Wales, William and Catherine"/></a>
+				<a href="https://www.natgeokids.com/uk/discover/history/monarchy/facts-about-the-king-charles-iii/" title="visit National Geographic Kids website" target="_blank"><img src="/assets/images/royal-family.jpg" class="img-responsive" alt="photograph of King Charles III, Queen Camilla, and the Prince and Princess of Wales, William and Catherine"/></a>
 				</div>
 				<div class="col-md-6 col-xs-12">
 					<h3>Did you know we have a new Monarch?</h3>
 					<p>Following the death of Her Majesty Queen Elizabeth II, Prince Charles was proclaimed King Charles III on the 8th of September. On the left we see King Charles with the Queen Camilla, and the Prince and Princess of Wales, William and Catherine. Click on the photograph to find out some more facts about King Charles.</p>
 				</div>
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-					<img src="img/buckinghamPalace.jpg" class="img-responsive" alt="Buckingham Palace"/>
+					<img src="/assets/images/buckinghamPalace.jpg" class="img-responsive" alt="Buckingham Palace"/>
 				</div>
 			</div> <!-- /row -->
 			<div class="row"> <!-- row -->
@@ -84,22 +84,22 @@ permalink: /actity_groups/kids-corner/
 					<p>Some educational websites that your children might enjoy (all links open in a new tab).</p>
 				</div>
 				<div class="col-md-4 col-xs-6">
-		    		<a href="https://www.edenprojectcommunities.com/stuff-you-can-do" target="_blank" title="visit Eden Project Communities in a new tab"><img src="img/kids-eden.jpg" class="img-responsive" alt="Eden Project Communities"/></a>
+		    		<a href="https://www.edenprojectcommunities.com/stuff-you-can-do" target="_blank" title="visit Eden Project Communities in a new tab"><img src="/assets/images/kids-eden.jpg" class="img-responsive" alt="Eden Project Communities"/></a>
 				</div>
 				<div class="col-md-4 col-xs-6">
-				    <a href="https://www.tate.org.uk/kids" target="_blank" title="visit Tate Kids in a new tab"><img src="img/kids-tate-kids.jpg" class="img-responsive" alt="Tate Kids"/></a>
+				    <a href="https://www.tate.org.uk/kids" target="_blank" title="visit Tate Kids in a new tab"><img src="/assets/images/kids-tate-kids.jpg" class="img-responsive" alt="Tate Kids"/></a>
 				</div>
 				<div class="col-md-4 col-xs-6">
-		    		<a href="https://www.natgeokids.com/uk/" target="_blank" title="visit National Geographic Kids in a new tab"><img src="img/kids-national-geographic.jpg" class="img-responsive" alt="National Geographic"/></a>
+		    		<a href="https://www.natgeokids.com/uk/" target="_blank" title="visit National Geographic Kids in a new tab"><img src="/assets/images/kids-national-geographic.jpg" class="img-responsive" alt="National Geographic"/></a>
 				</div>
 				<div class="col-md-4 col-xs-6">
-		     		<a href="https://www.bbc.co.uk/cbeebies/games" target="_blank" title="visit CBBC in a new tab"><img src="img/kids-cbbc.jpg" class="img-responsive" alt="BBC-CBBC"/></a>
+		     		<a href="https://www.bbc.co.uk/cbeebies/games" target="_blank" title="visit CBBC in a new tab"><img src="/assets/images/kids-cbbc.jpg" class="img-responsive" alt="BBC-CBBC"/></a>
 				</div>
 				<div class="col-md-4 col-xs-6">
-		    		<a href="http://www.supercoloring.com/sections/coloring-pages" target="_blank" title="visit Paint The Worls - Super Colouring in a new tab"><img src="img/kids-paint.jpg" class="img-responsive" alt="Paint The World - Super Colouring"/></a>
+		    		<a href="http://www.supercoloring.com/sections/coloring-pages" target="_blank" title="visit Paint The Worls - Super Colouring in a new tab"><img src="/assets/images/kids-paint.jpg" class="img-responsive" alt="Paint The World - Super Colouring"/></a>
 				</div>
 				<div class="col-md-4 col-xs-6">
-		    		<a href="https://happylearning.tv/en/games/" target="_blank" title="visit Happy Learning in a new tab"><img src="img/kids-happy-learning.jpg" class="img-responsive" alt="Happy Learning"/></a>
+		    		<a href="https://happylearning.tv/en/games/" target="_blank" title="visit Happy Learning in a new tab"><img src="/assets/images/kids-happy-learning.jpg" class="img-responsive" alt="Happy Learning"/></a>
 				</div>
 	 		</div>
 			<div class="col-sm-1 col-xs-0"></div>
