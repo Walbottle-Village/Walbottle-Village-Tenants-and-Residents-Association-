@@ -22,13 +22,11 @@ gallery: true
 					<h2>Gardening Group</h2>
 					<p><strong>Our gardening group is the inspiration for the Residents Association, they planted the seed that blossomed into the Tenants &amp; Residents Association.</strong></p>
 					<p>The Gardening Group are out most weekends planting new areas of the village. Now in its third year the Gardening Group continues to work hard around the village to make it a beautiful place to live.</p>
-					
 					<h3>We're looking for volunteers&hellip; can you Help?</h3>
 					<p><strong>We have enthusiasm and so many ideas to make Walbottle beautiful but we really need some local residents to volunteer to help.</strong></p>
 					<p>We've already had some notable achievements. We’ve been successful in raising funds from our Ward Councillor, we won the Dobbies Local Community Gardening Competition and were recently presented with a Level 4 Thriving award by the Royal Horticultural Society and Northumbria in Bloom. We would liek to invest the money in keeping the village tidy and realising future plans to keep Walbottle beautiful It would be great if local residents of any age could join in. We post on the WhatsApp residents group or Facebook group page when we are planning to get out and garden, usually at the weekend. Even an hour will do you and the village good. We can let you know the jobs we're tackling, if you don't have gardeing tools, let us know and we'll try and supply them.</p>
 					<p>Please see below a list of community gardening tasks that we need your support with. There are a range of tasks available that we hope more people could get involved with. These range from light deadheading and watering to weeding and digging over areas ready for planting.</p>
 					<p>Please don’t feel you are stepping on anyone’s toes if an area is untidy it needs your help. We have a community WhatsApp group to discuss ideas and progress and generally keep in touch, if you would like to be added please complete the <a href="#getintouch" title="jump to the get in touch form">Get in Touch</a> form or email us at <a href="mailto:walbottlera@gmail.com" title="email Walbottle Village Tenants &amp; Residents Association">walbottlera@gmail.com</a>.</p>
-
 					<section>
 						<h2>To Do List</h2>
 						<h3>Easy Jobs</h3>
@@ -43,11 +41,9 @@ gallery: true
 						<h3>Where are the areas?</h3>
 						<p>Please see below a map of Walbottle. The yellow circles wth stars show the location of the flower beds. The red circles with hearts show the barrel planters. These areas need loving attention from time to time to keep them looking at their best. If you're pasing and have a few moments Feel free to weed!</p>
 						<p><a href="https://www.google.com/maps/d/viewer?mid=1ySFHItwI9aGjk_kYF7IF-RhVP5u1uORF&femb=1&ll=54.99110110660142%2C-1.7362770500000035&z=17" title="walbottle gardening group map" target="_blank">Click here to open the Google Map in a new tab/window.</a></p>
-
 						<iframe src="https://www.google.com/maps/d/embed?mid=1ySFHItwI9aGjk_kYF7IF-RhVP5u1uORF&ehbc=2E312F" width="100%" height="680"></iframe>
 					</section>
 				</div>
-
 				<div class="col-md-4 col-xs-12">
 					<h2>Achievements</h2>
 					<div class="img">
@@ -66,11 +62,9 @@ gallery: true
 						<img src="/assets/images/RHSCertificate.jpg" class="img-responsive" alt="Level 4 Thriving award certificate from the Royal Horticultural Society and Northumbria in Bloom"/>
 					</div>
 				</div>
-
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 					<h2>Making Walbottle Beautiful Gallery</h2>
 					<p>The photos below show the fantastic results of the Gardening Group’s hard work. It really makes a difference to the village. If you can spare some time to get in touch and join in or even just pick a few weeds by yourself we'd appreciate it. Click on a photo to view at a larger size.</p>
-
 				<!-- feature slider -->
 					<div class="demo hasActive">
 						<ul id="imageGallery" class="gallery list-unstyled">      
