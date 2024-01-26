@@ -7,14 +7,13 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     {% include_cached preconnects.html %}
     {% include_cached ga.html %}
-  {% if page.title == "Home"%}
+  	{% if page.title == "Home"%}
 	<title>Welcome to Walbottle Village Tenants &amp; Residents Association Website</title>
-  {% else %}
-  <title>WVT&amp;RA &raquo; {{page.title}}</title>
-  {% endif %}
+	{% else %}
+  	<title>WVT&amp;RA &raquo; {{page.title}}</title>
+  	{% endif %}
 	     <!-- Favicon -->  
          {% include_cached icons.html %}
-         
 </script>
     <!-- Bootstrap core CSS -->
         {% include_cached styles.html %}
@@ -24,10 +23,8 @@
     {% seo title=false %}
 </head>
 <body id="{{page.bodytag}}">
-  <!--icons facebook and email for moblie-->
-  {%include mobile_icons.html%}
-  <!--main nav-->
-  {%include nav.html%}
+  {%include mobile_icons.html%} <!--icons facebook and email for moblie-->
+  {%include nav.html%}	<!--main nav-->
         {{content}}
         {%include photoPanel.html%}
     <footer class="container-fluid footer">
@@ -47,5 +44,4 @@
       <script type="text/javascript" src="https://cs.iubenda.com/autoblocking/3441148.js"></script>
       <script type="text/javascript" src="https://cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
 </body>
- 
 </html>
