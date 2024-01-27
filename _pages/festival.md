@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Walbottle festivals
-permalink: /history/festivals/
+permalink: /history_groups/festival/
 bodytag: festival
 gallery: true
 ---
