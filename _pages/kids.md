@@ -2,7 +2,7 @@
 layout: default
 title: Kids cornner
 bodytag: Kids
-permalink: /actity_groups/kids-corner/
+permalink: /activity_groups/kids-corner/
 ---
 <div class="container-fluid">
 	<div class="row">
