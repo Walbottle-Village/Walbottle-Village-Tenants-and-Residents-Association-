@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Gardening
+title: Walbottle Village Tenants &amp; Residents Association &raquo; Groups &raquo; Gardening
 bodytag: gardening
 permalink: /activity_groups/gardening/
+description: Join our gardening group, the inspiration for the Residents Association. We are out most weekends maintaining flowerbeds planters and borders around the village. It'll do you and the village good.
 gallery: true
 ---	
 <div class="container-fluid">
