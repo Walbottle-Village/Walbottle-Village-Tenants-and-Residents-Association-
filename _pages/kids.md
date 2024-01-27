@@ -3,6 +3,7 @@ layout: default
 title: Kids cornner
 bodytag: Kids
 permalink: /activity_groups/kids-corner/
+description: Fun facts about Walbottle, the Romans, King Charles III and external links to kids activity websites.
 ---
 <div class="container-fluid">
 	<div class="row">
