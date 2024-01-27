@@ -119,7 +119,7 @@ permalink: /news/
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Walbottle Choir <span>Posted: 6 October 2023</span></h3>
-								<p>Meeting every two weeks in the Village Institute at 7:30pm for an hour. £2 per session.</p>
+								<p>Meeting every week in the Village Institute at 7:30pm for an hour. £2 per session.</p>
 							</div>
 						</div>
 					</div>
