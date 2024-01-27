@@ -2,7 +2,7 @@
 layout: default
 title: Walbottle Village Tenants &amp; Residents Association &raquo; Activity Groups &raquo; History Group
 bodytag: history
-permalink: /activity_groups/history
+permalink: /actity_groups/history
 gallery: false
 description: Interesting facts about the village of Walbottle through history, Ad Murum, Hadrian's Walland the Walbottle Hoard.
 ---
