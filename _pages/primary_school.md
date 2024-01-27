@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Walbottle Maps
+title: WVT&amp;RA &raquo; Walbottle History &raquo; Walbottle Primary School
 bodytag: primary
-permalink: /history/schools/primary/
+permalink: /history/primary/
+description: Class and tree planting photographs from Walbottle Primary School. Class shots from 1924 through to 1965.
+keywords: walbottle, village, ne15 8, walbottle primary, walbottle primary school, class photographs, tree planting, walbottle school reunion
 gallery: false
 ---
 <div class="container-fluid">
