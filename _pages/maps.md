@@ -2,7 +2,7 @@
 layout: default
 title: Walbottle Maps
 bodytag: Maps
-permalink: /history/maps/
+permalink: /history_group/maps/
 gallery: false
 description: Links to Ordnance Survey maps from 1865 to 1946 of Newburn, Heddon on the Wall, Throckley and Walbottle, including North Walbottle Colliery and Coronation Pit.
 ---
