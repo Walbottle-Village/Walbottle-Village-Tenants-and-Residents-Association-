@@ -18,6 +18,10 @@ plugins:
   - jekyll-minifier
   - jekyll-last-modified-at
 
+defaults:
+  description: Creating a more neighbourly village and a safe, beautiful place to live.
+  
+
 include:
   - _pages
 
