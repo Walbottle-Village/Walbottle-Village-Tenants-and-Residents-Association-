@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Walbottle Walks
+title: WVT&amp;RA &raquo; Activity Groups &raquo; Walbottle Walks
 bodytag: walks
 permalink: /activity_groups/walbottle_walks/
+description: A collection of PDFs of walks in and around Walbottle and the outer west of Newcastle upon Tyne
 ---
 	
 <div class="container-fluid">
