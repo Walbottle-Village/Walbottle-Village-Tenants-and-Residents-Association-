@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Walbottle Maps
+title: WVT&amp;RA &raquo; Walbottle History &raquo; Maps
 bodytag: Maps
 permalink: /history_group/maps/
 gallery: false
