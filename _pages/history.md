@@ -2,9 +2,10 @@
 layout: default
 title: Walbottle Village Tenants &amp; Residents Association &raquo; Activity Groups &raquo; History Group
 bodytag: history
-permalink: /activity_groups/history
+permalink: /activity_groups/history/
 gallery: false
 description: Interesting facts about the village of Walbottle through history, Ad Murum, Hadrian's Walland the Walbottle Hoard.
+keywords: walbottle, village, ne15 8, walbottle history, history group, ad murum, hadrians wall,hadrian's wall,operation source,walbottle hoard,badge of islam,willie of the woods, mary ann cotton
 ---
 
 <div class="container-fluid">
@@ -14,7 +15,6 @@ description: Interesting facts about the village of Walbottle through history, A
 		</div>
 	</div>
 </div>
-
 <div class="container-fluid historyBG"> <!-- container-fluid -->
 	<div class="row"> <!-- row -->
 		<div class="col-sm-1 col-xs-0"></div>
