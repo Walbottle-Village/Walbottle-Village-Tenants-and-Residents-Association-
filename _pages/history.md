@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Walbottle's Heros
+title: Walbottle Village Tenants &amp; Residents Association &raquo; Activity Groups &raquo; History Group
 bodytag: history
 permalink: /history/
 gallery: false
