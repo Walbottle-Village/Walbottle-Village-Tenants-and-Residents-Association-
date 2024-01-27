@@ -4,6 +4,7 @@ title: WVT&amp;RA &raquo; Activity Groups &raquo; Access Group
 bodytag: access
 permalink: /activity_groups/access/
 description: How we work with Walbottle residents and Newcastle City Council to improve roads and pavements for the elderly and people with disabilities.
+keywords: walbottle, village, ne15 8, resiedents, improve access, roads, improve pavements, hazards, elderly, disabled, disbled access
 ---
 <div class="container-fluid">
 	<div class="row">
@@ -12,7 +13,6 @@ description: How we work with Walbottle residents and Newcastle City Council to 
 		</div>
 	</div>
 </div>
-
 <div class="container-fluid groups">
 	<div class="row">
 		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-0"></div>
