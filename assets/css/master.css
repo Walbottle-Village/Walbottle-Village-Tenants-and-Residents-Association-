@@ -314,6 +314,9 @@ body#home .footer ul li a.home, body#access .footer ul li a.activity, body#garde
 	.intro, .mainPanel .col-md-8 {padding-right:0;}
 	
 	.sideImg {background:none;margin-left:0px;}
+
+	
+.mainPanel iframe {height:500px;}
 	
 .slideLeft {width:52px;height:104px;position:absolute;top:30%;left:-7%;background:url('../images/controls-ls.png') no-repeat center left;background-size:200%;border:none;display:block;opacity:0.6;}
 .slideRight {width:52px;height:104px;position:absolute;top:30%;right:-7%;background:url('../images/controls-ls.png') no-repeat center right;background-size:200%;border:none;display:block;opacity:0.6;}
