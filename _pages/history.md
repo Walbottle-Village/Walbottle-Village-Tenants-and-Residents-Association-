@@ -123,7 +123,6 @@ description: Interesting facts about the village of Walbottle through history, A
 					<p>The sister, Margaret, had about £60 in bank before she left the service of the Rev. Charles Clayton, of Stanhope, near Darlington, but it does not appear that Mary Ann Cotton, the supposed poisoner, had any knowledge of the family before these persons died. It is said, however, that the prisoner gt possession of much of Margaret’s property, and that a child was born three months after her marriage with Cotton, and this circumstance seems to have caused no disagreement between the pair. hence it is inferred that there was some previous acquaintance. The police have ascertained that prisoner bought arsenic in Newcastle.</p>
 				</div>
 			</div> <!--/row -->
-			
 		</div> <!--/mainPanel -->
 		<div class="col-sm-1 col-xs-0"></div>
 	</div> <!--/row -->

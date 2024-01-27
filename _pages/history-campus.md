@@ -25,7 +25,6 @@ gallery: true
 					<p>The school’s origins can be traced back to 1959 when 3 schools shared the site; a Grammar School and two Secondary Modern schools. Later, these merged into a single school. The school was accredited with specialist status for technology in 1995 and was later named Walbottle Campus Technology College.</p>
 					<p>In 2005 the school was re-designated from an age 13-18 high school to an 11-18 comprehensive school. The first phase of a major redevelopment began in February 2007 and the new campus buildings opened in 2008.</p>
 				</div>
-			
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> <!-- feature slider -->
                 	<div class="demo hasActive">
                     	<ul id="imageGallery" class="gallery list-unstyled">

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Access
+title: Activity Groups &raquo; Access Group
 bodytag: access
 permalink: /actity_groups/access/
 ---
