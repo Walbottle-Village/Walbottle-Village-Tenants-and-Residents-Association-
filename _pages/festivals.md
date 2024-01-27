@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WVT&amp;RA &raquo; Walbottle History &raquo; Recent Festivals &amp; Events
-permalink: /history_group/festival/
+permalink: /history_group/festivals/
 bodytag: festival
 description: Photographs from recent events and celebrations in Walbottle including King Charles III Coronation, the Jubilee Festival 2022 and the street party and fete.
 gallery: true
