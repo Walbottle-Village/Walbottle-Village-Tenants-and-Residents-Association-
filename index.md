@@ -3,6 +3,7 @@ bodytag: home
 layout: default
 title: Home
 description: Founded in 2020 during Covid lockdown to bring relief to residents, encouraging a community spirit and assisting vulnerable members of the community.
+keywords: walbottle, village, tenants, tennants, residents, assoc, association, newcastle, newcastle upon tyne, ne158, ne15 8
 ---
 <div class="container-fluid hidden-xs">
 	<div class="row">
@@ -93,13 +94,14 @@ description: Founded in 2020 during Covid lockdown to bring relief to residents,
 				<h2>Activity Groups</h2>
 				<p>We have a wide variety of local groups in Walbottle, for more information please select a link below. If you would like more information or would like to start a group please contact us using the <a href="/contact/" title="visit the contact page" target="_self">enquiry form on the contact page</a>.</p>
 				<ul>
-					<li><a href="actity_groups/access/" title="access Group" target="_self" class="ag-access" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Access Group</a></li>
-					<li><a href="actity_groups/gardening/" title="gardening group" target="_self" class="ag-garden" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Gardening Group</a></li>
-					<li><a href="actity_groups/kids-corner/" title="kids corner" target="_self" class="ag-kids" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Kids Corner</a></li>
+					<li><a href="actity_groups/access/" title="access Group" target="_self" class="ag-access" accessKey="1"><span class="glyphicon glyphicon-triangle-right"></span> Access Group</a></li>
+					<li><a href="actity_groups/gardening/" title="gardening group" target="_self" class="ag-garden" accessKey="2"><span class="glyphicon glyphicon-triangle-right"></span> Gardening Group</a></li>
+					<li><a href="actity_groups/history/" title="history group" target="_self" class="ag-history" accessKey="3"><span class="glyphicon glyphicon-triangle-right"></span> History Group</a></li>
+					<li><a href="actity_groups/kids-corner/" title="kids corner" target="_self" class="ag-kids" accessKey="4"><span class="glyphicon glyphicon-triangle-right"></span> Kids Corner</a></li>
 					<!-- <li><a href="neighbourhood_watch.html" title="neighbourhood watch" target="_self" class="activity" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Neighbourhood Watch</a></li> -->
-					<li><a href="actity_groups/photography_group/" title="photography group" target="_self" class="ag-photo" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Photography Group</a></li>
-					<li><a href="actity_groups/choir/" title="Walbottle choir group" target="_self" class="ag-choir" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Choir</a></li>
-					<li><a href="actity_groups/walbottle_walks/" title="Walbottle walks group" target="_self" class="ag-walks" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Walks</a></li>
+					<li><a href="actity_groups/photography_group/" title="photography group" target="_self" class="ag-photo" accessKey="5"><span class="glyphicon glyphicon-triangle-right"></span> Photography Group</a></li>
+					<li><a href="actity_groups/choir/" title="Walbottle choir group" target="_self" class="ag-choir" accessKey="6"><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Choir</a></li>
+					<li><a href="actity_groups/walbottle_walks/" title="Walbottle walks group" target="_self" class="ag-walks" accessKey="7"><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Walks</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-1"></div>
