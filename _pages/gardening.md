@@ -2,7 +2,7 @@
 layout: default
 title: Gardening
 bodytag: gardening
-permalink: /actity_groups/gardening/
+permalink: /activity_groups/gardening/
 gallery: true
 ---	
 <div class="container-fluid">
