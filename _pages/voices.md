@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Walbottle voices
+title: WVT&amp;RA &raquo; Walbottle History &raquo; Walbottle Voices
 bodytag: voices
 permalink: /hisory/voices/
+description: Walbottle Voices hopes to record the memories of Walbottle residents past and present who wish to share them with others and generations to come. Please contact us of you would like to share your memories.
 gallery: false
 ---
 <div class="container-fluid">
