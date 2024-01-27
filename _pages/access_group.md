@@ -3,6 +3,7 @@ layout: default
 title: Activity Groups &raquo; Access Group
 bodytag: access
 permalink: /actity_groups/access/
+description: How we work with Walbottle residents and Newcastle City Council to improve roads and pavements for the elderly and people with disabilities.
 ---
 <div class="container-fluid">
 	<div class="row">
