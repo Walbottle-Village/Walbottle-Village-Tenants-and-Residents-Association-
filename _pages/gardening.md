@@ -4,6 +4,7 @@ title: Walbottle Village Tenants &amp; Residents Association &raquo; Groups &raq
 bodytag: gardening
 permalink: /activity_groups/gardening/
 description: Join our gardening group, the inspiration for the Residents Association. We are out most weekends maintaining flowerbeds planters and borders around the village. It'll do you and the village good.
+keywords: walbottle, village, ne15 8, gardening group, gardening volunteers, walbottle volunteers, weekend gardening, deadheading, watering plants, weeding flowerbeds, community waste, resident volunteers, royal horticultural society, level 4 thriving, certificaate, Dobbies Local Community, Gardening Competition, winner
 gallery: true
 ---	
 <div class="container-fluid">
@@ -13,7 +14,6 @@ gallery: true
 		</div>
 	</div>
 </div>
-
 <div class="container-fluid groups"> <!-- container-fluid -->
 	<div class="row"> <!-- row -->
 		<div class="col-sm-1 col-xs-0"></div>
