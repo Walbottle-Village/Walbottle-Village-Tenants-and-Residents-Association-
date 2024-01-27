@@ -27,8 +27,7 @@ description: Founded in 2020 during Covid lockdown to bring relief to residents,
 			</div> <!-- /myCarousel -->
 		</div> <!-- /mastImg -->
 	</div> <!--/row -->
-</div> <!-- /container-fluid -->
-<div class="container-fluid welcome">
+</div> <!-- /container-fluid --><div class="container-fluid welcome">
 	<div class="row">
 		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-0"></div>
 		<div class="welcomePanel col-lg-10 col-md-10 col-sm-10 col-xs-12 row-eq-height">
