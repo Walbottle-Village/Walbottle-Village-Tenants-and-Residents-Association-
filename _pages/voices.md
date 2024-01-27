@@ -4,6 +4,7 @@ title: WVT&amp;RA &raquo; Walbottle History &raquo; Walbottle Voices
 bodytag: voices
 permalink: /history_group/voices/
 description: Walbottle Voices hopes to record the memories of Walbottle residents past and present who wish to share them with others and generations to come. Please contact us of you would like to share your memories.
+keywords: walbottle, village, ne15 8, walbottle history, walbottle voices, memories of walbottle,Brian Bennett,David Armstrong,Joseph Armstrong
 ---
 <div class="container-fluid">
 	<div class="row">
@@ -61,4 +62,4 @@ description: Walbottle Voices hopes to record the memories of Walbottle resident
 		</div> <!-- /mainPanel -->
 		<div class="col-sm-1 col-xs-0"></div>
 	</div> <!-- /row -->
-</div> <!-- /container-fluid -->
+</div>
