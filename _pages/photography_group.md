@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Photography Group
+title: WVT&amp;RA &raquo; Activity Groups &raquo; Photography
 bodytag: photography_group
 permalink: /activity_groups/photography_group/
+description: Photography in and around Walbottle village taken by some of our residents.
 gallery: true
 ---
 	
