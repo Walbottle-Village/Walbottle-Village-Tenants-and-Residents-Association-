@@ -1,6 +1,6 @@
 ---
 layout: default
 title: History Groups
-permalink: /history_groups/
+permalink: /history_group/
 ---
 # I am the history groups page
