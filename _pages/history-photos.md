@@ -76,7 +76,7 @@ gallery: true
 	<caption>The old Co-Operative building, Hexham Road - date unknown</caption></li>
 							<li data-thumb="/assets/images/history/The-old-co-op-building-3.jpg" data-src="/assets/images/history/The-old-co-op-building-3.jpg"><img src="/assets/images/history/The-old-co-op-building-3.jpg" alt="image of The old Co-Operative building, Hexham Road - date unknown" class="img-responsive" /><br>
 	<caption>The old Co-Operative building, Hexham Road - date unknown</caption></li>
-							<li data-thumb="/assets/images/history/The-old-co-op-building-2.jpg" data-src="/assets/images/history/The-Old-Co-op-building-2.jpg"><img src="/assets/images/history/The-old-co-op-building-2.jpg" alt="image of The old Co-Operative building, Hexham Road - date unknown" class="img-responsive" /><br>
+							<li data-thumb="/assets/images/history/The-Old-Co-op-building-2.jpg" data-src="/assets/images/history/The-Old-Co-op-building-2.jpg"><img src="/assets/images/history/The-Old-Co-op-building-2.jpg" alt="image of The old Co-Operative building, Hexham Road - date unknown" class="img-responsive" /><br>
 	<caption>The old Co-Operative building, Hexham Road - date unknown</caption></li>
 							<li data-thumb="/assets/images/history/h-img04.jpg" data-src="/assets/images/history/h-img04.jpg"><img src="/assets/images/history/h-img04.jpg" alt="image of Walbottle Village - 1948 (britainfromabove.org.uk)" class="img-responsive" /><br>
 	<caption>Walbottle Village - 1948 (britainfromabove.org.uk)</caption></li>
