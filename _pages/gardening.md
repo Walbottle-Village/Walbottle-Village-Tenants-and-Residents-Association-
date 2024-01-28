@@ -67,7 +67,7 @@ gallery: true
 				</div>
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 					<h2>Making Walbottle Beautiful Gallery</h2>
-					<p>The photos below show the fantastic results of the Gardening Group’s hard work. It really makes a difference to the village. If you can spare some time to get in touch and join in or even just pick a few weeds by yourself we'd appreciate it. Click on a photo to view at a larger size.</p>
+					<p>The photos below show the fantastic results of the Gardening Group’s hard work. It really makes a difference to the village. If you can spare some time to get in touch and join in or even just pick a few weeds by yourself we'd appreciate it.</p>
 				<!-- feature slider -->
 					<div class="demo hasActive">
 						<ul id="imageGallery" class="gallery list-unstyled">      
