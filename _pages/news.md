@@ -1,8 +1,11 @@
 ---
 layout: default
-title: News
-description: Keep up-to-date with news and events in Walbottle Village. Listed below are news articles and events in Walbottle Village and download links for the printed newsletter.
+title: WVT&amp;RA &raquo; News &amp; Events
 permalink: /news/
+description: Keep up-to-date with news and events in Walbottle Village. Listed below are news articles and events in Walbottle Village and download links for the printed newsletter.
+keywords: walbottle, village, ne15 8, news, events, news and events, newsletter, pdf, download
+url: https://www.walbottlevillagetra.co.uk/news/
+OGimage: /assets/images/OG-News.jpg
 ---
 <div class="container-fluid">
 	<div class="row">
