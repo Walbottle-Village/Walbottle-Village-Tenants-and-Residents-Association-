@@ -25,8 +25,9 @@ gallery: true
 			  		<h2>Walbottle History - Historical Photographs</h2>
 			  		<p><strong>A collection of old photographs of Walbottle village and surroundings from 1906 to 1962, arranged in approximate chronological order.</strong> If you have any old photographs of Walbottle we would love to include them on this page.</p>
 <!-- feature slider -->
- <div class="demo hasActive section">
-                    	<ul id="imageGallery-photos" class="gallery list-unstyled">
+					<!-- feature slider -->				
+					<div class="demo hasActive">
+                    	<ul id="imageGallery3" class="gallery list-unstyled">
 							<li data-thumb="/assets/images/history/rapperDancers-1906.jpg" data-src="/assets/images/history/rapperDancers-1906.jpg"><img src="/assets/images/history/rapperDancers-1906.jpg" alt="image of Walbottle Sword (Rapper) Dancers - 1906" class="img-responsive" /><br>
 	<caption>Walbottle Sword (Rapper) Dancers - 1906</caption></li>
 							<li data-thumb="/assets/images/history/h-img01.jpg" data-src="/assets/images/history/h-img01.jpg"><img src="/assets/images/history/h-img01.jpg" alt="image of The Wesleyan Methodist Church, Walbottle Road - 1910" class="img-responsive" /><br>
@@ -104,7 +105,7 @@ gallery: true
 			  			<p><strong>Photographs commemorating the repoening of Walbottle Institute by Councillor Belle Nixon, Lord Mayor of Newcastle upon Tyne on 13 July 1997.</strong></p>
 						<!-- feature slider -->
 						<div class="demo hasActive">
-                        	<ul id="imageGallery-photos2" class="gallery list-unstyled">
+                        	<ul id="imageGallery2" class="gallery list-unstyled">
                             	<li data-thumb="/assets/images/WVI-Opening/institute-re-opening-1997-(1).jpg" data-src="/assets/images/WVI-Opening/institute-re-opening-1997-(1).jpg"><img src="/assets/images/WVI-Opening/institute-re-opening-1997-(1).jpg" alt="images of the repoening of Walbottle Village Institute in 1997" class="img-responsive"  /></li>
 								<li data-thumb="/assets/images/WVI-Opening/institute-re-opening-1997-(2).jpg" data-src="/assets/images/WVI-Opening/institute-re-opening-1997-(2).jpg"><img src="/assets/images/WVI-Opening/institute-re-opening-1997-(2).jpg" alt="images of the repoening of Walbottle Village Institute in 1997" class="img-responsive"  /></li>
 								<li data-thumb="/assets/images/WVI-Opening/institute-re-opening-1997-(3).jpg" data-src="/assets/images/WVI-Opening/institute-re-opening-1997-(3).jpg"><img src="/assets/images/WVI-Opening/institute-re-opening-1997-(3).jpg" alt="images of the repoening of Walbottle Village Institute in 1997" class="img-responsive"  /></li>
@@ -148,7 +149,7 @@ gallery: true
 						<h3>The Old Road from North Walbottle to Walbottle Village</h3>
 						<!-- feature slider -->
 						<div class="demo hasActive">
-                        	<ul id="imageGallery-photos3" class="gallery list-unstyled">
+                        	<ul id="imageGallery" class="gallery list-unstyled">
                             	<li data-thumb="/assets/images/history/oldRoad-image01.jpg" data-src="/assets/images/history/oldRoad-image01.jpg"><img src="/assets/images/history/oldRoad-image01.jpg" alt="images of the Old Road from North Walbottle to Walbottle Village, M. Webb, 1973" class="img-responsive" /><br><caption>Courtesy of M. Webb, 1973</caption></li>
 								<li data-thumb="/assets/images/history/oldRoad-image02.jpg" data-src="/assets/images/history/oldRoad-image02.jpg"><img src="/assets/images/history/oldRoad-image02.jpg" alt="images of the Old Road from North Walbottle to Walbottle Village, M. Webb, 2008" class="img-responsive"  /><br><caption>Courtesy of M. Webb, 2008</caption></li>
 								<li data-thumb="/assets/images/history/oldRoad-image03.jpg" data-src="/assets/images/history/oldRoad-image03.jpg"><img src="/assets/images/history/oldRoad-image03.jpg" alt="images of the Old Road from North Walbottle to Walbottle Village, M. Webb, 2008" class="img-responsive"  /><br><caption>Courtesy of M. Webb, 2008</caption></li>
