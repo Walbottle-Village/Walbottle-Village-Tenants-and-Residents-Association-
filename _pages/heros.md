@@ -3,8 +3,8 @@ layout: default
 title: WVT&amp;RA &raquo; Walbottle History &raquo; Walbottle's Fallen Heros
 bodytag: heros
 permalink: /history/heros/
-description: Case Studies of soem of the Fallen Heros of Walbottle who fought in the First and Second World Wars
-keywords: walbottle, village, ne15 8, walbottle history, history group, heros, hero, fallen, hero, first world war, great war, second world war
+description: Case Studies of the Fallen Heros of Walbottle who fought in the First and Second World Wars
+keywords: walbottle, village, ne15 8, walbottle history, heros, hero, fallen, hero, first world war, great war, second world war, WWI, WWII, WW1, WW2
 gallery: false
 ---
 <div class="container-fluid">
