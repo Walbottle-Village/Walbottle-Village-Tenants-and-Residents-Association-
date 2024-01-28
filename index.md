@@ -109,8 +109,7 @@ OGimage: /assets/images/OG-Home.jpg
 			<div class="col-xs-1"></div>
 			<div class="col-md-7 col-xs-12 form">
 				<h2>Get in Touch</h2>
-				<p>We would love to hear from our residents. Whether you would like to volunteer, suggest a Group, help create a neighbourly village or would like more information about anything you have read in our newsletter or website please contact us using the form below. &nbsp;&nbsp; 
-
+				<p>We would love to hear from our residents. Whether you would like to volunteer, suggest a Group, help create a neighbourly village or would like more information about anything you have read in our newsletter or website please contact us using the form below. &nbsp;&nbsp; <span class="req">*</span><span class="required">denotes required form fields.</span><br><br></p>
 				{% include contact.html%}
 			</div>
 		</div>
