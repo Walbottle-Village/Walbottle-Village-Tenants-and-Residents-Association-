@@ -2,10 +2,12 @@
 layout: default
 title: WVT&amp;RA &raquo; Walbottle History &raquo; Walbottle Campus
 bodytag: campus
-permalink: /history/walbottle-campus/
+permalink: /history_group/walbottle-campus/
 description: Walbottle Campus is a large secondary school situated in Newcastle, just east of Throckley and north of Walbottle. The school’s origins can be traced back to 1959.
 keywords: walbottle, village, ne15 8, official opening, walbottle secondary school, walbottle campus
 gallery: true
+url: https://www.walbottlevillagetra.co.uk/history_group/walbottle-campus/
+OGimage: /assets/images/OG-Campus.jpg
 ---
 <div class="container-fluid">
 	<div class="row">
