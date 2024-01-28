@@ -5,6 +5,8 @@ bodytag: access
 permalink: /activity_groups/access/
 description: How we work with Walbottle residents and Newcastle City Council to improve roads and pavements for the elderly and people with disabilities.
 keywords: walbottle, village, ne15 8, resiedents, improve access, roads, improve pavements, hazards, elderly, disabled, disbled access
+url: https://www.walbottlevillagetra.co.uk/activity_groups/access/
+OGimage: /assets/images/OG-Access.jpg
 ---
 <div class="container-fluid">
 	<div class="row">
