@@ -12,9 +12,9 @@
 	{% else %}
   	<title>{{page.title}}</title>
   	{% endif %}
-	<meta name="description" content="{{page.description}}">
+	
 	<meta name="keywords" content="{{page.keywords}}">
-	<meta name="author" content="Walbottle Village Tenants &amp; Residents Association Website">
+
 	<!-- Favicon -->  
         {% include_cached icons.html %}
 </script>
@@ -25,8 +25,8 @@
         </style>
 	<!-- OpenGraph -->
 	{% include_cached opengraph.html %}
-	<meta property="og:image" content="{{page.OGimage}}">  
-    {% seo title=false %}
+  <!--handle seo-->
+  {% seo title=false %}
 </head>
 <body id="{{page.bodytag}}">
   {%include mobile_icons.html%} <!--icons facebook and email for moblie-->
