@@ -3,7 +3,7 @@ layout: default
 title: WVT&amp;RA &raquo; Website Accessibility Statement &amp; Site Map
 bodytag: accessibility
 permalink: /accessibility/
-description: Walbottle Campus is a large secondary school situated in Newcastle, just east of Throckley and north of Walbottle. The school’s origins can be traced back to 1959.
+description: WVT&amp;RA website accessibility statement, site map and access keys.
 keywords: walbottle, village, ne15 8, walbottle residents association, website, accessibility statement, sitemap, site map, website map
 url: https://www.walbottlevillagetra.co.uk/accessibility/
 OGimage: /assets/images/OG-Accessibility.jpg
