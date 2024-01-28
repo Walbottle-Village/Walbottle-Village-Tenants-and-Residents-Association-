@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Walbottle's Heros
+title: WVT&amp;RA &raquo; Walbottle History &raquo; Walbottle's Fallen Heros
 bodytag: heros
 permalink: /history/heros/
+description: Case Studies of soem of the Fallen Heros of Walbottle who fought in the First and Second World Wars
+keywords: walbottle, village, ne15 8, walbottle history, history group, heros, hero, fallen, hero, first world war, great war, second world war
 gallery: false
 ---
 <div class="container-fluid">
@@ -62,9 +64,7 @@ gallery: false
 					<p><strong>Did you know, that on the 22nd of September 1943 the German Battleship Tirpitz, sister ship to Bismark, was attacked and damaged by midget submarines called X-craft.</strong> Six X-craft were towed across the North Sea by ‘mother’ submarines to attack Tirpitz, Lutzow and Scharnhorst in an operation code named Operation Source.</p>
 					<p>Only two X craft actually managed to plant charges under Tirpitz, the other four having sunk, broken down or the target ship had already sailed. One of the X craft – X5, unofficially named Platypus, was commanded by Lt Henty-Creer and second in command was Sub Lt Tom John Nelson who came from Walbottle. Tom, who was 22 at the time of the attack, was the son of Ralph and Frances Nelson who lived next door to the Village Institute. Sadly, Tom did not come home X5 having been destroyed by either a mine or shelling from Tirpitz, the exact cause of her loss will probably never be known.</p>
 					<p>Out of the 24 men who took part in Operation Source, two Victoria crosses, three Distinguishes Service Orders, one Conspicuous Gallantry Medal and one Member of the order of the British Empire (MBE) were awarded. Tirpitz was disabled for 6 months by the attack and was eventually sunk by RAF bombing. The film ‘Above us the Waves’ pays tribute to those brave men.</p>
-
   					<p>Since writing this article we have received an email from Tom’s nephew Dr Ralph Simpson who provided the following information:</p>
-
  					<div class="panelQuote">
 						<div class="quoteOpen"></div>
 						<p>Tom Nelson was my uncle. Tom only had one sibling – a sister – Ruby , my mother. Ruby died in 2018 age 92y ( 4 days after my father – Robert Simpson). We held a joint funeral at Westgate Road crematorium, where Tom was also remembered as he never had a funeral.</p>
