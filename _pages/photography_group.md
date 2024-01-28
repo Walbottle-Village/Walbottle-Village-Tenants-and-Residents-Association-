@@ -28,7 +28,7 @@ gallery: true
 			<div class="col-md-12 col-xs-12">
 				<p><strong>Would you be interested in starting a photography group? If so contact the WVT&amp;RA and we will help you get set up.  Or if you just want to send your best picture of Walbottle Village to us we will try and upload it onto the webpage.</strong></p>
 				<h3>Photographs by Oliver, our Paperboy</h3>
-				<p>Beautiful early morning photos taken by Oliver during his paper round. Click on an image to enlarge.</p>
+				<p>Beautiful early morning photos taken by Oliver during his paper round.</p>
 				<!-- feature slider -->
 				<div class="demo hasActive">
 					<ul id="imageGallery" class="gallery list-unstyled">                                    
@@ -48,7 +48,7 @@ gallery: true
 					</ul>
 				</div>
 				<h3>Drone Photographs, 3 October 2022 at 07:10</h3>
-				<p>Some amazing photos taken using a DJI Mavic Mini drone. All images copyright to Roger Parnell. Click on an image to enlarge.</p>
+				<p>Some amazing photos taken using a DJI Mavic Mini drone. All images copyright to Roger Parnell.</p>
 				<!-- feature slider -->
 				<div class="demo hasActive">
 					<ul id="imageGallery2" class="gallery list-unstyled">
@@ -75,7 +75,7 @@ gallery: true
 					</ul>
 				 </div>
 				<h3>Halloween Photographs, 31 October 2022</h3>
-				<p>Some spooky Walbottle house decorations. Click on an image to enlarge.</p>
+				<p>Some spooky Walbottle house decorations.</p>
 				<!-- feature slider -->
 				<div class="demo hasActive">
 					<ul id="imageGallery3" class="gallery list-unstyled">
