@@ -5,9 +5,9 @@ bodytag: photos
 permalink: /history_group/history-photos/
 description: A collection of old photographs of people and places in Walbottle village and surroundings from 1906 to 1962, arranged in approximate chronological order.
 keywords: walbottle, village, ne15 8, old photographs, historical photographs, old photos, historical photos
-gallery: true
 url: https://www.walbottlevillagetra.co.uk/history_group/history-photos/
 OGimage: /assets/images/OG-HistoryPhotos.jpg
+gallery: true
 ---
 <div class="container-fluid">
 	<div class="row">
@@ -23,7 +23,7 @@ OGimage: /assets/images/OG-HistoryPhotos.jpg
 			<div class="row"> <!-- row -->
 				<div class="col-xs-12">
 			  		<h2>Walbottle History - Historical Photographs</h2>
-			  		<p><strong>A collection of old photographs of Walbottle village and surroundings from 1906 to 1962, arranged in approximate chronological order. If you have any old photographs of Walbottle we would love to include them on this page. Click on an image to view at a larger size.</strong></p>
+			  		<p><strong>A collection of old photographs of Walbottle village and surroundings from 1906 to 1962, arranged in approximate chronological order.</strong> If you have any old photographs of Walbottle we would love to include them on this page.</p>
 <!-- feature slider -->
  <div class="demo hasActive section">
                     	<ul id="imageGallery-photos" class="gallery list-unstyled">
