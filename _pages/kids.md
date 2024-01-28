@@ -88,25 +88,25 @@ OGimage: /assets/images/OG-Kids.jpg
 					<p>Some educational websites that your children might enjoy (all links open in a new tab).</p>
 				</div>
 				<div class="col-md-4 col-xs-6">
-		    		<a href="https://www.edenprojectcommunities.com/stuff-you-can-do" target="_blank" title="visit Eden Project Communities in a new tab"><img src="/assets/images/kids-eden.jpg" class="img-responsive" alt="Eden Project Communities"/></a>
+		    			<a href="https://www.edenprojectcommunities.com/stuff-you-can-do" target="_blank" title="visit Eden Project Communities in a new tab"><img src="/assets/images/kids-eden.jpg" class="img-responsive" alt="Eden Project Communities"/></a>
 				</div>
 				<div class="col-md-4 col-xs-6">
-				    <a href="https://www.tate.org.uk/kids" target="_blank" title="visit Tate Kids in a new tab"><img src="/assets/images/kids-tate-kids.jpg" class="img-responsive" alt="Tate Kids"/></a>
+					<a href="https://www.tate.org.uk/kids" target="_blank" title="visit Tate Kids in a new tab"><img src="/assets/images/kids-tate-kids.jpg" class="img-responsive" alt="Tate Kids"/></a>
 				</div>
 				<div class="col-md-4 col-xs-6">
-		    		<a href="https://www.natgeokids.com/uk/" target="_blank" title="visit National Geographic Kids in a new tab"><img src="/assets/images/kids-national-geographic.jpg" class="img-responsive" alt="National Geographic"/></a>
+		    			<a href="https://www.natgeokids.com/uk/" target="_blank" title="visit National Geographic Kids in a new tab"><img src="/assets/images/kids-national-geographic.jpg" class="img-responsive" alt="National Geographic"/></a>
 				</div>
 				<div class="col-md-4 col-xs-6">
-		     		<a href="https://www.bbc.co.uk/cbeebies/games" target="_blank" title="visit CBBC in a new tab"><img src="/assets/images/kids-cbbc.jpg" class="img-responsive" alt="BBC-CBBC"/></a>
+		     			<a href="https://www.bbc.co.uk/cbeebies/games" target="_blank" title="visit CBBC in a new tab"><img src="/assets/images/kids-cbbc.jpg" class="img-responsive" alt="BBC-CBBC"/></a>
 				</div>
 				<div class="col-md-4 col-xs-6">
-		    		<a href="http://www.supercoloring.com/sections/coloring-pages" target="_blank" title="visit Paint The Worls - Super Colouring in a new tab"><img src="/assets/images/kids-paint.jpg" class="img-responsive" alt="Paint The World - Super Colouring"/></a>
+		    			<a href="http://www.supercoloring.com/sections/coloring-pages" target="_blank" title="visit Paint The Worls - Super Colouring in a new tab"><img src="/assets/images/kids-paint.jpg" class="img-responsive" alt="Paint The World - Super Colouring"/></a>
 				</div>
 				<div class="col-md-4 col-xs-6">
-		    		<a href="https://happylearning.tv/en/games/" target="_blank" title="visit Happy Learning in a new tab"><img src="/assets/images/kids-happy-learning.jpg" class="img-responsive" alt="Happy Learning"/></a>
+		    			<a href="https://happylearning.tv/en/games/" target="_blank" title="visit Happy Learning in a new tab"><img src="/assets/images/kids-happy-learning.jpg" class="img-responsive" alt="Happy Learning"/></a>
 				</div>
-	 		</div>
-			<div class="col-sm-1 col-xs-0"></div>
+	 		</div> <!-- /row -->
 		</div> <!-- /mainPanel -->
+	<div class="col-sm-1 col-xs-0"></div>
 	</div> <!-- /row -->
 </div> <!-- /container-fluid -->
