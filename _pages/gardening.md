@@ -5,6 +5,8 @@ bodytag: gardening
 permalink: /activity_groups/gardening/
 description: Join our gardening group, the inspiration for the Residents Association. We are out most weekends maintaining flowerbeds planters and borders around the village. It'll do you and the village good.
 keywords: walbottle, village, ne15 8, gardening group, gardening volunteers, walbottle volunteers, weekend gardening, deadheading, watering plants, weeding flowerbeds, community waste, resident volunteers, royal horticultural society, level 4 thriving, certificaate, Dobbies Local Community, Gardening Competition, winner
+url: https://www.walbottlevillagetra.co.uk/activity_groups/gardening/
+OGimage: /assets/images/OG-Gardening.jpg
 gallery: true
 ---	
 <div class="container-fluid">
