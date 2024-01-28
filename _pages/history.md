@@ -22,12 +22,12 @@ OGimage: /assets/images/OG-History.jpg
 		<div class="col-sm-1 col-xs-0"></div>
 		<div class="col-sm-10 col-xs-12 mainPanel">
 			<div class="row">
-				<div class="col-lg-9 col-md-8 col-xs-12 historyIntro">
+				<div class="col-lg-8 col-md-7 col-xs-12 historyIntro">
 					<h2>History Group</h2>
 					<p>Welcome to the Walbottle Village Tenants and Residents Association History Section. We have only recently started the history group and are still finding our feet but if you would like to join in please contact us using the details on the <a href="/contact/" title="visit the contact page" taget="_self">contact page</a>.</p>
 					<p>Walbottle is a village in Tyne and Wear. It is about 4 miles to the West of Newcastle upon Tyne and is bisected by the Military road (sometimes called ‘General Wade’s road’) which is built on top of Hadrian’s Wall.  The village name, first recorded in 1176 as “Walbotl”, is derived from the Old English botl (building) on Hadrian’s Wall. It is believed that the seat of the Saxon Kings of Northumberland was located here.</p>
 				</div>
-				<div class="col-lg-3 col-md-4 col-xs-12">
+				<div class="col-lg-4 col-md-5 col-xs-12">
 					<h2>Find Out More</h2>
 					<ul>
 						<li><a href="/history/festivals/" title="recent festivals and events in Walbottle" target="_self" class="h-festival" accessKey="7"><span class="glyphicon glyphicon-triangle-right"></span> Recent Festivals &amp; Events</a></li>
