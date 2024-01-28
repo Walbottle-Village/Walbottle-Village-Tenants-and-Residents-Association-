@@ -6,8 +6,9 @@ permalink: /history_group/maps/
 gallery: true
 description: Links to Ordnance Survey maps from 1865 to 1946 of Newburn, Heddon on the Wall, Throckley and Walbottle, including North Walbottle Colliery and Coronation Pit.
 keywords: walbottle, village, ne15 8, 1660, map, ordnance survey, os map, north of england, Newburn map, Heddon on the Wall map, Throckley map, Walbottle map, 1865, Newburn Walbottle 1897, North Walbottle Colliery 1920, Coronation Pit, Walbottle 1920, Whorlton map, Westerhope map 1946
+url: https://www.walbottlevillagetra.co.uk/history_group/maps/
+OGimage: /assets/images/OG-Maps.jpg
 ---
-
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
