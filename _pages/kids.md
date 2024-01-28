@@ -5,6 +5,8 @@ bodytag: kids
 permalink: /activity_groups/kids-corner/
 description: Fun facts for children about Walbottle, the Romans, King Charles III and external links to kids activity websites.
 keywords: walbottle, village, kids corner, kids activities
+url: https://www.walbottlevillagetra.co.uk/activity_groups/kids-corner/
+OGimage: /assets/images/OG-Kids.jpg
 ---
 <div class="container-fluid">
 	<div class="row">
