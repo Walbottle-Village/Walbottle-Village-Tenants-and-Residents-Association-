@@ -90,22 +90,22 @@ OGimage: /assets/images/OG-About.jpg
 						<p>Oh, and let’s not forget my odd sense of humour. I’m that guy who finds laughter in the weirdest places. So, whether it’s a chat about tech or a quick laugh, I’m your guy!</p>
 					</div>
 				</div>
-			<div class="col-md-6 col-xs-12">
-				<div class="panelGrey">
-					<div class="panelWrap">
-						<div class="col-xs-12">
-							<h4><strong>Association Communications Officer:</strong> <br>Chris</h4>
+				<div class="col-md-6 col-xs-12">
+					<div class="panelGrey">
+						<div class="panelWrap">
+							<div class="col-xs-12">
+								<h4><strong>Association Communications Officer:</strong> <br>Chris</h4>
+							</div>
 						</div>
-					</div>
-					<p>I've lived in the village for over twenty years and recently volunteered for the role of Communications Officer.</p>
-					<p>I work as a freelance graphic designer producing design and artwork for print and developing websites and
+						<p>I've lived in the village for over twenty years and recently volunteered for the role of Communications Officer.</p>
+						<p>I work as a freelance graphic designer producing design and artwork for print and developing websites and
 						digital projects.</p>
-					<p>I've been working with Peter to redesign and develop the WVT&amp;RA website and I'm working on the printed newsletter and social media posts to help promote village events with a view to maintaining consistency and a strong identity for the association.</p>
-					<p>Myself and Peter welcome any feedback regarding the website and newsletter and would love to hear from you. We would also like to encourage residents to contact the WVT&amp;RA with their stories, articles or news about Walbottle Village life, past and present, which we can share with the community in our newsletter and on this website.</p>
+						<p>I've been working with Peter to redesign and develop the WVT&amp;RA website and I'm working on the printed newsletter and social media posts to help promote village events with a view to maintaining consistency and a strong identity for the association.</p>
+						<p>Myself and Peter welcome any feedback regarding the website and newsletter and would love to hear from you. We would also like to encourage residents to contact the WVT&amp;RA with their stories, articles or news about Walbottle Village life, past and present, which we can share with the community in our newsletter and on this website.</p>
+					</div>
 				</div>
-			</div>
-			<div class="col-md-6 col-xs-12"></div>
-		</div> <!-- /row -->			
+				<div class="col-md-6 col-xs-12"></div>
+			</div> <!-- /row -->			
 			<div class="row"> <!-- row -->
 				<div class="col-xs-12">
 					<h3>Other Committee Members</h3>
