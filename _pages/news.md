@@ -1,9 +1,10 @@
 ---
 layout: default
 title: WVT&amp;RA &raquo; News &amp; Events
+bodytag: news
 permalink: /news/
-description: Keep up-to-date with news and events in Walbottle Village. Listed below are news articles and events in Walbottle Village and download links for the printed newsletter.
-keywords: walbottle, village, ne15 8, news, events, news and events, newsletter, pdf, download
+description: Keep up-to-date with the latest news and upcoming events in Walbottle Village including download links for the printed newsletter.
+keywords: walbottle, committee meeting, residents meeting, village, ne15 8, news, events, news and events, walbottle choir, food bank, foodbank, newsletter, pdf, download
 url: https://www.walbottlevillagetra.co.uk/news/
 OGimage: /assets/images/OG-News.jpg
 ---
@@ -14,7 +15,6 @@ OGimage: /assets/images/OG-News.jpg
 		</div>
 	</div>
 </div>
-<div id="news">
 <div class="container-fluid groups"> <!-- container-fluid -->
 	<div class="row"> <!-- row -->
 		<div class="col-sm-1 col-xs-0"></div>
@@ -93,6 +93,7 @@ OGimage: /assets/images/OG-News.jpg
 							</div>	
 						</div>
 					</div>
+     					<!--
 					<div class="row" id="halloween">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -115,6 +116,7 @@ OGimage: /assets/images/OG-News.jpg
 							</div>	
 						</div>
 					</div>
+     					-->
 					<div class="row" id="choir">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -183,4 +185,3 @@ OGimage: /assets/images/OG-News.jpg
 		<div class="col-sm-1 col-xs-0"></div>
 	</div> <!--/row -->
 </div> <!-- /container-fluid -->
-</div>
