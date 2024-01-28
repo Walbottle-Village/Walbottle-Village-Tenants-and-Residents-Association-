@@ -14,6 +14,7 @@ gallery: true
 			<img src="/assets/images/masthead-events.jpg" class="img-responsive" alt="an image of the cupcake display at the King Charles Coronation Walbottle celebrations"/>
 		</div>
 	</div>
+</div>
 <div class="container-fluid historyBG"> <!-- container-fluid -->
 	<div class="row"> <!-- row -->
 		<div class="col-sm-1 col-xs-0"></div>
