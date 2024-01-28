@@ -10,16 +10,25 @@
   	{% if page.title == "Home"%}
 	<title>Welcome to Walbottle Village Tenants &amp; Residents Association Website</title>
 	{% else %}
-  	<title>WVT&amp;RA &raquo; {{page.title}}</title>
+  	<title>{{page.title}}</title>
   	{% endif %}
-	     <!-- Favicon -->  
-         {% include_cached icons.html %}
+	<meta name="description" content="{{page.description}}">
+	<meta name="keywords" content="{{page.keywords}}">
+	<meta name="author" content="Walbottle Village Tenants &amp; Residents Association Website">
+	<!-- Favicon -->  
+        {% include_cached icons.html %}
 </script>
     <!-- Bootstrap core CSS -->
         {% include_cached styles.html %}
         <style type="text/css">
           #imageGallery img {margin:0 auto !important;}
-        </style>   
+        </style>
+	<!-- OpenGraph -->
+	{% include_cached opengraph.html %}
+	<meta property="og:description" content="{{page.description}}{{page.description}}">
+	<meta property="og:title" content="{{page.title}}">
+	<meta property="og:url" content="{{page.url}}">
+	<meta property="og:image" content="{{page.OGimage}}">  
     {% seo title=false %}
 </head>
 <body id="{{page.bodytag}}">
