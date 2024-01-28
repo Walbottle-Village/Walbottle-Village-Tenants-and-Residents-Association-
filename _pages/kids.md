@@ -109,4 +109,4 @@ OGimage: /assets/images/OG-Kids.jpg
 		</div> <!-- /mainPanel -->
 	<div class="col-sm-1 col-xs-0"></div>
 	</div> <!-- /row -->
-</div> <!-- /container-fluid -->
+</div>
