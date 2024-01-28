@@ -5,6 +5,8 @@ bodytag: walks
 permalink: /activity_groups/walbottle_walks/
 description: A collection of PDFs of walks in and around Walbottle and the outer west of Newcastle upon Tyne
 keywords: walbottle, village, ne15 8, walbottle walks, walks around walbottle, links to walks, walbottle circular walk, wylan waggonway,walbottle waggonway,walbottle dene,hadrians way, hadrian's way,newcastle outer west,outer west heritage guide, outer west heritage trail, newburn history trail
+url: https://www.walbottlevillagetra.co.uk/activity_groups/walbottle_walks/
+OGimage: /assets/images/OG-Walks.jpg
 ---
 	
 <div class="container-fluid">
