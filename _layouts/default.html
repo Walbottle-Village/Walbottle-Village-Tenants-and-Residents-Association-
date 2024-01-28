@@ -33,9 +33,7 @@
   {%include nav.html%}	<!--main nav-->
         {{content}}
         {%include photoPanel.html%}
-    <footer class="container-fluid footer">
         {% include_cached footer.html %}
-    </footer>
     {% include_cached loadjs.html %}
     {% if page.title == "Home"%}
       {% include_cached lightslider.html %}
