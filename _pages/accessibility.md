@@ -10,7 +10,7 @@ keywords: walbottle, village, ne15 8, walbottle residents association, website, 
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
-			<img src="/assets/images/mastheadImg-access.jpg" class="img-responsive" alt="image showing a wheelchair user on an accessible ramp"/>
+			<img src="/assets/images/mastheadImg-home.jpg" class="img-responsive" alt="aerial view of Walbottle Village in winter"/>
 		</div>
 	</div> <!--/row -->
 </div> <!-- /container-fluid -->
