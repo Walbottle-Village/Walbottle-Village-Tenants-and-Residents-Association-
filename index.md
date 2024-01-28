@@ -1,9 +1,11 @@
 ---
 bodytag: home
 layout: default
-title: Home
+title: Welcome to Walbottle Village Tenants &amp; Residents Association Website
 description: Founded in 2020 during Covid lockdown to bring relief to residents, encouraging a community spirit and assisting vulnerable members of the community.
 keywords: walbottle, village, tenants, tennants, residents, assoc, association, newcastle, newcastle upon tyne, ne158, ne15 8
+url: https://www.walbottlevillagetra.co.uk/
+OGimage: /assets/images/OG-Home.jpg
 ---
 <div class="container-fluid hidden-xs">
 	<div class="row">
