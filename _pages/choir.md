@@ -5,6 +5,8 @@ bodytag: choir
 permalink: /activity_groups/choir/
 description: Less of a choir and more a posh karaoke - we enjoy singing with like minded, friendly people. Meeting every week at Walbottle Village Institute from 7:30pm (excluding bank holidays).
 keywords: walbottle, village, ne15 8, walbottle village institute, walbottle institute, walbottle choir, choir group
+url: https://www.walbottlevillagetra.co.uk/activity_groups/choir/
+OGimage: /assets/images/OG-Choir.jpg
 ---
 <div class="container-fluid">
 	<div class="row">
