@@ -6,6 +6,8 @@ permalink: /activity_groups/history/
 gallery: false
 description: Interesting facts about the village of Walbottle through history, Ad Murum, Hadrian's Walland the Walbottle Hoard.
 keywords: walbottle, village, ne15 8, walbottle history, history group, ad murum, hadrians wall,hadrian's wall,operation source,walbottle hoard,badge of islam,willie of the woods, mary ann cotton
+url: https://www.walbottlevillagetra.co.uk/actitviy_groups/history/
+OGimage: /assets/images/OG-History.jpg
 ---
 
 <div class="container-fluid">
