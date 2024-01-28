@@ -34,7 +34,7 @@ keywords: walbottle, village, ne15 8, walbottle residents association, website, 
 						<li><span>[alt] and/or [ctrl] + h</span><a href="{{ '/' | relative_url}}" title="home page" target="_self" accessKey="h">Home</a></li>
 						<li><span>[alt] and/or [ctrl] + 1</span><a href="{{'/actity_groups/access/' | relative_url}}" title="access Group" target="_self" accessKey="1">Activity Groups &raquo; Access Group</a></li>
 						<li><span>[alt] and/or [ctrl] + 2</span><a href="{{'/actity_groups/gardening/' | relative_url}}" title="gardening group" target="_self" accessKey="2">Activity Groups &raquo; Gardening Group</a></li>
-						<li><span>[alt] and/or [ctrl] + 3</span><a href="{{'/history/' | relative_url}}" title="history group" target="_self" class="ag-history" accessKey="3">History Group</a></li>
+						<li><span>[alt] and/or [ctrl] + 3</span><a href="{{'/history/' | relative_url}}" title="history group" target="_self" class="ag-history" accessKey="3">Activity Groups &raquo; History Group</a></li>
 						<li><span>[alt] and/or [ctrl] + 4</span><a href="{{'/actity_groups/kids-corner/' | relative_url}}" title="kids corner" target="_self" accessKey="4">Activity Groups &raquo; Kids Corner</a></li>
 						<li><span>[alt] and/or [ctrl] + 5</span><a href="{{'/actity_groups/photography_group/' | relative_url}} " title="photography group" target="_self" accessKey="5">Activity Groups &raquo; Photography Group</a></li>
 						<li><span>[alt] and/or [ctrl] + 6</span><a href="{{'/actity_groups/choir/' | relative_url}}" title="Walbottle choir group" target="_self" accessKey="6">Activity Groups &raquo; Walbottle Choir</a></li>
@@ -45,7 +45,7 @@ keywords: walbottle, village, ne15 8, walbottle residents association, website, 
 						<li><span>[alt] and/or [ctrl] + -</span><a href="{{'/actity_groups/photography_group/' | relative_url}}" title="old photographs of Walbottle village" target="_self" accessKey="-">Walbottle History &raquo; Historical Photographs</a></li>
 						<li><span>[alt] and/or [ctrl] + =</span><a href="{{'/history/schools/primary/' | relative_url}}" title="about Walbottle primary school" target="_self" accessKey="=">Walbottle History &raquo; Walbottle Primary School</a></li>
 						<li><span>[alt] and/or [ctrl] + +</span><a href="{{'/history/schools/walbottle-campus/'|relative_url}}" title="about Walbottle campus" target="_self" accessKey="+">Walbottle History &raquo; Walbottle Campus</a></li>
-						<li><span>[alt] and/or [ctrl] + _</span><a href="{{'/history/heros/'|relative_url}}" title="about Walbottle's fallen heros'" target="_self" class="h-heros" accessKey="_">Walbottle's Fallen Heros</a></li>
+						<li><span>[alt] and/or [ctrl] + _</span><a href="{{'/history/heros/'|relative_url}}" title="about Walbottle's fallen heros'" target="_self" class="h-heros" accessKey="_">Walbottle History &raquo; Walbottle's Fallen Heros</a></li>
 						<li><span>[alt] and/or [ctrl] + n</span><a href="{{'/news/'|relative_url}}" title="latest news and events" target="_self" accesskey="n">News &amp; Events</a></li>
 						<li><span>[alt] and/or [ctrl] + s</span><a href="{{'/shop/'|relative_url}}" title="online shop" target="_self" accesskey="s">Shop</a></li>
 						<li><span>[alt] and/or [ctrl] + a</span><a href="{{'/about_us/'|relative_url}}" title="about WVT&R Association" target="_self" accesskey="a">About Us</a></li>
