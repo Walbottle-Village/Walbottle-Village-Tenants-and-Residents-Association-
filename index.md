@@ -11,10 +11,9 @@ OGimage: /assets/images/OG-Home.jpg
 	<div class="row">
 		<div class="mastImg">
 			<div id="myCarousel" class="carousel slide carousel-fade">
-    			<div class="carousel-inner">
+    				<div class="carousel-inner">
 		 			<div id="carousel-example-generic" class="carousel-fade carousel slide" data-ride="carousel">
-              	 	<!-- Wrapper for slides -->
-              			<div class="carousel-inner" role="listbox">
+              	 				<div class="carousel-inner" role="listbox">
 							<div class="item active">
 							  <img src = "/assets/images/mastheadImg-home.jpg" class = "sliderImage" alt = "aerial view of Walbottle Village in winter">
 							</div>
@@ -24,9 +23,9 @@ OGimage: /assets/images/OG-Home.jpg
 							<div class="item">
 							  <img src = "/assets/images/mastheadImg-home03.jpg" class = "sliderImage" alt = "aerial view of Walbottle Village in winter">
 							</div>
-              			</div>
-            		</div>
-    			</div>    
+              					</div>
+            				</div>
+    				</div>    
 			</div> <!-- /myCarousel -->
 		</div> <!-- /mastImg -->
 	</div> <!--/row -->
@@ -46,7 +45,7 @@ OGimage: /assets/images/OG-Home.jpg
 			</div>
 		</div>
 		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-0"></div>
-		</div>
+	</div>
 </div>
 <div class="container-fluid redPanel">
 	<div class="row">
@@ -55,7 +54,8 @@ OGimage: /assets/images/OG-Home.jpg
 			<h2>What's On</h2>
 			<!-- feature slider -->
 			<div class="row gallery-slider">
-				<div class="col-xs-12 col-sm-12"><button type="button" class="slideLeft" id="goToPrevSlide"></button>
+				<div class="col-xs-12 col-sm-12">
+					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
 						<li class="featurePane col-xs-4">
 							<a href="news/#d-day-events" title="more about the D-Day events">
@@ -81,12 +81,11 @@ OGimage: /assets/images/OG-Home.jpg
 					</ul>
 					<button type="button" class="slideRight" id="goToNextSlide"></button>
 				</div>
-			</div>
-			<!-- end art gallery light Slider -->
+			</div> <!-- end art gallery light Slider -->
 		</div>
 		<div class="col-sm-1 col-xs-0"></div>
-	</div> <!--/row -->
-</div> <!-- /container-fluid -->
+	</div>
+</div> 
 <div class="container-fluid whitePanel">
 	<div class="row">
 		<div class="col-sm-1 col-xs-0"></div>
