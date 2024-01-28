@@ -22,12 +22,12 @@ OGimage: /assets/images/OG-Heros.jpg
 		<div class="col-sm-1 col-xs-0"></div>
 		<div class="col-sm-10 col-xs-12 mainPanel">
 			<div class="row">
-				<div class="col-lg-9 col-md-8 col-xs-12 historyIntro">
+				<div class="col-lg-8 col-md-8 col-xs-12 historyIntro">
 					<h2>Walbottle's Fallen Heros</h2>
 					<p>On this page of the website we pay tribute to some of the fallen heros of Walbottle village.</p>
 					<p>Case Studies and research into some of the brave soldiers thought fought and gave their lives for their country who lived in Walbottle are descibed below. If you have any interesting stories and wouldlike to share them on the website please contact us using the details on the <a href="contact.html" title="visit the contact page" taget="_self">contact page</a>.</p>
 				</div>
-				<div class="col-lg-3 col-md-4 col-xs-12">
+				<div class="col-lg-4 col-md-4 col-xs-12">
 					<h2>Find Out More</h2>
 					<ul>
 						<li><a href="#ELGRowell" title="about Lieutenant Edward Leslie Graham Rowell" target="_self" class="h-festival" accessKey="7"><span class="glyphicon glyphicon-triangle-right"></span> Lt. E.L.G. Rowell M.C.</a></li>
