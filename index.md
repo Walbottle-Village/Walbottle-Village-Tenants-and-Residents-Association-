@@ -60,14 +60,14 @@ keywords: walbottle, village, tenants, tennants, residents, assoc, association, 
 							<a href="news/#d-day-events" title="more about the D-Day events">
 							<img src="/assets/images/D-DAY-events-868x414.jpg" class="img-responsive" alt="D-Day Anniversary events"/></a>
 							<h3>D-DAY Anniversary Events 2024</h3>
-							<p>Beacon Lighting &bull; Fish &amp; Chips &bull; Community Singing &bull; Piper &bull; Photo Booth &bull; Maps &amp; Audio &bull; Face Painting &bull; Food &bull; Kids Activities &bull; Brass Band &bull; <em>and more&hellip;</em></p>
+							<p>Beacon Lighting &bull; Fish &amp; Chips &bull; Community Singing &bull; Photo Booth &bull; Maps &amp; Audio &bull; Face Painting &bull; Food &bull; Kids Activities &bull; Brass Band &bull; <em>and more&hellip;</em></p>
 							<a class="more" href="news/#d-day-events" title="more about the D-Day events">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
 							<a href="news/#choir" title="visit the Walbottle Choisters group page">
 								<img src="/assets/images/choir.jpg" class="img-responsive" alt="walbottle Choir"/></a>
 							<h3>Walbottle Choir</h3>
-							<p>Meeting every week in the Village Institute at 7:30pm for an hour. £2 per session.</p>
+							<p>Meeting every Monday excluding bank holidays in the Village Institute at 7:30pm for an hour. £2 per session.</p>
 							<a class="more" href="news/#choir" title="visit the Walbottle Choisters group page">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
