@@ -11,7 +11,7 @@ gallery: false
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
-			<img src="assets/images/mastheadImg-home.jpg" class="img-responsive" alt="aerial view of Walbottle Village in winter">
+			<img src="/assets/images/mastheadImg-home.jpg" class="img-responsive" alt="aerial view of Walbottle Village in winter">
 		</div>
 	</div>
 </div>
