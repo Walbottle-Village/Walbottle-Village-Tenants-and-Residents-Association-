@@ -1,8 +1,12 @@
 ---
 layout: default
-title: About Us
+title: Walbottle Village Tenants &amp; Residents Association &raquo; About Us
 permalink: /about_us/
 bodytag: about
+description: About the Walbottle Village Tenants &amp; Residents Association, our committee officers and committee members.
+keywords: walbottle, village, ne15 8, walbottle residents, association, committee, officers, members
+url: https://www.walbottlevillagetra.co.uk/about_us/
+OGimage: /assets/images/OG-About.jpg
 ---
 
 <div class="container-fluid">
