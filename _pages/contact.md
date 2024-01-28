@@ -2,6 +2,10 @@
 layout: default
 title: Contact
 permalink: /contact/
+description: How to get in touch with Walbottle Village Tenants & Residents Association.
+keywords: walbottle, village, tenants, tennants, residents, assoc, association, newcastle, newcastle upon tyne, ne158, ne15 8, contact
+url: https://www.walbottlevillagetra.co.uk/contact/
+OGimage: /assets/images/OG-Contact.jpg
 ---
 <div class="container-fluid">
 	<div class="row">
