@@ -41,6 +41,22 @@
   {% if page.gallery == true%}
     {% include_cached gallery.html %}
     {% endif %}
+	<style>
+		.lSAction > a {
+    width: 32px;
+    display: block;
+    top: 50%;
+    height: 32px;
+    background-image: url('../images/controls.png') !important;
+    cursor: pointer;
+    position: absolute;
+    z-index: 99;
+    margin-top: -16px;
+    opacity: 1;
+    -webkit-transition: opacity 0.35s linear 0s;
+    transition: opacity 0.35s linear 0s;
+}
+	</style>
     <script type="text/javascript">
       var _iub = _iub || [];
       _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"floatingPreferencesButtonDisplay":"bottom-right","lang":"en-GB","perPurposeConsent":true,"siteId":3441148,"whitelabel":false,"cookiePolicyId":85654702, "banner":{ "acceptButtonDisplay":true,"closeButtonDisplay":false,"customizeButtonDisplay":true,"position":"bottom","rejectButtonDisplay":true,"showTitle":false }};
