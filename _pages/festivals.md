@@ -164,7 +164,7 @@ gallery: true
 					<!-- feature slider -->	
 			  		<div class="demo hasActive">
                     	<ul id="imageGallery" class="gallery list-unstyled">
-                        	<li data-thumb="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday141s.jpg" data-src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday141s.jpg"><img src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday141s.jpg" alt="Walbottle Jubilee Celebrations 2022"/></li>
+                        	<li data-thumb="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday141s.jpg" data-src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday141s.jpg"><img src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday141s.jpg" alt="Walbottle Jubilee Celebrations 2022" class="img-responsive"/></li>
 							<li data-thumb="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday138s.jpg" data-src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday138s.jpg"><img src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday138s.jpg"  alt="Walbottle Jubilee Celebrations 2022" class="img-responsive" /></li>/></li>
 							<li data-thumb="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday137s.jpg" data-src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday137s.jpg"><img src="/assets/images/StreetParty/Wallbottle-Jubilee-Saturday137s.jpg"  alt="Walbottle Jubilee Celebrations 2022" class="img-responsive" /></li>/></li>
 							<li data-thumb="/assets/images/StreetParty/DJI_0489s.jpg" data-src="/assets/images/StreetParty/DJI_0489s.jpg"><img src="/assets/images/StreetParty/DJI_0489s.jpg" alt="Walbottle Jubilee Celebrations 2022" class="img-responsive" /></li>
