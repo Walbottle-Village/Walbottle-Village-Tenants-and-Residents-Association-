@@ -1,10 +1,12 @@
 ---
 layout: default
-title: WVT&amp;RA &raquo; Activity Groups &raquo; Privacy &amp; Cookie Policy
+title: WVT&amp;RA &raquo; Privacy &amp; Cookie Policy
 bodytag: privacy
 permalink: /privacy/
-description: Our privacy and cookie policy.
+description: WVT&amp;RA website privacy and cookie policy.
 keywords: walbottle, village, ne15 8, walbottle village, residents association, website, cookie policy, privacy policy
+url: https://www.walbottlevillagetra.co.uk/privacy/
+OGimage: /assets/images/OG-Privacy.jpg
 gallery: false
 ---
 
