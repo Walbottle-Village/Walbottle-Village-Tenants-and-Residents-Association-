@@ -26,7 +26,7 @@ gallery: true
 				<div class="col-xs-12">
 					<h2 class="sub">King Charles III Coronation</h2>
 					<h3>Saturday, 6 May 2023: Coronation Celebration Day</h3>
-					<p>Another great Royal celebration full of fancy dress, colours and fun. A wonderful collection of cupcakes presented, Dads in the stocks and family picnics on the green lead up to the Commemorative plaque reveal to mark the event. Click on an image to enlarge.</p>
+					<p>Another great Royal celebration full of fancy dress, colours and fun. A wonderful collection of cupcakes presented, Dads in the stocks and family picnics on the green lead up to the Commemorative plaque reveal to mark the event.</p>
 					<!-- feature slider -->				
 					<div class="demo hasActive">
                     	<ul id="imageGallery3" class="gallery list-unstyled">
@@ -125,7 +125,7 @@ gallery: true
 					</div>
 					<h2 class="sub">Jubilee Festival 2022</h2>
 					<h3>Thursday, 2 June: Beacon Lighting Ceremony</h3>
-					<p>Although the weather was a little damp a wonderful community day was had by all celebrating the Platinum Jubilee ceremony. The busy event included our Town Crier, the bagpipes, plenty of stalls selling home produce and culminated in the beacon lighting ceremony. Click on an image to enlarge.</p>
+					<p>Although the weather was a little damp a wonderful community day was had by all celebrating the Platinum Jubilee ceremony. The busy event included our Town Crier, the bagpipes, plenty of stalls selling home produce and culminated in the beacon lighting ceremony.</p>
 					<!-- feature slider -->	
         			<div class="demo hasActive">
                     	<ul id="imageGallery2" class="gallery list-unstyled">
@@ -160,7 +160,7 @@ gallery: true
 						</ul>
     				</div>
 					<h3>Saturday, 4 June: Street Party &amp; Fete</h3>
-					<p>With the beacon lit, local residents and their familes arrived at Walbottle village green to celebrate the Platinum Jubilee. There was dancing demonstrations, stalls, raffles, and an amazing cake competition. A special thank-you for all who attened and helped to make the event a huge success. Click on an image to enlarge.</p>
+					<p>With the beacon lit, local residents and their familes arrived at Walbottle village green to celebrate the Platinum Jubilee. There was dancing demonstrations, stalls, raffles, and an amazing cake competition. A special thank-you for all who attened and helped to make the event a huge success.</p>
 					<!-- feature slider -->	
 			  		<div class="demo hasActive">
                     	<ul id="imageGallery" class="gallery list-unstyled">
