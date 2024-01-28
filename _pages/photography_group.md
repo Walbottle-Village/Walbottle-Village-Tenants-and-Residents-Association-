@@ -2,9 +2,11 @@
 layout: default
 title: WVT&amp;RA &raquo; Activity Groups &raquo; Photography
 bodytag: photography
-permalink: /activity_groups/photography/
+permalink: /activity_groups/photography_group/
 description: Photography in and around Walbottle village taken by some of our residents.
 keywords: walbottle, village, tenants, tennants, residents, assoc, association, newcastle, newcastle upon tyne, ne158, ne15 8, activity group, groups, photography
+url: https://www.walbottlevillagetra.co.uk/activity_groups/photography_group/
+OGimage: /assets/images/OG-Photography.jpg
 gallery: true
 ---
 	
