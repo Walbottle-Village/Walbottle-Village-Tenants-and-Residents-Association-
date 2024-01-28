@@ -25,13 +25,13 @@ gallery: true
 				<div class="col-xs-12">
 					<h2>Photography Group</h2>
 				</div>
-			<div class="col-md-12 col-xs-12">
-				<p><strong>Would you be interested in starting a photography group? If so contact the WVT&amp;RA and we will help you get set up.  Or if you just want to send your best picture of Walbottle Village to us we will try and upload it onto the webpage.</strong></p>
-				<h3>Photographs by Oliver, our Paperboy</h3>
-				<p>Beautiful early morning photos taken by Oliver during his paper round.</p>
+				<div class="col-md-12 col-xs-12">
+					<p><strong>Would you be interested in starting a photography group? If so contact the WVT&amp;RA and we will help you get set up.  Or if you just want to send your best picture of Walbottle Village to us we will try and upload it onto the webpage.</strong></p>
+					<h3>Photographs by Oliver, our Paperboy</h3>
+					<p>Beautiful early morning photos taken by Oliver during his paper round.</p>
 				<!-- feature slider -->
-				<div class="demo hasActive">
-					<ul id="imageGallery" class="gallery list-unstyled">                                    
+					<div class="demo hasActive">
+						<ul id="imageGallery" class="gallery list-unstyled">                                    
 						<li data-thumb="/assets/images/Oliver/1b5173be-dabf-4090-8ec1-43c07c1f1b9d1.jpg" data-src="/assets/images/Oliver/1b5173be-dabf-4090-8ec1-43c07c1f1b9d1.jpg"><img src="/assets/images/Oliver/1b5173be-dabf-4090-8ec1-43c07c1f1b9d1.jpg" alt="photos by Oliver the paperboy" class="img-responsive" loading="lazy" /></li>
 						<li data-thumb="/assets/images/Oliver/4c2910cc-0cda-4e77-9abd-d826c045a9851.jpg" data-src="/assets/images/Oliver/4c2910cc-0cda-4e77-9abd-d826c045a9851.jpg"><img src="/assets/images/Oliver/4c2910cc-0cda-4e77-9abd-d826c045a9851.jpg" alt="photos by Oliver the paperboy" class="img-responsive" loading="lazy" /></li>
 						<li data-thumb="/assets/images/Oliver/5afad7b1-9c0e-4d33-ae8b-2db561e6ee7d1.jpg" data-src="/assets/images/Oliver/5afad7b1-9c0e-4d33-ae8b-2db561e6ee7d1.jpg"><img src="/assets/images/Oliver/5afad7b1-9c0e-4d33-ae8b-2db561e6ee7d1.jpg" alt="photos by Oliver the paperboy" class="img-responsive" loading="lazy" /></li>
@@ -45,8 +45,8 @@ gallery: true
 						<li data-thumb="/assets/images/Oliver/344764391_623891462581260_2956264941370672818_n.jpg" data-src="/assets/images/Oliver/344764391_623891462581260_2956264941370672818_n.jpg"><img src="/assets/images/Oliver/344764391_623891462581260_2956264941370672818_n.jpg" alt="photos by Oliver the paperboy" class="img-responsive" loading="lazy" /></li>
 						<li data-thumb="/assets/images/Oliver/acd0a450-0412-4918-be34-859b6c8ca3611.jpg" data-src="/assets/images/Oliver/acd0a450-0412-4918-be34-859b6c8ca3611.jpg"><img src="/assets/images/Oliver/acd0a450-0412-4918-be34-859b6c8ca3611.jpg" alt="photos by Oliver the paperboy" class="img-responsive" loading="lazy" /></li>
 						<li data-thumb="/assets/images/Oliver/fd734f83-4f17-4431-bee5-bf948057d78a1.jpg" data-src="/assets/images/Oliver/fd734f83-4f17-4431-bee5-bf948057d78a1.jpg"><img src="/assets/images/Oliver/fd734f83-4f17-4431-bee5-bf948057d78a1.jpg" alt="photos by Oliver the paperboy" class="img-responsive" loading="lazy" /></li>
-					</ul>
-				</div>
+						</ul>
+					</div>
 				<h3>Drone Photographs, 3 October 2022 at 07:10</h3>
 				<p>Some amazing photos taken using a DJI Mavic Mini drone. All images copyright to Roger Parnell.</p>
 				<!-- feature slider -->
@@ -98,4 +98,3 @@ gallery: true
 		<div class="col-md-1 col-xs-0"></div>
 		</div>
 	</div> <!-- /row -->
-</div> <!-- /counter-fluid -->
