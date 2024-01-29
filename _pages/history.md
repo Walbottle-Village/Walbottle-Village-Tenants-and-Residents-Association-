@@ -46,7 +46,7 @@ OGimage: /assets/images/OG-History.jpg
 					<h3>Ad Murum</h3>
 				</div>
 				<div class="col-lg-3 col-md-4 col-xs-12">
-					<img src="/assets/images/kingPaeda.jpg" alt="King Paeda murdered by the treachery of Alchfled" class="img-responsive"><caption>King Paeda murdered by the treachery of Alchfled</caption>
+					<img src="/assets/images/kingPaeda.jpg" alt="King Paeda murdered by the treachery of Alchfled" class="img-responsive" loading="lazy"><caption>King Paeda murdered by the treachery of Alchfled</caption>
 				</div>
 				<div class="col-lg-9 col-md-8 col-xs-12">
 					<p><strong>In 653 King Peada of the Midland Angles visited a village in Northumberland called Ad Murum (meaning: At the Wall) to ask for the hand in marriage of Alchfled, the daughter of King Oswy.</strong> King Oswy would only grant his daughter’s hand if Peada converted to the Christian faith. Peada agreed and was baptised by Bishop Finan along with all his nobles and Thegns.</p>
@@ -65,7 +65,7 @@ OGimage: /assets/images/OG-History.jpg
 					<p>So what did happen to the Wall at Walbottle? It’s under Hexham road!</p>
 				</div>
 				<div class="col-lg-3 col-md-4 col-xs-12">
-					<img src="/assets/images/hexhamRoad.jpg" alt="A view of Hexham Road running through Walbottle" class="img-responsive"><caption>View of Hexham Road running through Walbottle</caption>
+					<img src="/assets/images/hexhamRoad.jpg" alt="A view of Hexham Road running through Walbottle" class="img-responsive" loading="lazy"><caption>View of Hexham Road running through Walbottle</caption>
 				</div>
 			</div> <!--/row -->
 			<div class="row">
@@ -79,7 +79,7 @@ OGimage: /assets/images/OG-History.jpg
 					<p>It is interesting to speculate what else is waiting to be discovered under Hexham Road!</p>
 				</div>
 				<div class="col-lg-3 col-md-4 col-xs-12">
-					<img src="/assets/images/walbottleHoard.jpg" alt="Some of the 5,000 coins found that made up part of the Walbottle Hoard" class="img-responsive"><caption>The Walbottle Hoard</caption>
+					<img src="/assets/images/walbottleHoard.jpg" alt="Some of the 5,000 coins found that made up part of the Walbottle Hoard" class="img-responsive" loading="lazy"><caption>The Walbottle Hoard</caption>
 				</div>
 			</div> <!--/row -->
 			<div class="row">
@@ -87,7 +87,7 @@ OGimage: /assets/images/OG-History.jpg
 					<h3>The Badge of Islam on Buildings in Walbottle?</h3>
 				</div>
 				<div class="col-lg-3 col-md-4 col-xs-12">
-					<img src="/assets/images/badgesOfIslam.jpg" alt="The crescent moon symbol on Walbottle Primary and the family crest of the Duke of Northumberland" class="img-responsive">
+					<img src="/assets/images/badgesOfIslam.jpg" alt="The crescent moon symbol on Walbottle Primary and the family crest of the Duke of Northumberland" class="img-responsive" loading="lazy">
 				</div>
 				<div class="col-lg-9 col-md-8 col-xs-12">
 					<p><strong>Did you know that Walbottle Primary school has an unusual symbol on the wall?</strong> The symbol is in the shape of  a crescent moon, the family crest of the Duke of Northumberland.</p>
@@ -108,7 +108,7 @@ OGimage: /assets/images/OG-History.jpg
 					<p>From humble beginnings two of his children did quite well. One became a lieutenant in the army while another acquired some celebrity as a Methodist preacher!</p>
 				</div>
 				<div class="col-lg-3 col-md-8 col-xs-12">
-					<img src="/assets/images/willie-woods.jpg" alt="A photograph of a recreation of Willie's house" class="img-responsive"><caption>Recreation of Willie’s house</caption>
+					<img src="/assets/images/willie-woods.jpg" alt="A photograph of a recreation of Willie's house" class="img-responsive" loading="lazy"><caption>Recreation of Willie’s house</caption>
 				</div>
 			</div> <!--/row -->
 			<div class="row">
@@ -116,7 +116,7 @@ OGimage: /assets/images/OG-History.jpg
 					<h3>Mary Ann Cotton &amp; The West Aukland Poisoning Case</h3>
 				</div>
 				<div class="col-md-4 col-xs-12">
-					<img src="/assets/images/mary-ann-cotton.jpg" alt="Image of The Mary Ann Cotton &amp; The West Aukland Poisoning Case press article" class="img-responsive"><caption>Press cutting about Mary Ann Cotton</caption>
+					<img src="/assets/images/mary-ann-cotton.jpg" alt="Image of The Mary Ann Cotton &amp; The West Aukland Poisoning Case press article" class="img-responsive" loading="lazy"><caption>Press cutting about Mary Ann Cotton</caption>
 				</div>
 				<div class="col-md-8 col-xs-12">
 					<p>The press article reads:</p>
