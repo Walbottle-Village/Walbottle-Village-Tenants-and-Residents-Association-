@@ -35,7 +35,7 @@
         {%include photoPanel.html%}
         {% include_cached footer.html %}
     {% include_cached loadjs.html %}
-    {% if page.title == "Home"%}
+    {% if page.bodytag == "home"%}
       {% include_cached lightslider.html %}
     {% endif %}
   {% if page.gallery == true%}
