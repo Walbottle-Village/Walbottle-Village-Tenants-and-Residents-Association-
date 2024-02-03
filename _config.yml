@@ -12,7 +12,6 @@ author: Walbottle Village Tenants &amp; Residents Association Website
 permalink: /:categories/:title/
 plugins:
   - jekyll-seo-tag
-  - jekyll-redirect-from
   - jekyll-include-cache 
   - jekyll-minifier
   - jekyll-last-modified-at
