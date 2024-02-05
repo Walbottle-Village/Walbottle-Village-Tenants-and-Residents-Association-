@@ -50,7 +50,7 @@ OGimage: /assets/images/OG-About.jpg
 					<div class="panelGrey">
 						<div class="panelWrap">
 							<div class="col-xs-5">
-								<img src="/assets/images/committee-Roger.jpg" alt="Association Treasurer: Roger" class="img-responsive">
+								<img src="/assets/images/committee-Roger.jpg" alt="Association Treasurer: Roger" loading="lazy" class="img-responsive">
 							</div>
 							<div class="col-xs-7">
 								<h4><strong>Association Treasurer:</strong> <br>Roger</h4>
@@ -65,7 +65,7 @@ OGimage: /assets/images/OG-About.jpg
 					<div class="panelGrey">
 						<div class="panelWrap">
 							<div class="col-xs-5">
-								<img src="/assets/images/committee-Helen.jpg" alt="Association Secretary: Helen" class="img-responsive">
+								<img src="/assets/images/committee-Helen.jpg" alt="Association Secretary: Helen" loading="lazy" class="img-responsive">
 							</div>
 							<div class="col-xs-7">
 								<h4><strong>Association Secretary:</strong> <br>Helen</h4>
@@ -79,7 +79,7 @@ OGimage: /assets/images/OG-About.jpg
 					<div class="panelGrey">
 						<div class="panelWrap">
 							<div class="col-xs-5">
-								<img src="/assets/images/committee-Peter.jpg" alt="Association I.T. Support: Peter" class="img-responsive">
+								<img src="/assets/images/committee-Peter.jpg" alt="Association I.T. Support: Peter" loading="lazy" class="img-responsive">
 							</div>
 							<div class="col-xs-7">
 								<h4><strong>Association I.T. Support:</strong> <br>Peter</h4>
