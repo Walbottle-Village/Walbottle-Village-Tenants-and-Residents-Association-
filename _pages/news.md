@@ -58,7 +58,7 @@ gallery: false
 <p>We will be providing a fish and chip supper in the village institute for a small donation of £2. If you would like a fish and chips voucher <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1qQ7BH_qadeOUoZorrwmct0wv-hYV6TAYJaSXptJNKpe7sQ/viewform" target="_blank" title="open the order form in a new window">click here to complete the online order form</a>.</p>
 							<p>Evening events include lighting the beacon and the D-Day proclamation read by our town crier, a piper and community singing led by Walbottle Choir.</p>
 							<p><strong>CELEBRATION EVENT • Sunday 9th June, 12.00pm – 4:30pm</strong></p>
-<p>The Sunday event will include a marquee, photo booth with World War II props, a display of maps and audio recordings, food and drinks, face painting, kids activities, a brass band and more&hellip;</p>
+<p>The Sunday event will include a marquee, photo booth with World War II props, a display of maps and audio recordings, food and drinks, face painting, kids activities and more&hellip;</p>
 
 <p><strong>Everyone is welcome to both events and we look forward to seeing you.</strong></p>
 						</div>
