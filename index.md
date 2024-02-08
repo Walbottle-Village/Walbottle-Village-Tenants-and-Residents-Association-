@@ -57,7 +57,6 @@ OGimage: /assets/images/OG-Home.jpg
 				<div class="col-xs-12 col-sm-12">
 					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
-						<!--
 						<li class="featurePane col-xs-4">
 							<a href="news/#pie-peas" title="more about the Pie &amp; Peas Supper Night">
 							<img src="/assets/images/D-DAY-FilmNight-868x414.jpg" class="img-responsive" alt="Pie and Peas Supper Night"/></a>
@@ -65,7 +64,6 @@ OGimage: /assets/images/OG-Home.jpg
 							<p>Join us for a Pie & Peas Supper while we watch the 1971 classic movie, Dad's Army, on the big screen.</p>
 							<a class="more" href="news/#pie-peas" title="more about the Pie &amp; Peas Supper Night">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
-						-->
 						<li class="featurePane col-xs-4">
 							<a href="news/#d-day-events" title="more about the D-Day events">
 							<img src="/assets/images/D-DAY-events-868x414.jpg" class="img-responsive" alt="D-Day Anniversary events"/></a>
