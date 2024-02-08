@@ -37,8 +37,8 @@ gallery: false
 							<h3>Pie &amp; Peas Supper and Film Night <span>Posted: 8 February 2024</span></h3>
 							<p>Join us for a <strong>Pie &amp; Peas Supper</strong> while we watch the 1971 classic movie, <strong>Dad's Army</strong>, on the big screen on <strong>Saturday 6th June, 5:30pm for a 6pm start</strong> at Walbottle Village Institute.</p>
 							<p>Tickets are <strong>&pound;6 per person</strong> with proceeds going to help fund our 6th and 9th June D-Day Anniversary events.</p>
-<p>To book tickets <a href="https://docs.google.com/forms/d/1k9PPXc_Q26jfObUPDbKfxeTCLdhTh0f-bRz3kslEPHk/viewform?edit_requested=true" target="_blank" title="open the order form in a new window">please complete the online form</a> or, alternatively, please call 07361 724 677.</p>
-							<p>With a maximum capacity of 36 people tickets will be distributed on a 'first come, first served' basis, so place your orders soon.</p>
+<p>To book tickets <a href="https://docs.google.com/forms/d/1k9PPXc_Q26jfObUPDbKfxeTCLdhTh0f-bRz3kslEPHk/viewform?edit_requested=true" target="_blank" title="open the order form in a new window">please complete the online form</a> or, alternatively, call 07361 724 677.</p>
+							<p>With a maximum capacity of 36 people, tickets will be distributed on a 'first come, first served' basis, so place your orders soon.</p>
 <p><strong>We look forward to seeing you there!</strong></p>
 						</div>
 					</div>
