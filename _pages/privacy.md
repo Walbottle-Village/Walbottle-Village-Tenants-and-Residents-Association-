@@ -27,7 +27,7 @@ gallery: false
 			 		 <h2>Our Cookie &amp; Privacy Policy</h2>
 				</div>
 				<div class="col-md-12 col-xs-12">
-					<p><strong>This Privacy Policy governs the manner in which Walbottle Village Tenants &amp; Residents Association collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.walbottlevillagetra.co.uk website (“Site”). This privacy policy applies to the Site and all products and services offered by albottle Village Tenants &amp; Residents Association.</strong></p>
+					<p><strong>This Privacy Policy governs the manner in which Walbottle Village Tenants &amp; Residents Association collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.walbottlevillagetra.co.uk website (“Site”). This privacy policy applies to the Site and all products and services offered by Walbottle Village Tenants &amp; Residents Association.</strong></p>
 					<h3>Personal Identification Information</h3>
 					<p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
 					<h3>Non-personal Identification Information</h3>
