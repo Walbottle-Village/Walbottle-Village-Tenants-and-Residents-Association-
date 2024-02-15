@@ -15,7 +15,7 @@ OGimage: /assets/images/OG-Home.jpg
 		 			<div id="carousel-example-generic" class="carousel-fade carousel slide" data-ride="carousel">
               	 				<div class="carousel-inner" role="listbox">
 							<div class="item active">
-							  <img src = "/assets/images/mastheadImg-home.jpg" class = "sliderImage" alt = "aerial view of Walbottle Village in winter">
+							  <img src = "/assets/images/mastheadImg-home-spring.jpg" class = "sliderImage" alt = "aerial view of Walbottle Village in spring">
 							</div>
 							<div class="item">
 							  <img src = "/assets/images/mastheadImg-home02.jpg" class = "sliderImage" alt = "aerial view of Walbottle Village in winter">
