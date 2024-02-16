@@ -61,7 +61,7 @@ OGimage: /assets/images/OG-Home.jpg
 							<a href="news/#pie-peas" title="more about the Pie &amp; Peas Supper Night">
 							<img src="/assets/images/D-DAY-FilmNight-868x414.jpg" class="img-responsive" alt="Pie and Peas Supper Night"/></a>
 							<h3>Pie &amp; Peas Supper and Film Night</h3>
-							<p>Join us for a Pie & Peas Supper while we watch the 1971 classic movie, Dad's Army, on the big screen.</p>
+							<p>Join us for a Pie & Peas Supper while we watch the 2016 film Dad's Army, on the big screen.</p>
 							<a class="more" href="news/#pie-peas" title="more about the Pie &amp; Peas Supper Night">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
