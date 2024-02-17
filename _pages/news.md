@@ -6,7 +6,7 @@ permalink: /news/
 description: Keep up-to-date with the latest news and upcoming events in Walbottle Village including download links for the printed newsletter.
 keywords: walbottle, committee meeting, residents meeting, village, ne15 8, news, events, news and events, walbottle choir, food bank, foodbank, newsletter, pdf, download
 url: https://www.walbottlevillagetra.co.uk/news/
-OGimage: /assets/images/OG-News.jpg
+OGimage: /OG-News.jpg
 gallery: false
 ---
 <div class="container-fluid">
