@@ -52,12 +52,30 @@ gallery: false
 							<h3>D-DAY Anniversary Events 2024 <span>Posted: 25 January 2024</span></h3>
 							<p>June 6th 2024 marks the 80th anniversary of the D-Day landings in Normandy and will be commemorated and celebrated across the country.</p>
 							<p>We will be holding two events in Walbottle Village at the village institute and on the green, all are welcome. We will be commemorating and celebrating the heroic actions undertaken by British and ally troops in the air, on land and at sea during D-Day.</p>
-<p><strong>COMMEMORATION EVENT • Thursday 6 June, 7:30pm – 10:00pm</strong></p>
-<p>We will be providing a fish and chip supper in the village institute for a small donation of £2. If you would like a fish and chips voucher <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1qQ7BH_qadeOUoZorrwmct0wv-hYV6TAYJaSXptJNKpe7sQ/viewform" target="_blank" title="open the order form in a new window">click here to complete the online order form</a>.</p>
-							<p>Evening events include lighting the beacon and the D-Day proclamation read by our town crier, a piper and community singing led by Walbottle Choir.</p>
+<p><strong>COMMEMORATION EVENT • Thursday 6 June, 8pm – 10pm</strong></p>
+<p>All are welcome and we look forward to seeing you. The latest schedule of events for Thursday evening is:</p>
+							<ul>
+								<li>8:00PM: Welcome address</li>
+								<li>8:05PM: Proclamation</li>
+								<li>8:15PM: Fish &amp; Chips, tea and coffee</li>
+								<li>8:30PM: Piper</li>
+								<li>8:55PM: Walbottle Choir, five songs.</li>
+								<li>9:15PM: International Tribute and beacon lighting, synchronised with national and Hadrian’s Wall beacon lighting</li>
+								<li>Piper and close</li>
+							</ul>
+<p>The date is also National Fish & Chips Day and we will be providing forty subsidised fish and chip suppers at the village institute for those who purchase vouchers in advance for &pound;2. If you would like a fish and chips voucher <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1qQ7BH_qadeOUoZorrwmct0wv-hYV6TAYJaSXptJNKpe7sQ/viewform" target="_blank" title="open the order form in a new window">click here to complete the online order form</a>.</p>
 							<p><strong>CELEBRATION EVENT • Sunday 9th June, 12.00pm – 4:30pm</strong></p>
-<p>The Sunday event will include a marquee, photo booth with World War II props, a display of maps and audio recordings, food and drinks, face painting, kids activities and more&hellip;</p>
-
+<p>The family event on Sunday will include a marquee, photo booth with World War II props, a display of maps and audio recordings, food and drinks, face painting, kids activities and more&hellip;</p>
+<p>The schedule of events for Sunday afternoon are:</p>
+<ul>
+	<li>12:00PM: Event starts</li>
+	<li>1:00PM: Tea, coffee and refreshments from Walbotl Coffee House</li>
+	<li>2:00PM: Walbottle Choir, Frosty’s Fish and Chips van</li>
+	<li>3:00PM: Childrens Parade and Prizes</li>
+	<li>3:30PM: Raffle prize draw</li>
+	<li>3:50PM: Beacon lighting</li>
+	<li>4:00PM: Close</li>
+</ul>
 <p><strong>Everyone is welcome to both events and we look forward to seeing you.</strong></p>
 						</div>
 					</div>
