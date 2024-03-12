@@ -102,18 +102,6 @@ gallery: false
 							</div>
 						</div>
 					</div>
-					<div class="row" id="DDay">
-						<div class="article">
-							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/DDay.jpg" loading="lazy" alt="D-Day 2024 Open Meeting" class="img-responsive" loading="lazy">
-							</div>
-							<div class="col-sm-9 col-xs-12">
-								<h3>D-Day Open Meeting <span>Posted: 5 January 2024</span></h3>
-								<p>Wednesday 10 January , 7:00pm  in the Village Institute.</p>
-								<p>This meeting will be held at the Village Institute at 7pm on 10 January. All welcome.</p>
-							</div>	
-						</div>
-					</div>
 					<div class="row" id="foodbankJan">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
