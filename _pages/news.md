@@ -165,6 +165,7 @@ gallery: false
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<a href="/assets/pdf/VillageNews-Spring2024.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-10.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
 					<p>Issue 11: Spring 2024</p></a>
+				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<a href="/assets/pdf/Village-News-Winter-2023.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-10.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
 					<p>Issue 10: Winter 2023</p></a>
