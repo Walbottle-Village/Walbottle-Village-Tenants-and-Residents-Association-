@@ -36,7 +36,7 @@ gallery: false
 						<div class="col-sm-9 col-xs-12">
 							<h3>D-Day At 80 Event - Stalls Available</h3>
 							<p>Stall places are available for &pound;10 at the D-Day Event to be held on the Village Green on <strong></strong>Sunday, 9 June from 12 - 4pm</strong>. Bring your own table-top, chairs and pop-up gazebo.</p>
-							<p>To book your spot please contact the WVT&amp;RA on 07361 724 677, email us at <a href="mailto:stalls@walbottlevillagetra.co.uk?subject=D-Day Stall Enquiry" title="D-Day Stall Enquiry email">stalls@walbottlevillagetra.co.uk</a> or complete the <a href="https://forms.gle/qvvVzDUYTiRZwCpZ8" title="D-Day Stall Order Form" target="_blank">online application form</a>.</p>
+							<p>To book your spot please contact the WVT&amp;RA on <strong>07361 724 677</strong>, email us at <a href="mailto:stalls@walbottlevillagetra.co.uk?subject=D-Day Stall Enquiry" title="D-Day Stall Enquiry email">stalls@walbottlevillagetra.co.uk</a> or complete the <a href="https://forms.gle/qvvVzDUYTiRZwCpZ8" title="D-Day Stall Order Form" target="_blank">online application form</a>.</p>
 						</div>
 					</div>
 				</div>
