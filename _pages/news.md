@@ -28,6 +28,30 @@ gallery: false
 				</div>
 			</div>
 			<div class="col-xs-12 eventWrap">
+				<!-- <div class="row" id="volunteers">
+					<div class="article">
+						<div class="col-sm-3 col-xs-12">
+							<img src="/assets/images/D-Day-Volunteers-FB.jpg" loading="lazy" alt="call for D-Day volunteers" class="img-responsive" loading="lazy">
+						</div>
+						<div class="col-sm-9 col-xs-12">
+							<h3>Volunteers for D-Day At 80 Events</h3>
+							<p>Volunteers needed! If you can help volunteer before, during or after the D-Day events on <strong>6 and 9 June</strong> we would love to hear from you. We're looking for event marshalls and help to set-up and clear-up before, during and after both events.</p>
+							<p>Please contact the WVT&RA on 07361 724 677, email <a href="mailto:???@walbottlevillagetra.co.uk?subject=D-Day Volunteer Enquiry" title="D-Day Volunteer Enquiry email">???@walbottlevillagetra.co.uk</a> or complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScWLNigjIUN2NoaPSO07OTG7zOAjbloSfZgd1qg2T9KmacXNA/viewform" title="D-Day Volunteer Enquiry Form" target="_blank">online application form</a>.</p>
+						</div>
+					</div>
+				</div> -->
+				<div class="row" id="stalls">
+					<div class="article">
+						<div class="col-sm-3 col-xs-12">
+							<img src="/assets/images/D-Day-StallAd-FB.jpg" loading="lazy" alt="D-Day Stalls" class="img-responsive" loading="lazy">
+						</div>
+						<div class="col-sm-9 col-xs-12">
+							<h3>D-Day At 80 Event - Stalls Available</h3>
+							<p>Stall places are available for &pound;10 at the D-Day Event to be held on the Village Green on <strong>Sunday, 9 June from 12 - 4pm</strong>. Bring your own table-top, chairs and pop-up gazebo.</p>
+							<p>To book your spot please contact the WVT&amp;RA on <strong>07361 724 677</strong>, email us at <a href="mailto:stalls@walbottlevillagetra.co.uk?subject=D-Day Stall Enquiry" title="D-Day Stall Enquiry email">stalls@walbottlevillagetra.co.uk</a> or complete the <a href="https://forms.gle/qvvVzDUYTiRZwCpZ8" title="D-Day Stall Order Form" target="_blank">online application form</a>.</p>
+						</div>
+					</div>
+				</div>
 				<div class="row" id="pie-peas">
 					<div class="article">
 						<div class="col-sm-3 col-xs-12">
@@ -163,47 +187,47 @@ gallery: false
 			</div>
 			<div class="row newsletters">
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/VillageNews-Spring2024.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-11.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/VillageNews-Spring2024.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-11.jpg" alt="image of the newsletter front cover of Issue 11: Spring 2024" class="img-responsive" loading="lazy">
 					<p>Issue 11: Spring 2024</p></a>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/Village-News-Winter-2023.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-10.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/Village-News-Winter-2023.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-10.jpg" alt="image of the newsletter front cover of Issue 10: Winter 2023" class="img-responsive" loading="lazy">
 					<p>Issue 10: Winter 2023</p></a>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/Walbottle-Residents-A4-Newsletter-Summer-23.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-09.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/Walbottle-Residents-A4-Newsletter-Summer-23.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-09.jpg" alt="image of the newsletter front cover of Issue 9: Summer 2023" class="img-responsive" loading="lazy">
 					<p>Issue 9: Summer 2023</p></a>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/Walbottle-Residents-A4-Newsletter-Spring-23.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-08.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/Walbottle-Residents-A4-Newsletter-Spring-23.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-08.jpg" alt="image of the newsletter front cover of Issue 8: Spring 2023" class="img-responsive" loading="lazy">
 					<p>Issue 8: Spring 2023</p></a>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/Walbottle-Residents-A4-Newsletter-AUTUMN-2022-V2.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-07.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/Walbottle-Residents-A4-Newsletter-AUTUMN-2022-V2.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-07.jpg" alt="image of the newsletter front cover of Issue 7: Autumn 2022" class="img-responsive" loading="lazy">
 					<p>Issue 7: Autumn 2022</p></a>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/Summer-2022-Walbottle-News.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-06.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/Summer-2022-Walbottle-News.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-06.jpg" alt="image of the newsletter front cover of Issue 6: Summer 2022" class="img-responsive" loading="lazy">
 					<p>Issue 6: Summer 2022</p></a>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/Spring-2022-Walbottle-News.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-05.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/Spring-2022-Walbottle-News.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-05.jpg" alt="image of the newsletter front cover of Issue 5: Spring 2022" class="img-responsive" loading="lazy">
 					<p>Issue 5: Spring 2022</p></a>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/Walbottle-News-Dec-21-v2.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-04.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/Walbottle-News-Dec-21-v2.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-04.jpg" alt="image of the newsletter front cover of Issue 4: Winter 2021" class="img-responsive" loading="lazy">
 					<p>Issue 4: Winter 2021</p></a>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/Walbottle-Newsletter-sept-21.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-03.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/Walbottle-Newsletter-sept-21.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-03.jpg" alt="image of the newsletter front cover of Issue 3: Autumn 2021" class="img-responsive" loading="lazy">
 					<p>Issue 3: Autumn 2021</p></a>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/WVTRA-Newsletter-24_04_21.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-02.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/WVTRA-Newsletter-24_04_21.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-02.jpg" alt="image of the newsletter front cover of Issue 2: Spring 2021" class="img-responsive" loading="lazy">
 					<p>Issue 2: Spring 2021</p></a>
 				</div>
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="/assets/pdf/Sept-20-newsletter.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-01.jpg" alt="image of the front cover of the September 2020 newsletter" class="img-responsive" loading="lazy">
+					<a href="/assets/pdf/Sept-20-newsletter.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-01.jpg" alt="image of the newsletter front cover of Issue 1: Autumn 2020" class="img-responsive" loading="lazy">
 					<p>Issue 1: Autumn 2020</p></a>
 				</div>
 			</div>
