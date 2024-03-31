@@ -34,7 +34,7 @@ gallery: false
 							<img src="/assets/images/D-Day-Volunteers-FB.jpg" loading="lazy" alt="call for D-Day volunteers" class="img-responsive" loading="lazy">
 						</div>
 						<div class="col-sm-9 col-xs-12">
-							<h3>Volunteers for D-Day At 80 Events</h3>
+							<h3>Volunteers for D-Day At 80 Events <span>Posted: 31 March 2024</span></h3>
 							<p>Volunteers needed! If you can help volunteer before, during or after the D-Day events on <strong>6 and 9 June</strong> we would love to hear from you. We're looking for event marshalls and help to set-up and clear-up before, during and after both events.</p>
 							<p>Please contact the WVT&RA on <strong>07361 724 677</strong>, email <a href="mailto:volunteers@walbottlevillagetra.co.uk?subject=D-Day Volunteer Enquiry" title="D-Day Volunteer Enquiry email">volunteers@walbottlevillagetra.co.uk</a> or complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScWLNigjIUN2NoaPSO07OTG7zOAjbloSfZgd1qg2T9KmacXNA/viewform" title="D-Day Volunteer Enquiry Form" target="_blank">online application form</a>.</p>
 						</div>
@@ -46,7 +46,7 @@ gallery: false
 							<img src="/assets/images/D-Day-StallAd-FB.jpg" loading="lazy" alt="D-Day Stalls" class="img-responsive" loading="lazy">
 						</div>
 						<div class="col-sm-9 col-xs-12">
-							<h3>D-Day At 80 Event - Stalls Available</h3>
+							<h3>D-Day At 80 Event - Stalls Available <span>Posted: 29 March 2024</span></h3>
 							<p>Stall places are available for &pound;10 at the D-Day Event to be held on the Village Green on <strong>Sunday, 9 June from 12 - 4pm</strong>. Bring your own table-top, chairs and pop-up gazebo.</p>
 							<p>To book your spot please contact the WVT&amp;RA on <strong>07361 724 677</strong>, email us at <a href="mailto:stalls@walbottlevillagetra.co.uk?subject=D-Day Stall Enquiry" title="D-Day Stall Enquiry email">stalls@walbottlevillagetra.co.uk</a> or complete the <a href="https://forms.gle/qvvVzDUYTiRZwCpZ8" title="D-Day Stall Order Form" target="_blank">online application form</a>.</p>
 						</div>
