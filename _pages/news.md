@@ -36,7 +36,7 @@ gallery: false
 						<div class="col-sm-9 col-xs-12">
 							<h3>Volunteers for D-Day At 80 Events</h3>
 							<p>Volunteers needed! If you can help volunteer before, during or after the D-Day events on <strong>6 and 9 June</strong> we would love to hear from you. We're looking for event marshalls and help to set-up and clear-up before, during and after both events.</p>
-							<p>Please contact the WVT&RA on 07361 724 677, email <a href="mailto:volunteers@walbottlevillagetra.co.uk?subject=D-Day Volunteer Enquiry" title="D-Day Volunteer Enquiry email">volunteers@walbottlevillagetra.co.uk</a> or complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScWLNigjIUN2NoaPSO07OTG7zOAjbloSfZgd1qg2T9KmacXNA/viewform" title="D-Day Volunteer Enquiry Form" target="_blank">online application form</a>.</p>
+							<p>Please contact the WVT&RA on <strong>07361 724 677</strong>, email <a href="mailto:volunteers@walbottlevillagetra.co.uk?subject=D-Day Volunteer Enquiry" title="D-Day Volunteer Enquiry email">volunteers@walbottlevillagetra.co.uk</a> or complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScWLNigjIUN2NoaPSO07OTG7zOAjbloSfZgd1qg2T9KmacXNA/viewform" title="D-Day Volunteer Enquiry Form" target="_blank">online application form</a>.</p>
 						</div>
 					</div>
 				</div>
