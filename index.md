@@ -58,11 +58,11 @@ OGimage: /assets/images/OG-Home.jpg
 					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
 						<li class="featurePane col-xs-4">
-							<a href="news/#pie-peas" title="more about the Pie &amp; Peas Supper Night">
-							<img src="/assets/images/D-DAY-FilmNight-868x414.jpg" class="img-responsive" alt="Pie and Peas Supper Night"/></a>
-							<h3>Pie &amp; Peas Supper and Film Night</h3>
-							<p>Join us for a Pie & Peas Supper while we watch the 1971 classic film Dad's Army, on the big screen.</p>
-							<a class="more" href="news/#pie-peas" title="more about the Pie &amp; Peas Supper Night">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a href="news/#foodbank" title="about the Food Bank">
+								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
+							<h3>Food Bank Collection</h3>
+							<p>Sunday, 7 July, 10:30 to 12:00 in the Village Institute.</p>
+							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
 							<a href="news/#d-day-events" title="more about the D-Day events">
@@ -77,13 +77,6 @@ OGimage: /assets/images/OG-Home.jpg
 							<h3>Walbottle Choir</h3>
 							<p>Meeting every Monday excluding bank holidays in the Village Institute at 7:30pm for an hour. £2 per session.</p>
 							<a class="more" href="news/#choir" title="visit the Walbottle Choisters group page">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
-						</li>
-						<li class="featurePane col-xs-4">
-							<a href="news/#foodbank" title="about the Food Bank">
-								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
-							<h3>Food Bank Collection</h3>
-							<p>Sunday, 7 July, 10:30 to 12:00 in the Village Institute.</p>
-							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 					</ul>
 					<button type="button" class="slideRight" id="goToNextSlide"></button>
