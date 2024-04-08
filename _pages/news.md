@@ -28,6 +28,17 @@ gallery: false
 				</div>
 			</div>
 			<div class="col-xs-12 eventWrap">
+				<div class="row" id="meeting">
+					<div class="article">
+						<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg" loading="lazy" alt="Walbottle Residents meeting" class="img-responsive" loading="lazy">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Residents meeting <span>Posted: 8 April 2024</span></h3>
+								<p>Tuesday 16 April, 19:30 in the Village Institute. <!-- <a href="/assets/pdf/240123 - WVTRA Committee Meeting Agenda.docx.pdf" title="agenda">View the agenda</a> --></p>
+							</div>
+						</div>
+					</div>
 					<div class="row" id="foodbank">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
