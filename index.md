@@ -58,6 +58,13 @@ OGimage: /assets/images/OG-Home.jpg
 					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
 						<li class="featurePane col-xs-4">
+							<a href="news/#meeting" title="Walbottle Residents Open Meeting">
+								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg" class="img-responsive" alt="walbottle residents open meeting"/></a>
+							<h3>Walbottle Residents Open Meeting</h3>
+							<p>Tuesday, 16 April, 19:30 in the Village Institute.</p>
+							<a class="more" href="news/#meeting" title="about the open meeting">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+						</li>
+						<li class="featurePane col-xs-4">
 							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Food Bank Collection</h3>
