@@ -28,6 +28,17 @@ gallery: false
 				</div>
 			</div>
 			<div class="col-xs-12 eventWrap">
+					<div class="row" id="foodbank">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/foodbank.jpg" loading="lazy" alt="Walbottle Food Bank Collection" class="img-responsive" loading="lazy">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Food Bank Collection <span>Posted: 8 April 2024</span></h3>
+								<p>Sunday 7 July, 10:30 to 12:00 in the Village Institute.</p>
+							</div>
+						</div>
+					</div>
 				<div class="row" id="volunteers">
 					<div class="article">
 						<div class="col-sm-3 col-xs-12">
@@ -115,7 +126,7 @@ gallery: false
 							</div>
 						</div>
 					</div>
-					<div class="row" id="foodbank">
+					<div class="row" id="foodbankAprl">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
 								<img src="/assets/images/foodbank.jpg" loading="lazy" alt="Walbottle Food Bank Collection" class="img-responsive" loading="lazy">

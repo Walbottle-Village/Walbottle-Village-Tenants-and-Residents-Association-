@@ -82,7 +82,7 @@ OGimage: /assets/images/OG-Home.jpg
 							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Food Bank Collection</h3>
-							<p>Sunday, 7 April, 10:30 to 12:00 in the Village Institute.</p>
+							<p>Sunday, 7 July, 10:30 to 12:00 in the Village Institute.</p>
 							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 					</ul>
