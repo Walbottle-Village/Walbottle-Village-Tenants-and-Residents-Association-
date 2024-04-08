@@ -63,6 +63,7 @@ gallery: false
 						</div>
 					</div>
 				</div>
+				<!--
 				<div class="row" id="pie-peas">
 					<div class="article">
 						<div class="col-sm-3 col-xs-12">
@@ -78,6 +79,7 @@ gallery: false
 						</div>
 					</div>
 				</div>
+				-->
 				<div class="row" id="d-day-events">
 					<div class="article">
 						<div class="col-sm-3 col-xs-12">
@@ -115,6 +117,7 @@ gallery: false
 						</div>
 					</div>
 				</div>
+				<!--
 				<div class="row" id="meeting">
 					<div class="article">
 						<div class="col-sm-3 col-xs-12">
@@ -150,7 +153,6 @@ gallery: false
 							</div>	
 						</div>
 					</div>
-     					<!--
 					<div class="row" id="halloween">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
