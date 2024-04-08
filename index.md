@@ -58,11 +58,11 @@ OGimage: /assets/images/OG-Home.jpg
 					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
 						<li class="featurePane col-xs-4">
-							<a href="news/#meeting" title="Walbottle Residents Open Meeting">
-								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg" class="img-responsive" alt="walbottle residents open meeting"/></a>
-							<h3>Walbottle Residents Open Meeting</h3>
-							<p>Tuesday, 16 April, 19:30 in the Village Institute.</p>
-							<a class="more" href="news/#meeting" title="about the open meeting">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a href="news/#d-day-events" title="more about the D-Day events">
+							<img src="/assets/images/D-DAY-events-868x414.jpg" class="img-responsive" alt="D-Day Anniversary events"/></a>
+							<h3>D-DAY Anniversary Events</h3>
+							<p>Beacon Lighting &bull; Fish &amp; Chips &bull; Community Singing &bull; Photo Booth &bull; Maps &amp; Audio &bull; Face Painting &bull; Food &bull; Kids Activities &bull; <em>and more&hellip;</em></p>
+							<a class="more" href="news/#d-day-events" title="more about the D-Day events">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
 							<a href="news/#foodbank" title="about the Food Bank">
@@ -72,11 +72,11 @@ OGimage: /assets/images/OG-Home.jpg
 							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
-							<a href="news/#d-day-events" title="more about the D-Day events">
-							<img src="/assets/images/D-DAY-events-868x414.jpg" class="img-responsive" alt="D-Day Anniversary events"/></a>
-							<h3>D-DAY Anniversary Events</h3>
-							<p>Beacon Lighting &bull; Fish &amp; Chips &bull; Community Singing &bull; Photo Booth &bull; Maps &amp; Audio &bull; Face Painting &bull; Food &bull; Kids Activities &bull; <em>and more&hellip;</em></p>
-							<a class="more" href="news/#d-day-events" title="more about the D-Day events">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a href="news/#meeting" title="Walbottle Residents Open Meeting">
+								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg" class="img-responsive" alt="walbottle residents open meeting"/></a>
+							<h3>Walbottle Residents Open Meeting</h3>
+							<p>Tuesday, 16 April, 19:30 in the Village Institute.</p>
+							<a class="more" href="news/#meeting" title="about the open meeting">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
 							<a href="news/#choir" title="visit the Walbottle Choisters group page">
