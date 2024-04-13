@@ -46,7 +46,7 @@ gallery: false
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Residents meeting <span>Posted: 8 April 2024</span></h3>
-								<p>Tuesday 16 April, 19:00 in the Village Institute.  <a href="/assets/pdf/240123 - WVTRA Committee Meeting Agenda.docx (1).pdf" title="agenda">View the agenda</a> </p>
+								<p>Tuesday 16 April, 19:00 in the Village Institute. <!-- <a href="/assets/pdf/240123 - WVTRA Committee Meeting Agenda.docx (1).pdf" title="agenda">View the agenda</a> </p>-->
 							</div>
 						</div>
 					</div>
