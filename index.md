@@ -75,7 +75,7 @@ OGimage: /assets/images/OG-Home.jpg
 							<a href="news/#meeting" title="Walbottle Residents Open Meeting">
 								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg" class="img-responsive" alt="walbottle residents open meeting"/></a>
 							<h3>Walbottle Residents Open Meeting</h3>
-							<p>Tuesday, 16 April, 19:30 in the Village Institute.</p>
+							<p>Tuesday, 16 April, 19:00 in the Village Institute.</p>
 							<a class="more" href="news/#meeting" title="about the open meeting">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
