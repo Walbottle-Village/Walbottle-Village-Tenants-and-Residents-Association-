@@ -72,13 +72,6 @@ OGimage: /assets/images/OG-Home.jpg
 							<a class="more" href="news/#d-day-events" title="more about the D-Day events">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
-							<a href="news/#meeting" title="Walbottle Residents Open Meeting">
-								<img src="/assets/images/ResidentsMeeting-Website-868x414-Green.jpg" class="img-responsive" alt="walbottle residents open meeting"/></a>
-							<h3>Walbottle Residents Open Meeting</h3>
-							<p>Tuesday, 16 April, 19:00 in the Village Institute.</p>
-							<a class="more" href="news/#meeting" title="about the open meeting">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
-						</li>
-						<li class="featurePane col-xs-4">
 							<a href="news/#choir" title="visit the Walbottle Choisters group page">
 								<img src="/assets/images/choir.jpg" class="img-responsive" alt="walbottle Choir"/></a>
 							<h3>Walbottle Choir</h3>
