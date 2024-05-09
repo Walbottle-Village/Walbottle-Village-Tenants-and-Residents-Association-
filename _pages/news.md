@@ -39,81 +39,17 @@ gallery: false
 							</div>
 						</div>
 					</div>
-					<div class="row" id="volunteers">
-						<div class="article">
-							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/D-Day-Volunteers-FB.jpg" loading="lazy" alt="call for D-Day volunteers" class="img-responsive" loading="lazy">
-							</div>
-						<div class="col-sm-9 col-xs-12">
-							<h3>Volunteers for D-Day At 80 Events <span>Posted: 31 March 2024</span></h3>
-							<p>Volunteers needed! If you can help volunteer before, during or after the D-Day events on <strong>6 and 9 June</strong> we would love to hear from you. We're looking for event marshalls and help to set-up and clear-up before, during and after both events.</p>
-							<p>Please contact the WVT&RA on <strong>07361 724 677</strong>, email <a href="mailto:volunteers@walbottlevillagetra.co.uk?subject=D-Day Volunteer Enquiry" title="D-Day Volunteer Enquiry email">volunteers@walbottlevillagetra.co.uk</a> or complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScWLNigjIUN2NoaPSO07OTG7zOAjbloSfZgd1qg2T9KmacXNA/viewform" title="D-Day Volunteer Enquiry Form" target="_blank">online application form</a>.</p>
-						</div>
-					</div>
-				</div>
-				<div class="row" id="stalls">
-					<div class="article">
-						<div class="col-sm-3 col-xs-12">
-							<img src="/assets/images/D-Day-StallAd-FB.jpg" loading="lazy" alt="D-Day Stalls" class="img-responsive" loading="lazy">
-						</div>
-						<div class="col-sm-9 col-xs-12">
-							<h3>D-Day At 80 Event - Stalls Available <span>Posted: 29 March 2024</span></h3>
-							<p>Stall places are available for &pound;10 at the D-Day Event to be held on the Village Green on <strong>Sunday, 9 June from 12 - 4pm</strong>. Bring your own table-top, chairs and pop-up gazebo.</p>
-							<p>To book your spot please contact the WVT&amp;RA on <strong>07361 724 677</strong>, email us at <a href="mailto:stalls@walbottlevillagetra.co.uk?subject=D-Day Stall Enquiry" title="D-Day Stall Enquiry email">stalls@walbottlevillagetra.co.uk</a> or complete the <a href="https://forms.gle/qvvVzDUYTiRZwCpZ8" title="D-Day Stall Order Form" target="_blank">online application form</a>.</p>
-						</div>
-					</div>
-				</div>
-				<!--
-				<div class="row" id="pie-peas">
-					<div class="article">
-						<div class="col-sm-3 col-xs-12">
-							<img src="/assets/images/D-DAY-FilmNight-868x414.jpg" loading="lazy" alt="Pie and Peas Supper Night" class="img-responsive" loading="lazy">
-						</div>
-						<div class="col-sm-9 col-xs-12">
-							<h3>Pie &amp; Peas Supper and Film Night <span>Posted: 8 February 2024</span></h3>
-							<p>Join us for a <strong>Pie &amp; Peas Supper</strong> while we watch the 1971 classic film <strong>Dad's Army</strong>, on the big screen on <strong>Saturday 6th April, 5:30pm for a 6pm start</strong> at Walbottle Village Institute.</p>
-							<p>Tickets are <strong>&pound;6 per person</strong> with proceeds going to help fund our 6th and 9th June D-Day Anniversary events.</p>
-<p>To book tickets please call <strong>07361 724 677</strong>.</p>
-							<p>With a maximum capacity of 36 people, tickets will be distributed on a 'first come, first served' basis, so place your orders soon.</p>
-<p><strong>We look forward to seeing you there!</strong></p>
-						</div>
-					</div>
-				</div>
-				-->
 				<div class="row" id="d-day-events">
 					<div class="article">
 						<div class="col-sm-3 col-xs-12">
-							<img src="/assets/images/D-DAY-events-868x414.jpg" loading="lazy" alt="D-Day 2024 events at Walbottle" class="img-responsive" loading="lazy">
+							<img src="/assets/images/D-DAY-CANCELLED-868x414.jpg" loading="lazy" alt="D-Day 2024, Walbottle - Cancelled" class="img-responsive">
 						</div>
 						<div class="col-sm-9 col-xs-12">
-							<h3>D-DAY Anniversary Events 2024 <span>Updated: 12 March 2024</span></h3>
-							<p>June 6th 2024 marks the 80th anniversary of the D-Day landings in Normandy and will be commemorated and celebrated across the country.</p>
-							<p>We will be holding two events in Walbottle Village at the village institute and on the green, all are welcome. We will be commemorating and celebrating the heroic actions undertaken by British and ally troops in the air, on land and at sea during D-Day.</p>
-<p><strong>COMMEMORATION EVENT • Thursday 6 June, 8pm – 10pm</strong></p>
-<p>All are welcome and we look forward to seeing you. The latest schedule of events for Thursday evening is:</p>
-							<ul>
-								<li>8:00PM: Welcome address</li>
-								<li>8:05PM: Proclamation</li>
-								<li>8:15PM: Fish &amp; Chips, tea and coffee</li>
-								<li>8:30PM: Piper</li>
-								<li>8:55PM: Walbottle Choir, five songs.</li>
-								<li>9:15PM: International Tribute and beacon lighting, synchronised with national and Hadrian’s Wall beacon lighting</li>
-								<li>Piper and close</li>
-							</ul>
-<p>The date is also National Fish & Chips Day and we will be providing forty subsidised fish and chip suppers at the village institute for those who purchase vouchers in advance for &pound;2. If you would like a fish and chips voucher <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1qQ7BH_qadeOUoZorrwmct0wv-hYV6TAYJaSXptJNKpe7sQ/viewform" target="_blank" title="open the order form in a new window">click here to complete the online order form</a>.</p>
-							<p><strong>CELEBRATION EVENT • Sunday 9th June, 12.00pm – 4:30pm</strong></p>
-<p>The family event on Sunday will include a marquee, photo booth with World War II props, a display of maps and audio recordings, food and drinks, face painting, kids activities and more&hellip;</p>
-<p>The schedule of events for Sunday afternoon are:</p>
-<ul>
-	<li>12:00PM: Event starts</li>
-	<li>1:00PM: Tea, coffee and refreshments from Walbotl Coffee House</li>
-	<li>2:00PM: Walbottle Choir, Frosty’s Fish and Chips van</li>
-	<li>3:00PM: Childrens Parade and Prizes</li>
-	<li>3:30PM: Raffle prize draw</li>
-	<li>3:50PM: Beacon lighting</li>
-	<li>4:00PM: Close</li>
-</ul>
-<p><strong>Everyone is welcome to both events and we look forward to seeing you.</strong></p>
+							<h3>D-DAY Anniversary Commemorative &amp; Celebration Events <span>Updated: 9 May 2024</span></h3>
+							<p>It is with regret, that, due to various unforeseen circumstances beyond our control, the Walbottle Village D Day Committee has had to cancel the planned <strong>Commemorative D-Day Event during the evening of 6th June 2924</strong> and the <strong>Celebration of D-Day Event during the afternoon of 9th June 2024</strong>.</p>
+							<p>We will be contacting all of those who have bought Fish and Chip vouchers, those who have booked stalls and those who are participating in other ways individually to arrange refunds etc.</p>
+<p><strong>We apologise to all of you who were planning to attend.</strong></p>
+							<p>Wendy Carr <br>Chair of the D-Day Committee and on behalf of the D-Day Committee.</p>
 						</div>
 					</div>
 				</div>
