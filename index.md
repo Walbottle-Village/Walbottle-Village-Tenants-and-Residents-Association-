@@ -68,7 +68,7 @@ OGimage: /assets/images/OG-Home.jpg
 							<a href="news/#d-day-events" title="more about the D-Day events">
 							<img src="/assets/images/D-DAY-CANCELLED-868x414.jpg" class="img-responsive" alt="D-Day Anniversary events cancelled"/></a>
 							<h3>D-DAY Anniversary Events</h3>
-							<p>It is with regret, that, due to various unforeseen circumstances beyond our control, the Walbottle Village D-Day Committee has had to cancel the planned events.</p>
+							<p>It is with regret the Walbottle Village D-Day Committee has had to cancel the planned events.</p>
 							<a class="more" href="news/#d-day-events" title="more about the D-Day events">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
