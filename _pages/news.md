@@ -27,7 +27,29 @@ gallery: false
 					<p>Listed below are news articles and events in Walbottle Village. If you would like to suggest or submit a news article or an upcoming event please <a href="mailto:newsletter@walbottlevillagetra.co.uk?Subject=News%20&amp;%20Events" title="email WVT&amp;RA with your news or event">email us</a> or complete the form on the <a href="/contact/" title="visit the WVT&amp;RA contact page" target="_self">contact page</a>. You look forward to hearing from you.</p>
 				</div>
 			</div>
-			<div class="col-xs-12 eventWrap">
+			<div class="col-xs-12 eventWrap"><!--
+					<div class="row" id="Cold callers">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/WalbottleVillageLogo.jpg" loading="lazy" alt="Walbottle logo" class="img-responsive" loading="lazy">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Cold callers <span>Posted: 14th June 2024</span></h3>
+								<p>Sunday 7 July, 10:30 to 12:00 in the Village Institute.</p>
+							</div>
+						</div>
+					</div>-->
+					<div class="row" id="Postbox">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/WalbottleVillageLogo.jpg" loading="lazy" alt="Walbottle logo" class="img-responsive" loading="lazy">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Litter in post box <span>Posted: 13th June 2024</span></h3>
+								<p> The village postman caught the chairperson this afternoon and mentioned problems with people putting crisp packets other rubbish and grass cuttings in the post box by Head to Toe. He has had to report this to his manager. He is concerned that if this continues that the post box will be taken out of service which would be awful for everyone who uses it. He mentioned that the post office cannot put any thing on the post box. So please can we all keep an eye out and if any children are hanging about that area.</p>
+							</div>
+						</div>
+					</div>
 					<div class="row" id="foodbank">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
