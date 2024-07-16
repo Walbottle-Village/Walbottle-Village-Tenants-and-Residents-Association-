@@ -39,6 +39,18 @@ gallery: false
 							</div>
 						</div>
 					</div>-->
+					<div class="row" id="AGM">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/AGMMeeting-Website-868x414.jpg" loading="lazy" alt="Walbottle logo" class="img-responsive" loading="lazy">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>AGM Cancelled <span>Posted: 16th July 2024</span></h3>
+								<p> Unfortunately the WVT&RA AGM which was arranged for this evening, 16 July, has been cancelled and will be held in September.</p>
+<p>The date has yet to be confirmed and will be announced soon on Facebook, the residents WhatsApp group and the website. Apologies for any inconvenience caused.</p>
+							</div>
+						</div>
+					</div>
 					<div class="row" id="Postbox">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
