@@ -58,6 +58,13 @@ OGimage: /assets/images/OG-Home.jpg
 					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
 						<li class="featurePane col-xs-4">
+							<a href="news/#AGM" title="about tonight's AGM">
+								<img src="/assets/images/AGMMeeting-Website-868x414.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
+							<h3>AGM Cancelled</h3>
+							<p>The AGM for this evening (16 July) has been cancelled.</p>
+							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+						</li>
+						<li class="featurePane col-xs-4">
 							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Food Bank Collection</h3>
