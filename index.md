@@ -57,19 +57,26 @@ OGimage: /assets/images/OG-Home.jpg
 				<div class="col-xs-12 col-sm-12">
 					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
-						<li class="featurePane col-xs-4">
+						<!-- <li class="featurePane col-xs-4">
 							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Food Bank Collection</h3>
 							<p>Sunday, 7 July, 10:30 to 12:00 in the Village Institute.</p>
 							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+						</li> -->
+						<li class="featurePane col-xs-4">
+							<a href="news/#open-garden" title="about the Food Bank">
+								<img src="/assets/images/open-garden-868x414.jpg" class="img-responsive" alt="open garden event"/></a>
+							<h3>Open Garden Event</h3>
+							<p>Saturday, 3 August, 12:00 to 15:00, Bank Top House, Walbottle Road NE15 8HY.<br>Tea and cakes available. All donations to the WVT&amp;RA.</p>
+							<a class="more" href="news/#open-garden" title="open garden event">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
-							<a href="news/#d-day-events" title="more about the D-Day events">
-							<img src="/assets/images/D-DAY-CANCELLED-868x414.jpg" class="img-responsive" alt="D-Day Anniversary events cancelled"/></a>
-							<h3>D-DAY Anniversary Events</h3>
+							<a href="news/#Postbox" title="litter in postbox">
+							<img src="/assets/images/postbox-images-868x414.jpg" class="img-responsive" alt="Litter in postbox"/></a>
+							<h3>Litter in The Postbox</h3>
 							<p>It is with regret the Walbottle Village D-Day Committee has had to cancel the planned events.</p>
-							<a class="more" href="news/#d-day-events" title="more about the D-Day events">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a class="more" href="news/#Postbox" title="more about litter in the posybox">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
 							<a href="news/#choir" title="visit the Walbottle Choisters group page">
