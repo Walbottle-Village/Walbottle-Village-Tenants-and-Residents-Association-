@@ -39,10 +39,23 @@ gallery: false
 							</div>
 						</div>
 					</div>-->
+					<div class="row" id="open-garden">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/open-garden-868x414.jpg" alt="open garden image" class="img-responsive" loading="lazy">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Open Garden Event <span>Posted: 30th July 2024</span></h3>
+								<p> There will be an Open Garden this Satuday from 12 – 3pm at Bank Top House, Walbottle Road NE15 8HY</p>
+<p>Tea and cakes available. All donations to WVT&RA.</p>
+<img src="/assets/images/open-garden-event.JPG" alt="open garden eventdetails" class="img-responsive" loading="lazy">
+							</div>
+						</div>
+					</div>
 					<div class="row" id="Postbox">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/WalbottleVillageLogo.jpg" loading="lazy" alt="Walbottle logo" class="img-responsive" loading="lazy">
+								<img src="/assets/images/WalbottleVillageLogo.jpg" alt="Walbottle logo" class="img-responsive" loading="lazy">
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Litter in post box <span>Posted: 13th June 2024</span></h3>
@@ -50,7 +63,7 @@ gallery: false
 							</div>
 						</div>
 					</div>
-					<div class="row" id="foodbank">
+					<!-- <div class="row" id="foodbank">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
 								<img src="/assets/images/foodbank.jpg" loading="lazy" alt="Walbottle Food Bank Collection" class="img-responsive" loading="lazy">
@@ -74,7 +87,7 @@ gallery: false
 							<p>Wendy Carr <br>Chair of the D-Day Committee and on behalf of the D-Day Committee.</p>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<!--
 				<div class="row" id="meeting">
 					<div class="article">
