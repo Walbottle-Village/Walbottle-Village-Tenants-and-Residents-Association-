@@ -75,7 +75,6 @@ OGimage: /assets/images/OG-Home.jpg
 							<a href="news/#Postbox" title="litter in postbox">
 							<img src="/assets/images/postbox-images-868x414.jpg" class="img-responsive" alt="Litter in postbox"/></a>
 							<h3>Litter in The Postbox</h3>
-							<p>It is with regret the Walbottle Village D-Day Committee has had to cancel the planned events.</p>
 							<a class="more" href="news/#Postbox" title="more about litter in the posybox">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
