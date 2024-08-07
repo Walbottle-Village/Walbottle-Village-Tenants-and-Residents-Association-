@@ -38,7 +38,7 @@ gallery: false
 								<p>Sunday 7 July, 10:30 to 12:00 in the Village Institute.</p>
 							</div>
 						</div>
-					</div>-->
+					</div>
 					<div class="row" id="open-garden">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -49,6 +49,18 @@ gallery: false
 								<p> There will be an Open Garden this Satuday from 12 – 3pm at Bank Top House, Walbottle Road NE15 8HY</p>
 <p>Tea and cakes available. All donations to WVT&RA.</p>
 <img src="/assets/images/open-garden-event.JPG" alt="open garden eventdetails" class="img-responsive" loading="lazy">
+							</div>
+						</div>
+					</div>-->
+					<div class="row" id="newsletter">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/Newsletter-News-Website.jpg" alt="latest newsletter" class="img-responsive" loading="lazy">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Download the summer newsletter <span>Posted: 7th August 2024</span></h3>
+								<p>Follow this link to <a href="/assets/pdf/VillageNews-Summer2024.pdf" title="download the latest newsletter" target="_blank">download a PDF of the summer 2024 Willage News</a> in a new tab / window.</p>
+<img src="/assets/images/Newsletter-News-Website.jpg" alt="cover of the Village News newsletter" class="img-responsive" loading="lazy">
 							</div>
 						</div>
 					</div>
