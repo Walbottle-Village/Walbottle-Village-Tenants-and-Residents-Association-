@@ -59,8 +59,7 @@ gallery: false
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Download the summer newsletter <span>Posted: 7th August 2024</span></h3>
-								<p>Follow this link to <a href="/assets/pdf/VillageNews-Summer2024.pdf" title="download the latest newsletter" target="_blank">download a PDF of the summer 2024 Willage News</a> in a new tab / window.</p>
-<img src="/assets/images/Newsletter-News-Website.jpg" alt="cover of the Village News newsletter" class="img-responsive" loading="lazy">
+								<p>Follow this link to <a href="/assets/pdf/VillageNews-Summer2024.pdf" title="download the latest newsletter" target="_blank">view and download a PDF of the summer 2024 Willage News</a>.</p>
 							</div>
 						</div>
 					</div>
