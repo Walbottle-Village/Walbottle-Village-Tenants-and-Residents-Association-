@@ -65,11 +65,11 @@ OGimage: /assets/images/OG-Home.jpg
 							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li> -->
 						<li class="featurePane col-xs-4">
-							<a href="news/#open-garden" title="about the Food Bank">
-								<img src="/assets/images/open-garden-868x414.jpg" class="img-responsive" alt="open garden event"/></a>
-							<h3>Open Garden Event</h3>
-							<p>Saturday, 3 August, 12:00 to 15:00, Bank Top House, Walbottle Road NE15 8HY.<br>Tea and cakes available. All donations to the WVT&amp;RA.</p>
-							<a class="more" href="news/#open-garden" title="open garden event">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a href="news/#newsletter" title="view the latest newsletter">
+								<img src="/assets/images/Newsletter-News-Website.jpg" class="img-responsive" alt="Summer 2024 newsletter"/></a>
+							<h3>Village News, Summer 2024</h3>
+							<p>The latest edition available to view or download.</p>
+							<a class="more" href="news/#newsletter" title="view the newsletter">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
 							<a href="news/#Postbox" title="litter in postbox">
