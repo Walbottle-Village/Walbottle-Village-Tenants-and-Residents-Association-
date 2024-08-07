@@ -171,6 +171,10 @@ gallery: false
 			</div>
 			<div class="row newsletters">
 				<div class="col-md-3 col-sm-4 col-xs-6">
+					<a href="/assets/pdf/VillageNews-Summer2024.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-12.jpg" alt="image of the newsletter front cover of Issue 12: Summer 2024" class="img-responsive" loading="lazy">
+					<p>Issue 11: Spring 2024</p></a>
+				</div>
+				<div class="col-md-3 col-sm-4 col-xs-6">
 					<a href="/assets/pdf/VillageNews-Spring2024.pdf" title="click to download a PDF of the printed newsletter" target="_blank"><img src="/assets/images/Newsletter-11.jpg" alt="image of the newsletter front cover of Issue 11: Spring 2024" class="img-responsive" loading="lazy">
 					<p>Issue 11: Spring 2024</p></a>
 				</div>
