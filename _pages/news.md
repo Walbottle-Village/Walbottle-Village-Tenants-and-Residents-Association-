@@ -38,20 +38,19 @@ gallery: false
 								<p>Sunday 7 July, 10:30 to 12:00 in the Village Institute.</p>
 							</div>
 						</div>
-					</div>
-					<div class="row" id="open-garden">
+					</div>-->
+					<div class="row" id="agm">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/open-garden-868x414.jpg" alt="open garden image" class="img-responsive" loading="lazy">
+								<img src="/assets/images/AGMMeeting-Website-868x414-Date.jpg" alt="WVTRA AGM announcement" class="img-responsive" loading="lazy">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>Open Garden Event <span>Posted: 30th July 2024</span></h3>
-								<p> There will be an Open Garden this Satuday from 12 – 3pm at Bank Top House, Walbottle Road NE15 8HY</p>
-<p>Tea and cakes available. All donations to WVT&RA.</p>
-<img src="/assets/images/open-garden-event.JPG" alt="open garden eventdetails" class="img-responsive" loading="lazy">
+								<h3>WVT&amp;RA Annual General Meeting 2024 <span>Posted: 29th August 2024</span></h3>
+								<p>There AGM will be held at Walbottle Village Institute on Wednesday, 25th September from 7pm to 9pm.<br>
+All welcome. Come along and have your say.</p>
 							</div>
 						</div>
-					</div>-->
+					</div>
 					<div class="row" id="newsletter">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
