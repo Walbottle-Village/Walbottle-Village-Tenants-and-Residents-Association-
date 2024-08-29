@@ -67,8 +67,8 @@ OGimage: /assets/images/OG-Home.jpg
 						<li class="featurePane col-xs-4">
 							<a href="news/#agm" title="AGM details">
 								<img src="/assets/images/AGMMeeting-Website-868x414-Date.jpg" class="img-responsive" alt="AGM 2024 announcement"/></a>
-							<h3>WVT&amp;RA Annual General Meeting 2024</h3>
-							<p>At Walbottle Village Institute on Wedneday, 25th September from 7pm to 9pm. All welcome.</p>
+							<h3>WVT&amp;RA AGM 2024</h3>
+							<p>To be held at Walbottle Village Institute on Wedneday, 25th September from 7pm to 9pm. All welcome.</p>
 							<a class="more" href="news/#agm" title="AGM details">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
