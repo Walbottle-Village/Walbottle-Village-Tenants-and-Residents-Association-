@@ -65,6 +65,13 @@ OGimage: /assets/images/OG-Home.jpg
 							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li> -->
 						<li class="featurePane col-xs-4">
+							<a href="news/#foodbank" title="about the Food Bank">
+								<img src="/assets/images/halloween.jpg" class="img-responsive" alt="Halloween Trail 2024"/></a>
+							<h3>Halloween Trail 2024</h3>
+							<p>Our popular Halloween trail will take place on Thursday 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm!</p>
+							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+						</li>
+						<li class="featurePane col-xs-4">
 							<a href="news/#agm" title="AGM details">
 								<img src="/assets/images/AGMMeeting-Website-868x414-Date.jpg" class="img-responsive" alt="AGM 2024 announcement"/></a>
 							<h3>WVT&amp;RA AGM 2024</h3>
