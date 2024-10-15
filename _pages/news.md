@@ -27,18 +27,20 @@ gallery: false
 					<p>Listed below are news articles and events in Walbottle Village. If you would like to suggest or submit a news article or an upcoming event please <a href="mailto:newsletter@walbottlevillagetra.co.uk?Subject=News%20&amp;%20Events" title="email WVT&amp;RA with your news or event">email us</a> or complete the form on the <a href="/contact/" title="visit the WVT&amp;RA contact page" target="_self">contact page</a>. You look forward to hearing from you.</p>
 				</div>
 			</div>
-			<div class="col-xs-12 eventWrap"><!--
-					<div class="row" id="Cold callers">
+			<div class="col-xs-12 eventWrap">
+					<div class="row" id="halloween">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/WalbottleVillageLogo.jpg" loading="lazy" alt="Walbottle logo" class="img-responsive" loading="lazy">
+								<img src="/assets/images/halloween.jpg" loading="lazy" alt="Halloween Trail 2024" class="img-responsive" loading="lazy">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>Cold callers <span>Posted: 14th June 2024</span></h3>
-								<p>Sunday 7 July, 10:30 to 12:00 in the Village Institute.</p>
+								<h3>Halloween Trail <span>Posted: 16 October 2024</span></h3>
+								<p>Our popular Halloween trail will take place on Thursday 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm.</p>
+								<img src="/assets/images/Halloween-Website-Poster_2024.jpg" loading="lazy" alt="Halloween Trail 2024" class="img-responsive" loading="lazy">
+
 							</div>
 						</div>
-					</div>-->
+					</div>
 					<div class="row" id="agm">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -132,17 +134,6 @@ All welcome. Come along and have your say.</p>
 								<p><strong>FOOD DONATED:</strong></p>
 								<p>30 packs pasta, 12 cooking rice with a further, 4 rice packs, 10 pot noodles, 8 noodle packs, 8 spaghetti, 9 tins of meat, 20 tins of tuna, 27 tins of beans, 29 sauces, pulses/peas, 12 cereals, 19 Tins of soup, spaghetti, veg, 8 coffee and tea packs, 6 breads, 2 fajita kits, 12 milk, 17 tinned fruit/ desserts, and lots lots more. Thank you.</p>
 							</div>	
-						</div>
-					</div>
-					<div class="row" id="halloween">
-						<div class="article">
-							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/halloween.jpg" loading="lazy" alt="Halloween Trail 2023" class="img-responsive" loading="lazy">
-							</div>
-							<div class="col-sm-9 col-xs-12">
-								<h3>Halloween Trail <span>Posted: 15 October 2023</span></h3>
-								<p>Our popular Halloween trail will take place on 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm.</p>
-							</div>
 						</div>
 					</div>
 					<div class="row" id="foodbank-Oct">
