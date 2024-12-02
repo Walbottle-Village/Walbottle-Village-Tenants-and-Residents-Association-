@@ -49,59 +49,25 @@ OGimage: /assets/images/OG-About.jpg
 				<div class="col-md-6 col-xs-12">
 					<div class="panelGrey">
 						<div class="panelWrap">
-							<div class="col-xs-5">
-								<img src="/assets/images/committee-Roger.jpg" alt="Association Treasurer: Roger" loading="lazy" class="img-responsive">
-							</div>
-							<div class="col-xs-7">
-								<h4><strong>Association Treasurer:</strong> <br>Roger</h4>
+							<div class="col-xs-12">
+							<h4><strong>Association Treasurer:</strong> <br>Rosie</h4>
 							</div>
 						</div>
-						<p>Hello, I’m Roger, Treasurer of the Walbottle Village Tenants and Residents Association. Originally from Derby, I moved North to Newcastle in 1988 and have lived in Walbottle Village since 1991. My profession was in Marine Engineering and I worked for the MoD Navy Department for 43 years until retirement in 2016. I am married to Shirley and have two children and three grandchildren.</p>
-						<p>Walbottle Village is a wonderful place to live so when Rosie and Kim suggested setting up a Residents Association I wanted to assist in their project in whatever way I could. The village won the Britain in Bloom (urban community) award in 1990 and it would be great if we could work toward another submission, even better if we won.</p>
-						<p>I look forward to meeting as many of my fellow residents as possible and helping to enhance the village for the enjoyment of all.</p>
-					</div>
-				</div>
-				<div class="col-md-6 col-xs-12">
-					<div class="panelGrey">
-						<div class="panelWrap">
-							<div class="col-xs-5">
-								<img src="/assets/images/committee-Helen.jpg" alt="Association Secretary: Helen" loading="lazy" class="img-responsive">
-							</div>
-							<div class="col-xs-7">
-								<h4><strong>Association Secretary:</strong> <br>Helen</h4>
-							</div>
-						</div>
-						<p>Hello everyone. My name is Helen, and I’ve lived in Walbottle since 2014. I’m originally from Kendal, in the South Lakes, but came up to Newcastle for university in 2007 and never left! As a family we love the outdoors; tramping through the Dene, walking in the hills, and digging on our allotment.</p>
-						<p>I am also the secretary for Newburn Parish PCC, their Eco-Champion and I have an active role in the Parish Events Group. As the new secretary for the WVTRA I hope to bring my organisational skills to the table, while also thinking with my Eco Hat on to ensure everything we do protects and enhances our beautiful village environment.</p>
-					</div>
-				</div>
-				<div class="col-md-6 col-xs-12">
-					<div class="panelGrey">
-						<div class="panelWrap">
-							<div class="col-xs-5">
-								<img src="/assets/images/committee-Peter.jpg" alt="Association I.T. Support: Peter" loading="lazy" class="img-responsive">
-							</div>
-							<div class="col-xs-7">
-								<h4><strong>Association I.T. Support:</strong> <br>Peter</h4>
-							</div>
-						</div>
-						<p>I’m Peter, originally from Newcastle and moved to Walbottle at the age of two. First moving to village farm, I soon learned that steps and wheelchairs don’t mix! This prompted a move to a more wheelchair-friendly house on The Paddock and I have recently moved into Forge Walk.</p>
-						<p>I’m never too far from a computer and often spend hours tinkering with code. In addition to this, I wear the hat of a Facebook group admin. Despite the role, I don’t delete posts left and right — I’m all about approachability. If you’re blaming someone when the village website breaks, don’t point fingers at me (although you probably should)!</p>
-						<p>Oh, and let’s not forget my odd sense of humour. I’m that guy who finds laughter in the weirdest places. So, whether it’s a chat about tech or a quick laugh, I’m your guy!</p>
+						<p>My now good friend and neighbour Kim kicked off the WVTRA during COVID / maternity leave with the goal of bringing the community closer together and feeling like a safer and more beautiful place to live. Originally from the Midlands I relocated to the Walbottle almost 15 years ago after I met my husband. I work as a commercial manager in the rail industry. You may have seen me gardening and litter picking around the village trying to keep my two children entertained.</p>
+						<p>The most rewarding aspects of being involved in the WVTRA and volunteering have been the new friendships I’ve built, collaborating with different personality types, gaining new gardening skills and the feeling that I have made a difference, if only a small one.</p>
 					</div>
 				</div>
 				<div class="col-md-6 col-xs-12">
 					<div class="panelGrey">
 						<div class="panelWrap">
 							<div class="col-xs-12">
-								<h4><strong>Association Communications Officer:</strong> <br>Chris</h4>
+								<h4><strong>Association Secretary:</strong> <br>Nick</h4>
 							</div>
 						</div>
-						<p>I've lived in the village for over twenty years and recently volunteered for the role of Communications Officer.</p>
-						<p>I work as a freelance graphic designer producing design and artwork for print and developing websites and
-						digital projects.</p>
-						<p>I've been working with Peter to redesign and develop the WVT&amp;RA website and I'm working on the printed newsletter and social media posts to help promote village events with a view to maintaining consistency and a strong identity for the association.</p>
-						<p>Myself and Peter welcome any feedback regarding the website and newsletter and would love to hear from you. We would also like to encourage residents to contact the WVT&amp;RA with their stories, articles or news about Walbottle Village life, past and present, which we can share with the community in our newsletter and on this website.</p>
+						<p>Hello, I am Nick and I moved to Walbottle 20 years ago to join Lorraine. As a small child I lived in Newcastle but my family moved to Wiltshire in 1963. 
+I came back to take up a consultant eye surgeon post in 1992 where  I worked both at the RVI and also in Carlisle. I retired in 2022.</p>
+						<p>I am a trustee and the treasurer for the Walbottle Village Institute and a member of the village’s gardening group.</p>
+						<p>I now spend much of my time maintaining a large garden - some would say too large! - at the southern edge of the village.</p>
 					</div>
 				</div>
 				<div class="col-md-6 col-xs-12"></div>
@@ -113,19 +79,15 @@ OGimage: /assets/images/OG-About.jpg
 				</div>
 			</div> <!-- /row -->
 			<div class="row"> <!-- row -->
-				<div class="col-md-3 col-sm-3 col-xs-6">
+				<div class="col-md-4 col-sm-4 col-xs-6">
 					<p>Iram Din</p>
-					<p>Nick Strong</p>
-				</div>
-				<div class="col-md-3 col-sm-3 col-xs-6">
-					<p>Rosie Gregory</p>
 					<p>Jean Langley</p>
 				</div>
-				<div class="col-md-3 col-sm-3 col-xs-6">
+				<div class="col-md-4 col-sm-4 col-xs-6">
 					<p>Vicky Thompson</p>
 					<p>Ritchie Thompson</p>
 				</div>
-				<div class="col-md-3 col-sm-3 col-xs-6">
+				<div class="col-md-4 col-sm-4 col-xs-6">
 					<p>Wendy Carr</p>
 					<p>Michael Carr</p>
 				</div>
