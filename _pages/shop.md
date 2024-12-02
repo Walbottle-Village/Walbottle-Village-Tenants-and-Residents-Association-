@@ -2,11 +2,10 @@
 layout: default
 title: WVT&amp;RA &raquo; Shirley's Shop
 bodytag: shop
-permalink: /shop/
+permalink:
 description: If you would like a hat, headband, ear warmers or koozies please complete the form below. All proceeds go to the Walbottle Village Tenants & Residents Association to help fund future activities.
 keywords: walbottle, village, ne15 8, shirleys, winter, warmers, shop, knitted, hats, headbands, ear warmers, koozies
-url: https://www.walbottlevillagetra.co.uk/shop/
-OGimage: /assets/images/OG-Shop.jpg
+
 ---
 
 <div class="container-fluid">
