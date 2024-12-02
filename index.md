@@ -65,6 +65,13 @@ OGimage: /assets/images/OG-Home.jpg
 							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li> -->
 						<li class="featurePane col-xs-4">
+							<a href="news/#christmas2024" title="Christmas 2024 Details">
+								<img src="/assets/images/Christmas2024-website.jpg" class="img-responsive" alt="Christmas 2024"/></a>
+							<h3>Christmas 2024</h3>
+							<p>We will be celebrating Christmas at the Village Institute and on the village green on Saturday, 14 December.</p>
+							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+						</li>
+						<li class="featurePane col-xs-4">
 							<a href="news/#halloween" title="about the Food Bank">
 								<img src="/assets/images/halloween.jpg" class="img-responsive" alt="Halloween Trail 2024"/></a>
 							<h3>Halloween Trail 2024</h3>
