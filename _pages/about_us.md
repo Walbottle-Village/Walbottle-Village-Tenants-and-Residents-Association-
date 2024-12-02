@@ -96,7 +96,7 @@ I came back to take up a consultant eye surgeon post in 1992 where  I worked bot
 				<div class="col-xs-12">
 					<div class="panelYellow downloadIcon">
 						<h3>The Association Constitution</h3>
-						<p><strong><a href="/assets/pdf/WVTRA-Constitution-V7.3-DTD-04-05-23.pdf" title="download / view a PDF of the WVT&amp;RA constitution" target="_blank">Click here to download a PDF the Walbottle Village Tenants and Residents Association constitution</a>.</strong></p>
+						<p><strong>The Walbottle Village Tenants and Residents Association Constitution is currently under review, please check back soon.</strong></p>
 					</div>
 				</div>
 			</div> <!-- /row -->
