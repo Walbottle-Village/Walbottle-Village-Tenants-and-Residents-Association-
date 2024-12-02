@@ -28,6 +28,17 @@ gallery: false
 				</div>
 			</div>
 			<div class="col-xs-12 eventWrap">
+				<div class="row" id="foodbank">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/foodbank.jpg" loading="lazy" alt="Walbottle Food Bank Collection" class="img-responsive" loading="lazy">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Food Bank Collection <span>Posted: 2 December 2024</span></h3>
+								<p>Sunday 5 January 2025, 10am to 12:00 in the Village Institute.</p>
+							</div>
+						</div>
+					</div>
 					<div class="row" id="christmas2024">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
@@ -49,7 +60,6 @@ gallery: false
 								<h3>Halloween Trail <span>Posted: 16 October 2024</span></h3>
 								<p>Our popular Halloween trail will take place on Thursday 31 October, starting from Walbotl Coffee House, turn up between 4pm and 7pm.</p>
 								<img src="/assets/images/Halloween-Website-Poster_2024.jpg" loading="lazy" alt="Halloween Trail 2024" class="img-responsive" loading="lazy">
-
 							</div>
 						</div>
 					</div>
@@ -87,18 +97,7 @@ All welcome. Come along and have your say.</p>
 							</div>
 						</div>
 					</div>
-					<!-- <div class="row" id="foodbank">
-						<div class="article">
-							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/foodbank.jpg" loading="lazy" alt="Walbottle Food Bank Collection" class="img-responsive" loading="lazy">
-							</div>
-							<div class="col-sm-9 col-xs-12">
-								<h3>Food Bank Collection <span>Posted: 8 April 2024</span></h3>
-								<p>Sunday 7 July, 10:30 to 12:00 in the Village Institute.</p>
-							</div>
-						</div>
-					</div>
-				<div class="row" id="d-day-events">
+					<!-- <div class="row" id="d-day-events">
 					<div class="article">
 						<div class="col-sm-3 col-xs-12">
 							<img src="/assets/images/D-DAY-CANCELLED-868x414.jpg" loading="lazy" alt="D-Day 2024, Walbottle - Cancelled" class="img-responsive">
