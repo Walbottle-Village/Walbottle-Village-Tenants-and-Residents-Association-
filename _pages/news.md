@@ -31,11 +31,11 @@ gallery: false
 					<div class="row" id="christmas2024">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/Christmas2024-website-868×414.jpg" alt="Christmas 2024" class="img-responsive" loading="lazy">
+								<img src="/assets/images/Christmas2024-website.jpg" alt="Christmas 2024" class="img-responsive" loading="lazy">
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Christmas 2024 <span>Posted: 2 December 2024</span></h3>
-								<p>Plans are underway to celebrate Christmas at the Village Institute and on the village green this year on the evening of Saturday, 14 December from 4:00pm - 6:30pm..</p>
+								<p>Plans are underway to celebrate Christmas at the Village Institute and on the village green this year on the evening of Saturday, 14 December from 4:00pm - 6:30pm.</p>
 								<img src="/assets/images/A5-Christmas-Flyer_v1.jpg" alt="Christmas 2024" class="img-responsive" loading="lazy">
 							</div>
 						</div>
