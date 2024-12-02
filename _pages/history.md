@@ -30,14 +30,14 @@ OGimage: /assets/images/OG-History.jpg
 				<div class="col-lg-4 col-md-5 col-xs-12">
 					<h2>Find Out More</h2>
 					<ul>
-						<li><a href="/history/festivals/" title="recent festivals and events in Walbottle" target="_self" class="h-festival" accessKey="7"><span class="glyphicon glyphicon-triangle-right"></span> Recent Festivals &amp; Events</a></li>
-						<li><a href="/history/voices/" title="Walbottle Voices" target="_self" class="h-voices" accessKey="8"><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Voices</a></li>
-						<li><a href="/history/maps/" title="maps of Walbottle village" target="_self" class="h-maps" accessKey="9"><span class="glyphicon glyphicon-triangle-right"></span> Historical Maps</a></li>
-						<li><a href="/history/photos/" title="old photographs of Walbottle village" target="_self" class="h-photos" accessKey="0"><span class="glyphicon glyphicon-triangle-right"></span> Historical Photographs</a></li>
+						<li><a href="../festivals/" title="recent festivals and events in Walbottle" target="_self" class="h-festival" accessKey="7"><span class="glyphicon glyphicon-triangle-right"></span> Recent Festivals &amp; Events</a></li>
+						<li><a href="../voices/" title="Walbottle Voices" target="_self" class="h-voices" accessKey="8"><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Voices</a></li>
+						<li><a href="../maps/" title="maps of Walbottle village" target="_self" class="h-maps" accessKey="9"><span class="glyphicon glyphicon-triangle-right"></span> Historical Maps</a></li>
+						<li><a href="../photos/" title="old photographs of Walbottle village" target="_self" class="h-photos" accessKey="0"><span class="glyphicon glyphicon-triangle-right"></span> Historical Photographs</a></li>
 						<li><a href="https://vimeo.com/709216683/74c9965223" title="wath the 'Gannin Alang The Wall' Video in a new tab / window" target="_blank" class="h-gannin" accessKey=""><span class="glyphicon glyphicon-triangle-right"></span> 'Gannin Alang The Wall' Video</a></li>
-						<li><a href="/history/schools/walbottle-campus/" title="about Walbottle primary school" target="_self" class="h-primary" accessKey="-"><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Primary School</a></li>
-						<li><a href="/history/schools/primary/" title="about Walbottle campus" target="_self" class="h-campus" accessKey="="><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Campus</a></li>
-						<li><a href="/history/heros/" title="about Walbottle's fallen heros'" target="_self" class="h-heros" accessKey="_"><span class="glyphicon glyphicon-triangle-right"></span> Walbottle&rsquo;s Fallen Heros</a></li>
+						<li><a href="../primary_school/" title="about Walbottle primary school" target="_self" class="h-primary" accessKey="-"><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Primary School</a></li>
+						<li><a href="../history-campus/" title="about Walbottle campus" target="_self" class="h-campus" accessKey="="><span class="glyphicon glyphicon-triangle-right"></span> Walbottle Campus</a></li>
+						<li><a href="../heros/" title="about Walbottle's fallen heros'" target="_self" class="h-heros" accessKey="_"><span class="glyphicon glyphicon-triangle-right"></span> Walbottle&rsquo;s Fallen Heros</a></li>
 					</ul>
 				</div>
 			</div> <!-- row -->
