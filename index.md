@@ -57,13 +57,13 @@ OGimage: /assets/images/OG-Home.jpg
 				<div class="col-xs-12 col-sm-12">
 					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
-						<!-- <li class="featurePane col-xs-4">
+						<li class="featurePane col-xs-4">
 							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Food Bank Collection</h3>
-							<p>Sunday, 7 July, 10:30 to 12:00 in the Village Institute.</p>
+							<p>Sunday, 5 January, 10am to 12:00 in the Village Institute.</p>
 							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
-						</li> -->
+						</li>
 						<li class="featurePane col-xs-4">
 							<a href="news/#christmas2024" title="Christmas 2024 Details">
 								<img src="/assets/images/Christmas2024-website.jpg" class="img-responsive" alt="Christmas 2024"/></a>
