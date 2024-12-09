@@ -27,6 +27,17 @@ gallery: false
 					<p>Listed below are news articles and events in Walbottle Village. If you would like to suggest or submit a news article or an upcoming event please <a href="mailto:newsletter@walbottlevillagetra.co.uk?Subject=News%20&amp;%20Events" title="email WVT&amp;RA with your news or event">email us</a> or complete the form on the <a href="/contact/" title="visit the WVT&amp;RA contact page" target="_self">contact page</a>. You look forward to hearing from you.</p>
 				</div>
 			</div>
+			<div class="row" id="newsletter-winter">
+						<div class="article">
+							<div class="col-sm-3 col-xs-12">
+								<img src="/assets/images/Newsletter-News-Website-Winter2024.jpg" alt="winter 2024 newsletter" class="img-responsive" loading="lazy">
+							</div>
+							<div class="col-sm-9 col-xs-12">
+								<h3>Download the Winter 2024 newsletter <span>Posted: 9th December 2024</span></h3>
+								<p>Follow this link to <a href="/assets/pdf/Newsletter-News-Website-Winter2024.jpg" title="download the latest newsletter" target="_blank">view and download a PDF of the Winter 2024 Willage News</a>.</p>
+							</div>
+						</div>
+					</div>
 			<div class="col-xs-12 eventWrap">
 				<div class="row" id="foodbank">
 						<div class="article">
