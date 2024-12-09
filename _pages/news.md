@@ -34,7 +34,7 @@ gallery: false
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Download the Winter 2024 newsletter <span>Posted: 9th December 2024</span></h3>
-								<p>Follow this link to <a href="/assets/pdf/Newsletter-News-Website-Winter2024.jpg" title="download the latest newsletter" target="_blank">view and download a PDF of the Winter 2024 Willage News</a>.</p>
+								<p>Follow this link to <a href="/assets/pdf/VillageNews-Winter2024.pdf" title="download the latest newsletter" target="_blank">view and download a PDF of the Winter 2024 Willage News</a>.</p>
 							</div>
 						</div>
 					</div>
