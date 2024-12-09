@@ -58,6 +58,13 @@ OGimage: /assets/images/OG-Home.jpg
 					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
 						<li class="featurePane col-xs-4">
+							<a href="news/#newsletter-winter" title="view the latest newsletter">
+								<img src="/assets/images/Newsletter-News-Website-Winter2024.jpg" class="img-responsive" alt="Winter 2024 newsletter"/></a>
+							<h3>Village News, Winter 2024</h3>
+							<p>PDF of the latest edition available to view or download.</p>
+							<a class="more" href="news/#newsletter-winter" title="view the winter 2024 newsletter">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+						</li>
+						<li class="featurePane col-xs-4">
 							<a href="news/#foodbank" title="about the Food Bank">
 								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
 							<h3>Food Bank Collection</h3>
@@ -86,10 +93,10 @@ OGimage: /assets/images/OG-Home.jpg
 							<a class="more" href="news/#agm" title="AGM details">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
-							<a href="news/#newsletter" title="view the latest newsletter">
+							<a href="news/#newsletter" title="view the summer 2024 newsletter">
 								<img src="/assets/images/Newsletter-News-Website.jpg" class="img-responsive" alt="Summer 2024 newsletter"/></a>
 							<h3>Village News, Summer 2024</h3>
-							<p>The latest edition available to view or download.</p>
+							<p>Download and view a PDF of the Summer newsletter.</p>
 							<a class="more" href="news/#newsletter" title="view the newsletter">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
