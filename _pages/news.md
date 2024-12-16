@@ -31,7 +31,7 @@ gallery: false
 			<div class="row" id="trustees">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
-								<img src="/assets/images/WVI-TrusteesNewsPost-868×414.jpg" alt="welcoming expressions of interest to become a WVI charity trustee" class="img-responsive" loading="lazy">
+								<img src="/assets/images/WVI-TrusteesNewsPost-868×414-2.jpg" alt="welcoming expressions of interest to become a WVI charity trustee" class="img-responsive" loading="lazy">
 							</div>
 							<div class="col-sm-9 col-xs-12">
 								<h3>Expressions Of Interest Welcome <span>Posted: 16th December 2024</span></h3>
