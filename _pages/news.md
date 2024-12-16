@@ -34,7 +34,7 @@ gallery: false
 								<img src="/assets/images/WVI-TrusteesNewsPost-868×414.jpg" alt="welcoming expressions of interest to become a WVI charity trustee" class="img-responsive" loading="lazy">
 							</div>
 							<div class="col-sm-9 col-xs-12">
-								<h3>Expressions On Interest Welcome <span>Posted: 16th December 2024</span></h3>
+								<h3>Expressions Of Interest Welcome <span>Posted: 16th December 2024</span></h3>
 								<p><strong>The Trustees of Walbottle Village Institute invite expressions of interest from Walbottle Residents to become additional Trustees of the Walbottle Village Institute Charity.</strong></p>
 								<p>Trustees are the volunteers who lead charities and decide how they are run. They have independent control over and legal responsibility for a charity’s management and administration. The role is unpaid; Trustees meet once every 2-3 months usually on a Wednesday Evening locally.</p>
 <p><strong>To be eligible you must be:</strong><br>
