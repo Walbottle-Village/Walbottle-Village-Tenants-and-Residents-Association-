@@ -58,6 +58,12 @@ OGimage: /assets/images/OG-Home.jpg
 					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
 						<li class="featurePane col-xs-4">
+	<a href="news/#trustees" title="view the latest newsletter"><img src="/assets/images/WVI-TrusteesNewsPost.jpg" class="img-responsive" alt="welcoming expressions of interest to become a WVI charity trustee"/></a>
+	<h3>Expressions On Interest Welcome</h3>
+	<p>Find out how to apply to become a Walbottle Village Institute Charity Trustee.</p>
+	<a class="more" href="news/#trustee" title="view the full article">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+</li>
+						<li class="featurePane col-xs-4">
 							<a href="news/#newsletter-winter" title="view the latest newsletter">
 								<img src="/assets/images/Newsletter-News-Website-Winter2024.jpg" class="img-responsive" alt="Winter 2024 newsletter"/></a>
 							<h3>Village News, Winter 2024</h3>
