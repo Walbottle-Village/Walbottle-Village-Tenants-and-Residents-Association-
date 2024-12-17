@@ -204,7 +204,7 @@ All welcome. Come along and have your say.</p>
 					<h2>Newsletters</h2>
 					<div>
 						<p><strong>You can download or view a PDF of previous editions of our printed newsletter Walbottle Village News by clicking on the relevant links below.</strong></p>
-						<p>Printing costs are quite an expense for the Association. Each print run costs about &pound;120 and we are looking at ways we can cut down on printing costs while also doign our bit for the environment. If you would like to receive an electronic copy by email or are happy to view the Newsletter on this website then please <a href="mailto:newsletter@walbottlevillagetra.co.uk?Subject=Newsletter%20Delivery%20Method" title="let us know your newsletter delivery prefernces">contact us</a> and we will confirm your email address and remove you from the hardcopy delivery.</p>
+						<p>Printing costs are an expense for the Association. Each print run costs about &pound;120 and we are looking at ways we can cut down on printing costs while also doing our bit for the environment. If you would like to receive an electronic copy by email or are happy to view the Newsletter on this website then please <a href="mailto:newsletter@walbottlevillagetra.co.uk?Subject=Newsletter%20Delivery%20Method" title="let us know your newsletter delivery prefernces">contact us</a> and we will confirm your email address and remove you from the hardcopy delivery.</p>
 						<p>We would also like to encourage residents to contact the WVT&amp;RA with their stories, articles or news about Walbottle Village life, past and present, which we can share with the community in our newsletter and on this website. Please contact us by email or completing the form on the contact page.</p>
 					</div>
 				</div>
