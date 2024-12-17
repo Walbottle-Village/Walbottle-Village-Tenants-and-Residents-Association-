@@ -28,6 +28,23 @@ gallery: false
 				</div>
 			</div>
 			<div class="col-xs-12 eventWrap">
+				<div class="row" id="trustees">
+	<div class="article">
+		<div class="col-sm-3 col-xs-12">
+			<img src="/assets/images/WVI-TrusteesNewsPost.jpg" alt="welcoming expressions of interest to become a WVI charity trustee" class="img-responsive" loading="lazy">
+		</div>
+		<div class="col-sm-9 col-xs-12">
+			<h3>Expressions Of Interest Welcome <span>Posted: 16th December 2024</span></h3>
+			<p><strong>The Trustees of Walbottle Village Institute invite expressions of interest from Walbottle Residents to become additional Trustees of the Walbottle Village Institute Charity.</strong></p>
+			<p>Trustees are the volunteers who lead charities and decide how they are run. They have independent control over and legal responsibility for a charity’s management and administration. The role is unpaid; Trustees meet once every 2-3 months usually on a Wednesday Evening locally.</p>
+			<p><strong>To be eligible you must be:</strong><br>
+			&bull; 18 years of age or over.<br>
+			&bull; You must not be disqualified by the Charities Commission from holding such a role.<br>
+			&bull; Further information regarding the role of a Trustee can be found at: <a href="https://www.gov.uk/guidance/charity-trustee-whats-involved" target="_blank" title="view the link in a new tab">www.gov.uk/guidance/charity-trustee-whats-involved</a></p>
+			<p>If you would like further information, please contact Wendy Carr (Secretary WVI Trustees) at: <a href="mailto:wendy@walbottlevi.com" title="email Wendy Carr">wendy@walbottlevi.com</a></p>
+		</div>
+	</div>
+</div>
 			<div class="row" id="newsletter-winter">
 						<div class="article">
 							<div class="col-sm-3 col-xs-12">
