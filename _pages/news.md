@@ -26,8 +26,39 @@ gallery: false
 					<p><strong>Keep up-to-date with news and events in Walbottle Village.</strong></p>
 					<p>Listed below are news articles and events in Walbottle Village. If you would like to suggest or submit a news article or an upcoming event please <a href="mailto:newsletter@walbottlevillagetra.co.uk?Subject=News%20&amp;%20Events" title="email WVT&amp;RA with your news or event">email us</a> or complete the form on the <a href="/contact/" title="visit the WVT&amp;RA contact page" target="_self">contact page</a>. You look forward to hearing from you.</p>
 				</div>
-			</div>
-			<div class="col-xs-12 eventWrap">
+				<div class="col-xs-12 eventWrap">
+  <div class="row" id="wvtra-update">
+    <div class="article">
+      <div class="col-sm-3 col-xs-12">
+        <img src="/assets/images/WVTRA-Update.jpg" alt="WVTRA Update – August 2025" class="img-responsive" loading="lazy">
+      </div>
+      <div class="col-sm-9 col-xs-12">
+        <h3>WVTRA Update – August 2025 <span>Posted: August 2025</span></h3>
+        <p><strong>We’re still here!</strong> It’s been a busy time for our small team of volunteers at WVTRA with some gaps in our resources, but we wanted to bring you a short update along with some important dates for your calendar.</p>
+        <p><strong>Weds 6 Aug – Open Meeting at The Engine Inn (6:30–8pm)</strong><br>
+        All welcome from 6pm – the pub quiz starts at 8pm for those who want to stay! Usual WVTRA meeting agenda with proposals to revise the simple, positive aims of the group, update on village news/activity/events, and share ideas. We hope to make plans for and look forward to its future, including: Gardening, Choir, Boardgame sessions, possible bus trip etc.</p>
+	<p><strong>Weds 1 Oct – AGM at Walbottle Village Institute (7–9pm)</strong><br>
+        All welcome for refreshments from 6:30pm. Yearly gathering for all to summarise the past year and make important and positive decisions on WVTRA’s future.<br>
+        <em>Vacant roles to be advertised in good time and invitations to volunteer for these at least 7 days ahead of the meeting.</em></p>
+        
+        <p><strong>Sun 5 Oct – Foodbank Collection</strong><br>
+        Walbottle Village Institute, 10am–12 noon</p>
+        
+        <p><strong>Fri 31 Oct – Halloween Trail</strong><br>
+        4–7pm</p>
+        
+        <p><strong>Weds 3 Dec – Open Meeting at Walbottle Village Institute (7–9pm)</strong><br>
+        All welcome for refreshments from 6:30pm. Informal meeting to update on village news/activity/events & share ideas.</p>
+        
+        <p><strong>Sun 7 Dec – Christmas at Walbottle Village Institute (4–7pm)</strong><br>
+        Christmas celebrations and festive cheer for all at WVI & on The Green – refreshments, arts & crafts, stalls, choir and more.</p>
+        
+        <p>You can keep up to date on <a href="http://www.walbottlevillagetra.co.uk" target="_blank">www.walbottlevillagetra.co.uk</a> where you can also find details to contact us. We look forward to seeing you all soon!</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="col-xs-12 eventWrap">
 				<div class="row" id="trustees">
 	<div class="article">
 		<div class="col-sm-3 col-xs-12">

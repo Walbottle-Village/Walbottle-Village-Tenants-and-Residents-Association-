@@ -80,16 +80,16 @@ I came back to take up a consultant eye surgeon post in 1992 where  I worked bot
 			</div> <!-- /row -->
 			<div class="row"> <!-- row -->
 				<div class="col-md-4 col-sm-4 col-xs-6">
-					<p>Iram Din</p>
-					<p>Jean Langley</p>
+					<p>Julie Mayfield</p>
+					<p>Sylvia Proud</p>
 				</div>
 				<div class="col-md-4 col-sm-4 col-xs-6">
-					<p>Vicky Thompson</p>
-					<p>Ritchie Thompson</p>
+					<p>Nicola Johnson</p>
+					<p>Anneliese Kopko</p>
 				</div>
 				<div class="col-md-4 col-sm-4 col-xs-6">
 					<p>Wendy Carr</p>
-					<p>Michael Carr</p>
+					
 				</div>
 			</div> <!-- /row -->
 			<div class="row"> <!-- row -->
