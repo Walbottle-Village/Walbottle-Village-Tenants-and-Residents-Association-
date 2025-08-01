@@ -89,7 +89,7 @@ I came back to take up a consultant eye surgeon post in 1992 where  I worked bot
 				</div>
 				<div class="col-md-4 col-sm-4 col-xs-6">
 					<p>Wendy Carr</p>
-					<p>Michael Carr</p>
+					
 				</div>
 			</div> <!-- /row -->
 			<div class="row"> <!-- row -->
