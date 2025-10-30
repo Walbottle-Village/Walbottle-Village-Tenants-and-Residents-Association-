@@ -59,6 +59,13 @@ OGimage: /assets/images/OG-Home.jpg
 					<button type="button" class="slideLeft" id="goToPrevSlide"></button>
 					<ul id="lightSlider">
 						<li class="featurePane col-xs-4">
+							<a href="news/#halloween25" title="Halloween 2025">
+								<img src="/assets/images/Halloween-Website-Poster_2025.jpg.png" class="img-responsive" alt="halloween 2025"/></a>
+							<h3>Halloween 2025</h3>
+							<p>Spot the spooktacular sights in the village.</p>
+							<a class="more" href="news/#halloween25" title="Halloween 2025">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+						</li>
+						<li class="featurePane col-xs-4">
 	<a href="news/#trustees" title="view the latest newsletter"><img src="/assets/images/WVI-TrusteesNewsPost.jpg" class="img-responsive" alt="welcoming expressions of interest to become a WVI charity trustee"/></a>
 	<h3>Expressions Of Interest Welcome</h3>
 	<p>Find out how to apply to become a Walbottle Village Institute Charity Trustee.</p>
@@ -70,13 +77,6 @@ OGimage: /assets/images/OG-Home.jpg
 							<h3>Village News, Winter 2024</h3>
 							<p>PDF of the latest edition available to view or download.</p>
 							<a class="more" href="news/#newsletter-winter" title="view the winter 2024 newsletter">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
-						</li>
-						<li class="featurePane col-xs-4">
-							<a href="news/#halloween25" title="Halloween 2025">
-								<img src="/assets/images/Halloween-Website-Poster_2025.jpg.png" class="img-responsive" alt="halloween 2025"/></a>
-							<h3>Halloween 2025</h3>
-							<p>Spot the spooktacular sights in the village.</p>
-							<a class="more" href="news/#halloween25" title="Halloween 2025">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
 							<a href="news/#christmas2024" title="Christmas 2024 Details">
