@@ -28,19 +28,27 @@ gallery: false
 					<p>Listed below are news articles and events in Walbottle Village. If you would like to suggest or submit a news article or an upcoming event please <a href="mailto:newsletter@walbottlevillagetra.co.uk?Subject=News%20&amp;%20Events" title="email WVT&amp;RA with your news or event">email us</a> or complete the form on the <a href="/contact/" title="visit the WVT&amp;RA contact page" target="_self">contact page</a>. You look forward to hearing from you.</p>
 				</div>
 				<div class="col-xs-12 eventWrap">
-  <div class="row" id="halloween25">
-    <div class="article">
-      <div class="col-sm-3 col-xs-12">
-        <img src="/assets/images/Halloween-Website-Poster_2025.jpg.png" alt="Halloween 2025" class="img-responsive" loading="lazy">
-      </div>
-      <div class="col-sm-9 col-xs-12">
-        <h3>Halloween 2025 <span>Posted: October 2025</span></h3>
-        <div>
-		<p>Find out what we have on for Halloween <a href='/assets/pdf/Halloween-A4-Poster_2025-template.pdf'> here</a> and follow our trail <a href='/assets/pdf/HalloweenTrailMap_2025_v2.pdf'> here </a>
-      </div>
+<div class="row" id="halloween25">
+  <div class="article">
+    <div class="col-sm-3 col-xs-12">
+      <img src="/assets/images/Halloween-Website-Poster_2025.jpg.png" 
+           alt="Halloween 2025" 
+           class="img-responsive" 
+           loading="lazy">
+    </div>
+    <div class="col-sm-9 col-xs-12">
+      <h3>Halloween 2025 <span>Posted: October 2025</span></h3>
+      <p>
+        Find out what we have on for Halloween 
+        <a href="/assets/pdf/Halloween-A4-Poster_2025-template.pdf">here</a> 
+        and follow our trail 
+        <a href="/assets/pdf/HalloweenTrailMap_2025_v2.pdf">here</a>.
+      </p>
     </div>
   </div>
-</div><div class="row" id="wvtra-update">
+</div>
+
+<div class="row" id="wvtra-update">
     <div class="article">
       <div class="col-sm-3 col-xs-12">
         <img src="/assets/images/WVTRA-Update.jpg" alt="WVTRA Update – August 2025" class="img-responsive" loading="lazy">
