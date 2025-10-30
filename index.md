@@ -7,6 +7,7 @@ keywords: walbottle, village, tenants, tennants, residents, assoc, association, 
 url: https://www.walbottlevillagetra.co.uk
 OGimage: /assets/images/OG-Home.jpg
 ---
+
 <div class="container-fluid hidden-xs">
 	<div class="row">
 		<div class="mastImg">
@@ -71,11 +72,11 @@ OGimage: /assets/images/OG-Home.jpg
 							<a class="more" href="news/#newsletter-winter" title="view the winter 2024 newsletter">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
-							<a href="news/#foodbank" title="about the Food Bank">
-								<img src="/assets/images/foodbank.jpg" class="img-responsive" alt="walbottle foodbank"/></a>
-							<h3>Food Bank Collection</h3>
-							<p>Sunday, 5 January, 10am to 12:00 in the Village Institute.</p>
-							<a class="more" href="news/#foodbank" title="about the Food Bank">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
+							<a href="news/#halloween25" title="Halloween 2025">
+								<img src="/assets/images/Halloween-Website-Poster_2025.jpg.png" class="img-responsive" alt="halloween 2025"/></a>
+							<h3>Halloween 2025</h3>
+							<p>Spot the spooktacular sights in the village.</p>
+							<a class="more" href="news/#halloween25" title="Halloween 2025">Find out more <span class="glyphicon glyphicon-triangle-right"></span></a>
 						</li>
 						<li class="featurePane col-xs-4">
 							<a href="news/#christmas2024" title="Christmas 2024 Details">
