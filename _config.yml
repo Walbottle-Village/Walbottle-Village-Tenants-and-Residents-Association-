@@ -15,6 +15,10 @@ plugins:
   - jekyll-include-cache 
   - jekyll-minifier
   - jekyll-last-modified-at
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/news/page:num"
 
 defaults:
   description: Creating a more neighbourly village and a safe, beautiful place to live.
