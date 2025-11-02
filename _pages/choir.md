@@ -12,7 +12,7 @@ OGimage: /assets/images/OG-Choir.jpg
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
-			<img src="/assets/images/masthead-choir-xmas.jpg" class="img-responsive" alt="Walbottle Village Photography group"/>
+			<img src="/assets/images/masthead-choir.jpg" class="img-responsive" alt="Walbottle Village Choir"/>
 		</div>
 	</div>
 </div>
