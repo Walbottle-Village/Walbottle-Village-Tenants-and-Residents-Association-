@@ -8,6 +8,7 @@ keywords: walbottle, village, tenants, tennants, residents, assoc, association, 
 url: https://www.walbottlevillagetra.co.uk/contact/
 OGimage: /assets/images/OG-Contact.jpg
 ---
+
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
@@ -24,10 +25,11 @@ OGimage: /assets/images/OG-Contact.jpg
 					<h2>Contact Us</h2>
 				</div>
 				<div class="col-xs-12">
-			  		<p><strong>We would love to hear from the residents of Walbottle village.</strong></p>
-					<p>Whether you would like to volunteer, joing the Committee, suggest or start a group, or would like more information about anything you have read in our newsletter or website please contact us using the form or email addresses below.</p>
-					<p>We would also like to encourage residents to contact the WVT&amp;RA with their stories, articles or news about Walbottle Village life, past and present, which we can share with the community in our printed newsletter and on this website.</p>	
-					<p>General email: <a href="mailto:walbottlera@gmail.com" title="email WVT&amp;RA">walbottlera@gmail.com</a> <br>Newsletter articles: <a href="mailto:newsletter@walbottlevillagetra.co.uk" title="email us about the newsletter">newsletter@walbottlevillagetra.co.uk</a> <br>Tel: 07495 767374 <br>Follow our <a href="https://www.facebook.com/groups/247285659849433" title="follow our Facebook group" target="_blank">Facebook group</a></p>
+			  		<p>We would love to hear from you</p>
+					<p>We would always encourage you to share your stories about Walbottle Village life, past and present, which we can share with the community …</p>
+					<p>If you have any suggestions for activities, events or groups you would like to see happen or lead on starting in the village, please let us know!</p>
+					<p>We would especially love to hear from you if you would like to help out in any way too – from helping other residents to get to events and activities, helping out with gardening, helping out at events, no helping too small …</p>
+					<p>General email: <a href="mailto:walbottlera@gmail.com" title="email WVT&amp;RA">walbottlera@gmail.com</a> <br>Newsletter articles: <a href="mailto:newsletter@walbottlevillagetra.co.uk" title="email us about the newsletter">newsletter@walbottlevillagetra.co.uk</a> <br>Tel: 07495 767374 <br>Follow our <a href="https://www.facebook.com/profile.php?id=61569685992092" title="follow our Facebook group" target="_blank">Facebook group</a></p>
 				</div>
 			</div> <!-- /row -->
 			<div class="row"> <!-- row -->

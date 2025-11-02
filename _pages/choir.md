@@ -8,10 +8,11 @@ keywords: walbottle, village, ne15 8, walbottle village institute, walbottle ins
 url: https://www.walbottlevillagetra.co.uk/activity_groups/choir/
 OGimage: /assets/images/OG-Choir.jpg
 ---
+
 <div class="container-fluid">
 	<div class="row">
 		<div class="mastImg">
-			<img src="/assets/images/masthead-choir-xmas.jpg" class="img-responsive" alt="Walbottle Village Photography group"/>
+			<img src="/assets/images/masthead-choir.jpg" class="img-responsive" alt="Walbottle Village Choir"/>
 		</div>
 	</div>
 </div>
@@ -22,17 +23,42 @@ OGimage: /assets/images/OG-Choir.jpg
 		<div class="col-sm-10 col-xs-12 mainPanel">
 			<div class="row"> <!-- row -->
 				<div class="col-xs-12">
-			 		 <h2>Walbottle Choir</h2>
+			 		 <h2>Introducing the Walbottle Village Voices Community Choir!</h2>
 				</div>
 				<div class="col-md-12 col-xs-12">
-					<p><strong>The Walbottle Village choir formed in March 2022 is made up of a collection of local residents that simply like to sing.</strong></p>
-					<p>Less of a choir and more a posh karaoke that sings their hearts out with like minded, friendly people. We meet every Monday from 7:30pm excluding bank hoidays. It's a great way to start your week and no singing talent required. Just turn up, we'd love to make you welcome and feel part of the group.</p>
-					<p>It’s &pound;2 per week and the first session is free. All proceeds go to charities decided by the group. Over &pound;1000 will have been donated by the end of 2023.</p>
-					<p><strong>Dates:</strong> Meeting every Monday excluding bank holidays <br><strong>Time:</strong> 7:30pm <br><strong>Venue:</strong> Walbottle Village Institute</p>
-					<p>If you would like to join, just turn up on Monday or contact one of the group at <a href="mailto:enquiries@walbottletra.gmail.com" title="email Walbottle Village Tenants and Residents Association">enquiries@walbottletra.gmail.com</a></p>
-				</div>
-	  		</div><!-- /row -->
-		</div>
-		<div class="col-sm-1 col-xs-0"></div>
-	</div><!-- /row -->
+
+<p>Over three years ago, a small group of just six passionate singers came together to form what is now a thriving and welcoming choir in Walbottle Village. Since then, we've grown into a lively group of around 20 members from across West Newcastle, gathering each week to share our love of music.</p>
+<img src='/assets/images/choirlogo.jpg' class='img-responsive pull-right'>
+
+<p>Less of a choir and more a posh karaoke that sings their hearts out with like-minded, friendly people. We’ve become much more than just a choir — we’ve become a community, a circle of friends brought together by the joy of singing.</p>
+
+<p>With that spirit in mind, we’ve chosen a new name that better reflects who we are today. So from <strong>6th October</strong>, we’ll proudly be known as the <strong>Walbottle Village Voices Community Choir</strong>.</p>
+
+<p>We want to continue to grow, so pop in and discover us now. We look forward to singing — and growing — together!</p>
+
+<h2 class="mt-5">Join Us Every Monday</h2>
+<p><strong>Time:</strong> 7:30 – 8:30 pm (excluding bank holidays)</p>
+
+<p><strong>Address:</strong> Walbottle Village Institute, Walbottle, Newcastle upon Tyne, NE15 8JE<br>
+<strong>What3Words:</strong> <a href="https://what3words.com/lots.nurse.calm" target="_blank" class="link-primary">///lots.nurse.calm</a></p>
+
+<p><strong>Contact:</strong> <a href="mailto:Kelly.stevensbell@gmail.com" class="link-primary">Kelly.stevensbell@gmail.com</a></p>
+
+<div class="alert alert-info mt-4" role="alert">
+It’s a £2 donation and all the money goes to charity.
+</div>
+
+<h2 class="mt-4">Special Dates</h2>
+<ul class="list-group mb-4">
+<li class="list-group-item">Christmas Carol rehearsals: 13/10, 27/10, 10/11 & 24/11</li>
+<li class="list-group-item"><strong>Carols Around the Tree:</strong> 7th December on Walbottle Green</li>
+</ul>
+
+<a href="mailto:Kelly.stevensbell@gmail.com" class="btn btn-primary">Get in Touch</a>
+</div>
+</div><!-- /row -->
+</div>
+<div class="col-sm-1 col-xs-0"></div>
+</div><!-- /row -->
+
 </div><!-- /container-fluid -->
