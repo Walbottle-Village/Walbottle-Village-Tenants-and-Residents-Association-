@@ -89,14 +89,13 @@ I came back to take up a consultant eye surgeon post in 1992 where  I worked bot
 				</div>
 				<div class="col-md-4 col-sm-4 col-xs-6">
 					<p>Wendy Carr</p>
-					
 				</div>
 			</div> <!-- /row -->
 			<div class="row"> <!-- row -->
 				<div class="col-xs-12">
 					<div class="panelYellow downloadIcon">
 						<h3>The Association Constitution</h3>
-						<p><strong>The Walbottle Village Tenants and Residents Association Constitution is currently under review, please check back soon.</strong></p>
+						<p><strong><a href="/assets/pdf/Constitution V7.6 Final OCT25AGM.pdf" title="download / view a PDF of the WVT&amp;RA constitution" target="_blank">Click here to download a PDF the Walbottle Village Tenants and Residents Association constitution</a>.</strong></p>
 					</div>
 				</div>
 			</div> <!-- /row -->
