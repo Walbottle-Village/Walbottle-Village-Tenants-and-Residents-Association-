@@ -57,16 +57,15 @@ pagination:
 
         <!-- News Items Loop -->
         <div class="col-xs-12 eventWrap">
-          {% if paginator.posts %} {% for post in paginator.posts %}
+          {% for post in paginator.posts %}
           <div class="row" id="{{ post.slug | default: post.title | slugify }}">
             <div class="article">
-              
-                <h3>
-                  {{ post.title }}
-                  <span>Posted: {{ post.date | date: "%B %Y" }}</span>
-                </h3>
-                {{ post.content }}
-              </div>
+              <h3>
+                {{ post.title }}
+                <span>Posted: {{ post.date | date: "%B %Y" }}</span>
+              </h3>
+              {{ post.content }}
+            </div>
           </div>
           {% endfor %}
         </div>
