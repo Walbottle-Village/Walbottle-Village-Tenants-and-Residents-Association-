@@ -28,7 +28,8 @@ OGimage: /assets/images/OG-Choir.jpg
 				<div class="col-md-12 col-xs-12">
 
 <p>Over three years ago, a small group of just six passionate singers came together to form what is now a thriving and welcoming choir in Walbottle Village. Since then, we've grown into a lively group of around 20 members from across West Newcastle, gathering each week to share our love of music.</p>
-<img src='/assets/images/choirlogo.jpg' class='img-responsive pull-right'>
+      <div class="col-sm-3 col-xs-12">
+	  <img src='/assets/images/choirlogo.jpg' class='img-responsive pull-right'></div>
 
 <p>Less of a choir and more a posh karaoke that sings their hearts out with like-minded, friendly people. We’ve become much more than just a choir — we’ve become a community, a circle of friends brought together by the joy of singing.</p>
 
@@ -55,6 +56,7 @@ It’s a £2 donation and all the money goes to charity.
 </ul>
 
 <a href="mailto:Kelly.stevensbell@gmail.com" class="btn btn-primary">Get in Touch</a>
+
 </div>
 </div><!-- /row -->
 </div>
