@@ -23,10 +23,9 @@ OGimage: /assets/images/OG-Choir.jpg
 		<div class="col-sm-10 col-xs-12 mainPanel">
 			<div class="row"> <!-- row -->
 				<div class="col-xs-12">
-			 		 <h2>Walbottle Choir</h2>
+			 		 <h2>Introducing the Walbottle Village Voices Community Choir!</h2>
 				</div>
 				<div class="col-md-12 col-xs-12">
-					<h1 class="mb-4 text-primary">Introducing the Walbottle Village Voices Community Choir!</h1>
 
 <p>Over three years ago, a small group of just six passionate singers came together to form what is now a thriving and welcoming choir in Walbottle Village. Since then, we've grown into a lively group of around 20 members from across West Newcastle, gathering each week to share our love of music.</p>
 
